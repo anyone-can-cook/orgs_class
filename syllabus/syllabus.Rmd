@@ -1,0 +1,260 @@
+---
+title: "Education 250B: Organizational Analysis of Higher Education"
+subtitle: "Winter 2021"
+author: 
+date: 
+urlcolor: blue
+output: 
+  # pdf_document
+  # word_document:
+  #   toc: no
+  #   toc_depth: '3'
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+    fig_caption: true
+    highlight: tango
+    theme: default
+    df_print: tibble
+
+---
+
+# Course information
+
+```{r echo=FALSE, message=FALSE}
+library(kableExtra)
+library(tidyverse)
+
+t <- c("Class website", "Time", "Class Zoom link")
+l <- c("https://anyone-can-cook.github.io/orgs_class/", "TBD", "TBD")
+
+info <- tibble(t, l)
+
+kable(info,col.names = c("", ""), escape = T) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "responsive"), full_width = T, position = "left")
+```
+
+# Instructor and teaching assistants
+
+## Instructor
+
+**Ozan Jaquette**  
+
+- Pronouns: he/him/his
+- Office: Moore Hall, Room 3038
+- Email: [ozanj@ucla.edu](ozanj@ucla.edu)
+- Office hours:
+  - Zoom office hours: TBD
+  - And by appointment
+  
+# Course description
+
+"Organizations" include the schools and colleges we attend, businesses that create the products we use (and change our lifestyle), the bureaucracies that regulate daily life, the non-profit organizations that exert influence on societal policy, etc.  For good or for ill, organizations dramatically affect our lives.  But we are not helpless victims of organizational actions. As individuals and as collective actors, we can exert influence on the goals and behaviors of organizations. 
+
+In this class, you will be a student of organizational theory with the goal of understanding organizational behavior. Writ large, organizational theory draws from multiple disciplines (e.g., sociology, psychology, economics, political science, and anthropology) and each discipline approaches organizational behavior from a different perspective and with a different focus.
+
+Most courses on organizational theory draw primarily from psychology and/or sociology.  Organizational theories from psychology tend to focus on more "micro" interactions between people, covering topics such as individual decision-making, implicit bias, motivation, trust, etc.  
+
+Organizational theories from sociology tend to have a more "macro" focus, developing theories to address topics such as: how does the prescribed curriculum of a degree program change (or not change); how do donors control the behavior of departments/universities; how do foundations control the higher education policy agenda and how do other actors influence what problems/solutions are deemed "legitimate" by foundations; why did every university suddenly adopt an office of equity/diversity/inclusion.
+
+This course focuses primarily on organizational theories from sociology rather than psychology. Why? Because 10 weeks is not enough time to cover both disciplinary perspectives well. And also because I was trained as a sociologist!
+
+The course is organized around theories rather than topics. For example, we don't spend a week studying "organizational change." Rather, several theories we learn throughout the quarter offer different perspectives on organizational change. 
+
+What is "theory"? A lot of ink has been spilled over this question. Here's a simple, working definition: A theory is an explanation that can be applied to more than one situation.  You will develop a deep understanding of several of the core sociological theories of organizational behavior (e.g., "old" institutionalism, new institutionalism, resource dependence theory).
+
+## Course goals
+
+1. Understand the theory
+    - Gain a deep understanding of the core ideas and concepts from sociological theories of organizational behavior
+2. Understand the strengths and weaknesses of each theory
+    - This goal requires that you fully engage with the theory - it is not acceptable to reject a theory/article because "I didn't like it" or "It does not focus on XYZ"
+    - I want your criticisms of the theory to be deep/substantive criticisms. Deep criticisms only come from deep understanding.
+    - I also want you to think about what is useful and insightful about the theory.
+3. Identify connections and areas of disagreement across theories
+    - Identify common concepts utilized by different theories
+    - Where do two theories disagree with one another?
+    - Theories help you simplify clutter by telling you what to focus on. How does the "focus" of one theory (i.e., which relationships/factors are deemed important) differ from the focus of another theory?
+4. Apply theory to practice
+    - Practice applying theory to current/previous personal experiences as a student or at your job
+    - Practice applying theory to contemporary issues happening at UCLA and in the broader field of education
+5. Begin to apply theory to research
+    - Applying theory to empirical research takes a lot of practice. We'll spend a bit of time identifying potential research topics and experimenting with applying different theories to this topic.
+    - Identify a topic that is (a) important/interesting to you and (b) involves some aspect of organizational behavior. Think about how you could apply different org theories to gain insight about this topic.
+
+# Course readings
+
+All required and optional readings for each week will be listed on the [course website](https://anyone-can-cook.github.io/orgs_class/).
+
+**Required books** (any edition fine)
+
+- Brint, S. G., & Karabel, J. (1989). _The diverted dream: community colleges and the promise of educational opportunity in America, 1900-1985_. New York: Oxford University Press.
+- Pfeffer, J., & Salancik, G. R. (1978). _The external control of organizations: A resource dependence perspective_. New York: Harper & Row.
+
+**Optional books**
+
+- Birnbaum, R. (1991). _How colleges work: The cybernetics of academic organization and leadership_. San Francisco: Jossey-Bass.
+- Bastedo, M. N. (2012). _The organization of higher education: Managing colleges for a new era_. Baltimore: Johns Hopkins University Press.
+- Scott, W. R., & Davis, G. F. (2006). _Organizations and organizing: Rational, natural, and open systems perspectives_. Upper Saddle River, New Jersey: Pearson, Prentice Hall.
+
+## Comment on course readings
+
+This course is reading intensive. There will generally be four or five required readings per week. Typically, this will amount to about 100 pages of required reading each week.
+
+The course is designed for you to understand several of the "core" sociological theories of organizational behavior. Many of these theories were developed decades ago. Contemporary scholarship on organizational theory tends to integrate several theories  -- including theories that fall outside of organizational theory -- to develop a framework that is particularly useful for understanding a specific topic/problem. However, these scholars are capable of integrating multiple theories because they have a deep understanding of each individual theory. 
+
+Scholars of organizational behavior in the field of higher education research tend to focus on using theory to analyze important issues/problems in higher education. Nevertheless, leading scholars of higher education organizational behavior all have a deep understanding of the theories we will learn in this course. I want you to develop this same understanding. This course assumes no prior knowledge of organizational theory. So the course will tend to focus on readings that introduce or utilize a single theoretical perspective, with the idea that once you understand this theoretical perspective you can begin integrating it with other theories. 
+
+Course readings can be categorized as falling into different types (while you are reading, try to be aware of what type of piece you are reading):
+
+- Theoretical pieces
+    - A seminal piece that lays out theory (i.e., the original statement of the theory from the authors of the theory)
+    - A piece that summarizes theory
+- Empirical research (i.e., analyzes data to answer a question)
+    - Empirical research published in sociology or organizational theory journals. Usually, these articles analyze some specific empirical context (e.g., U.S. micro-brewery industry) with the goal of making a theoretical contribution. (Here, the authors don't necessarily care about the empirical context; rather, the empirical context is useful for contributing to theory.)
+    - Empirical research published in education journals. Usually, these articles utilize organizational theory to answer a substantively important question. (Here, the authors care less about contributing to theory and more about using theory to develop insights about an empirical question that is important to education.)
+- A piece (theoretical and/or empirical) that offers an alternative or oppositional perspective to the theory we are focusing on that week
+
+I think it is important to read original theory from the author, so I try to assign "seminal" theory pieces whenever possible. Sometimes the original theory pieces are too long, so I assign a piece that reviews key theory.  
+
+When reading an article that introduces or utilizes theory, your goal here should be to try to understand the basic ideas of the theory. What parts of the theory make sense to you? Make a note of what parts of the theory seem confusing. What parts of the theory seem useful for explaining why/how stuff happens? Where do you disagree with the theory and what important things are the theory missing/ignoring? If you have some spare time (e.g., walking, in the shower), think about how the theoretical concepts can be applied (or not) to issues you care about.
+
+While I require that you fully engage with course readings, you don't have to agree with what the author says. Many of the organizational theories we will read were written more than 30 years ago by white men who did not consider the power associated with their identity. I encourage you to be critical about what these theories are missing or get wrong. I also encourage you to consider what seems useful about these theories. Developing a deep understanding of these foundational organizational theories will prepare you to explain why people using a particular theory are ignoring important aspects of a problem.
+
+# Course structure
+
+Class will begin at 8:30AM and end at 12:00PM. In most weeks we will allocate our time as follows:
+
+- Instructor lectures about core theoretical ideas you read prior to class (~_60 minutes_)
+    - When we are learning a particular theoretical perspective (e.g., resource dependence theory, new institutionalism), my lecture will summarize core ideas of the theory
+    - When helpful, lecture will also devote substantial time to providing historical and/or theoretical context that will help you gain a deeper understanding of the theory we are learning
+    - Earlier in the quarter, lectures will tend to provide broad overview
+- 10 minute break
+- Student-led discussion of one article from required reading (~_50-60 minutes_)
+    - Each week, two students will be responsible for leading discussion (see guidelines/requirements [below](#assignments-and-grading)) on a required article (mostly) of your choosing
+- 10 minute break
+- Discussion/activities (_until the end of class_)
+    - The focus of our time during this last third of class will vary from week to week and will include small-group and class-wide activities
+    - Examples of how we might use this time:
+        - Open discussion about readings we have not yet discussed
+        - Open discussion about concepts that feel confusing or you would like to challenge
+        - Apply theories from class to issues in the news or issues that are important to you
+        - Compare and contrast the theory of the week with theories from previous weeks
+
+## Communication with instructor
+
+**Emails**
+
+- I will try to respond to emails within 24 hours or within 48 hours over the weekend. 
+- Please include the text "EDUC250B" in the subject line. Responding to questions from students is a priority and this will help me avoid missing your email.
+
+**Office Hours**
+
+- Please do not be shy about coming to office hours or scheduling a meeting (e.g., to discuss confusion about a particular theory, to discuss a research topic you are interested in). You are not wasting my time -- meeting with students is a part of my job.
+- Also, I enjoy meeting with students! With that said, I expect that you come prepared with specific questions.
+
+# Assignments and grading
+
+**Class participation and attendance** (15%)
+
+- Because this course is a seminar, class discussion, participation, and attendance are vitally important.
+- Show up to class on time (me too!)
+- Read all required readings prior to class and be prepared to ask questions about areas of confusion.
+- Be engaged in class discussion. This includes participating, as well as listening to and helping your classmates.
+
+**Student-led discussion of one required reading** (20%)
+
+- Each week, a group of (usually) two students will be responsible for leading a discussion around one of the required readings.
+- Students leading the discussion can choose any of the required readings with the following exception: _If my lecture devotes substantial time discussing a particular article, I will ask that you choose a different article._
+- During class on week 2, we will choose groups and sign up for weeks. However, one group of two will need to volunteer to lead the week 2 discussion.
+- Read the separate "[Guidelines for leading class discussion](https://docs.google.com/document/d/1VCCR2ouyhxK4bFvmKcHpbOQGSS-ou9jruilpMoVYZMk/edit?usp=sharing)" document (subject to change at discretion of instructors)
+
+**Mid-quarter essay question** (5%)
+
+- After the week 5 class, I will distribute an essay question. Your response is due before class on week 6.
+- The purpose of this assignment is to help you prepare for the take-home final in two ways:
+    - Gain familiarity with the sort of essay questions I will ask you to answer for the take-home final
+    - Become familiar with my expectations for writing quality (e.g., organization of ideas, prose, etc.)
+
+**Take-home final exam** (60%)
+
+- The take-home final will be distributed after class on week 9 and will be due before class on week 10 (no readings will be assigned that week)
+- The take-home final will assess the following sorts of things:
+    - Demonstrate understanding of core concepts about the theories we learn
+    - Describe important limitations/blind spots of theories we learn
+    - Comparing similarities and differences across theories
+    - Ability to apply different theories to develop insights about a particular issue in higher education
+- We will devote class time in the second half of the quarter (including substantial class time in week 9) to preparing for the take-home final
+- Preparation for the take-home final will prepare you for the DAP exam
+
+## Grading policy
+
+**Attendance**
+
+- Each unexcused absence results in a loss of 2% from your overall grade for the course. Two or more unexcused absence will result in a failing grade for the course. An excused absence is a professional opportunity or religious holy day that you discuss with me beforehand or a medical or family emergency. Excused absences will not result in a loss of attendance points. However, you will be responsible for all material covered in that class.
+- Please show up to class on time.
+
+**Guidelines for written work** (i.e., take-home final)
+
+- Use APA style. Written assignments should have 1 inch margins, double spacing, size 11 or 12 font.
+- Late assignments will lose 10% for the first day late and an additional 10% for each week late. Assignments that are late due to medical or family emergencies will not receive a deduction in points. Contact me as soon as possible. If the reason is legitimate, I will be understanding and accommodating.
+	
+## Grading scale
+
+```{r echo=FALSE, message=FALSE}
+lg <- c("A", "A-", "B+", "B", "B-", "C+", "C", "C-")
+nv <- c("93+%", "90<93%", "87<90%", "83<87%", "80<83%", "77<80%", "73<77%", "70<73%")
+
+grade <- tibble(lg, nv)
+
+kable(grade,col.names = c("Letter Grade", "Percentage"), escape = T) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position = "left")
+```
+
+
+# Course topics and schedule
+
+All required readings are on the [class website](https://anyone-can-cook.github.io/orgs_class/).
+
+- **Week 1**: Introduction and overview
+- **Week 2**: Old institutionalism, part 1
+- **Week 3**: Old institutionalism, part 2 [the diverted dream]
+- **Week 4**: Org culture and queer theory
+- **Week 5**: Power [overt power dynamics]
+    - Mid-quarter essay question distributed after class
+- **Week 6**: Resource dependence theory [overt power dynamics between orgs]
+    - Mid-quarter essay question due before class
+- **Week 7**: New institutionalism
+- **Week 8**: Postmodern perspectives on structure and power
+- **Week 9**: Ambiguity and garbage can decision-making
+    - Final exam distributed after class
+- **Week 10**: Wrap-up
+    - Final exam due before class
+
+# Course policies
+
+As the instructor, I retain the right to revise the course calendar, assignments, and/or other elements of the course design if I believe that such revisions will benefit student learning experiences and outcomes.
+
+## Class conduct
+
+I hope we can all work together to create an environment of empathy and love for one another. Let's help each other learn, and make this a fun class that you look forward to attending each week. 
+
+With respect to the course material, it is important that all students feel comfortable talking about what ideas/concepts they struggled with. This is how we learn. Learning organizational theory can be hard, especially when reading dense articles from sociology or org theory journals (rather than an education journal). I struggled with much of the material when I was first introduced to it, and sometimes I still struggle.  When you ask a question about something you don't understand, this shows courage and encourages other students to ask questions. When your classmates ask questions, please listen respectfully and offer answers that feel supportive rather than disparaging. When using a term/concept that some people in the class might not know, explain terms so that everyone can understand your comment.
+
+This course will devote substantial time to contentious theories and issues (e.g., power dynamics, the role of community colleges in social mobility and stratification). I hope we have lively debates.  When voicing disagreement -- with an author, a classmate, an instructor -- try to focus on disagreement with the idea being presented (e.g., "I have concerns about that idea because...") rather than critiquing the person.
+
+With respect to creating an inclusive environment, be mindful that what you say affects other people. Express your thoughts in a way that does not make people feel excluded and does not make disparaging generalizations about any group.
+
+Let's also create an environment where people don't feel like they are walking on egg shells, worried about saying the "wrong" thing. Everyone makes mistakes. If someone (teacher, student) says something that members of the class find problematic, we can acknowledge what happened, and hold one another accountable. I hope we also foster a "growth mentality" where we forgive mistakes so long as the class member has good intentions and wants to improve, and we can use these mistakes as an opportunity to help one another grow.
+
+## Academic integrity
+
+All students are expected to abide by the UCLA Student Conduct Code. Violations of the academic integrity code will result in a failing grade (0 points) for the particular assignment. If you have any questions regarding the university’s policy on academic integrity, please talk to me or contact the office of the [UCLA Dean of Students](http://www.deanofstudents.ucla.edu/Academic-Integrity).  Ignorance of the academic code is not a legitimate defense for the consequences of an academic integrity violation. 
+
+Given that much of the grade for this course depends on the take-home final, take steps to avoid accidental plagiarism.  Make sure you cite your sources and use quotation marks when you are explicitly copying text from another author.  It can be easy to accidentally plagiarize when you are summarizing the work of another scholar. So when you are taking notes on a paper, make sure to put everything in your own words or put copied text in quotation marks. 
+
+## Student accomodations
+
+Students who have special needs should let me know at the beginning of the quarter so accommodations can be made. Students needing academic accommodations should contact the Center for Accessible Education (CAE) at (310) 825-1501 or in person at Murphy Hall A255. When possible, students should contact the CAE within the first week of the term as reasonable notice is needed to coordinate accommodations. For more information, visit https://www.cae.ucla.edu/. 
