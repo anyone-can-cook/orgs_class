@@ -27,8 +27,8 @@ output:
 library(kableExtra)
 library(tidyverse)
 
-t <- c("Class website", "Time", "Class Zoom link")
-l <- c("https://anyone-can-cook.github.io/orgs_class/", "TBD", "TBD")
+t <- c("Class website", "Day and Time", "Class Zoom link")
+l <- c("https://anyone-can-cook.github.io/orgs_class/", "Wednesdays, 8:30AM - 11:20PM", "TBD")
 
 info <- tibble(t, l)
 
@@ -125,7 +125,7 @@ While I require that you fully engage with course readings, you don't have to ag
 
 # Course structure
 
-Class will begin at 8:30AM and end at 12:00PM. In most weeks we will allocate our time as follows:
+Class will begin at 8:30AM and end at 11:20PM. In most weeks we will allocate our time as follows:
 
 - Instructor lectures about core theoretical ideas you read prior to class (~_60 minutes_)
     - When we are learning a particular theoretical perspective (e.g., resource dependence theory, new institutionalism), my lecture will summarize core ideas of the theory
