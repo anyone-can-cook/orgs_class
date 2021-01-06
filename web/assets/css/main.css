@@ -8,12 +8,12 @@
 */
 
 :root {
-	--color-primary: #756556;
-	--color-secondary: #D2B48C;
-	--color-tertiary: #FFF7EB;
-	--color-title: #B39875;
-	--color-highlight: #FFF8EE;
-	--color-footer: #FFF7EB;
+	--color-primary: #a672af;
+	--color-secondary: #ea89c7;
+	--color-tertiary: #f5e9ed;
+	--color-title: #cc76ad;
+	--color-highlight: #ffceed;
+	--color-footer: #f5e9ed;
 }
 
 html, body, div, span, applet, object,
@@ -3447,12 +3447,14 @@ input, select, textarea {
 
 	/* Custom */
 
-	#testimonials .feature-icons {
+	#communication .feature-icons,
+	#assignments .feature-icons {
 	  margin-bottom: 0;
 	  margin-top: 2em;
 	}
 
-	#testimonials .container > div {
+	#communication .container > div,
+	#assignments .container > div {
 	  margin-left: 1.34em;
 	  padding: 0.5em 1em;
 	  border-left: 2px lightgrey solid;
@@ -3461,7 +3463,8 @@ input, select, textarea {
 	  color: #444;
 	}
 
-	#testimonials .container > div ul {
+	#communication .container > div ul,
+	#assignments .container > div ul {
 	  margin: 1em 1em 0.2em;
 	  list-style-type: circle;
 	}
