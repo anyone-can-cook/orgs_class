@@ -27,8 +27,8 @@ output:
 library(kableExtra)
 library(tidyverse)
 
-t <- c("Class website", "Day and Time", "Class Zoom link")
-l <- c("https://anyone-can-cook.github.io/orgs_class/", "Wednesdays, 8:30AM - 10AM", "https://ucla.zoom.us/j/92479470216?pwd=RnFabUV4bEx2OHBYTm5yZXlNT3I2QT09")
+t <- c("Class website", "Class website password", "Day and Time", "Class Zoom link")
+l <- c("https://anyone-can-cook.github.io/orgs_class/", "coalition", "Wednesdays, 8:30AM - 10AM", "https://ucla.zoom.us/j/92479470216?pwd=RnFabUV4bEx2OHBYTm5yZXlNT3I2QT09")
 
 info <- tibble(t, l)
 
@@ -107,6 +107,8 @@ This course will cover a new topic each week. Class will consist of weekly synch
 
 All course-related material can be found on the [course website](https://anyone-can-cook.github.io/orgs_class/). Pre-recorded lecture videos, lecture slides, and readings will be posted on the class website under the associated section. Weekly course topics can also be found on the class website.
 
+The course website is encrypted to avoid making copyright protected article/chapter PDFs public. The password to decrypt the website is: **coalition**.
+
 ## Questions/discussion about course related content
 
 We will vote on our mode of communication during the first class.
@@ -182,6 +184,7 @@ While I require that you fully engage with course readings, you don't have to ag
 - The goal of these activities is to move beyond simply learning theory to envisioning how these frameworks emerge in higher education as well as other organizational structures. Class activities should complement the course lectures and readings as well as engage other organizational theories that we will be learning throughout the quarter.
 - Students leading the discussion can choose any of the required readings with the following exception: _If my lecture devotes substantial time discussing a particular article, I will ask that you choose a different article._
 - During class on week 2, we will choose groups and sign up for weeks. However, one group of two will need to volunteer to lead the week 2 discussion.
+- Read the separate "[Guidelines for leading class discussion](https://docs.google.com/document/d/1VCCR2ouyhxK4bFvmKcHpbOQGSS-ou9jruilpMoVYZMk/edit?usp=sharing)" document (subject to change at discretion of instructors)
 
 **Mid-quarter three-page essay** (10%)
 
