@@ -1,5 +1,5 @@
 ---
-title: "Lecture 1: rational choice theory and overview of rational/natural/open systems" # potentially push to header
+title: "rational choice theory and overview of rational/natural/open systems" # potentially push to header
 subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
 author: Ozan Jaquette
 date: 
@@ -63,7 +63,7 @@ Today, I want to provide a brief, broad overview of these three broad epochs
 
 - __Goal__: So when we learn specific theories over the next two months, you will have a sense of where they fit in the broader development of org theory
 
-# Rational choice theory
+# Rational choice theory [SKIM/SKIP]
 
 ### Rational choice theory and "rational systems" perspective
 
