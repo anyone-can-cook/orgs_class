@@ -1,5 +1,5 @@
 ---
-title: "rational choice theory and overview of rational/natural/open systems" # potentially push to header
+title: "Overview of rational/natural/open systems (and intro to rational choice theory that you can skip/skim)" # potentially push to header
 subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
 author: Ozan Jaquette
 date: 
