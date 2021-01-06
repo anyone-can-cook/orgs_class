@@ -1288,6 +1288,201 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 </script>
+<style type="text/css">
+.lightable-minimal {
+border-collapse: separate;
+border-spacing: 16px 1px;
+width: 100%;
+margin-bottom: 10px;
+}
+.lightable-minimal td {
+margin-left: 5px;
+margin-right: 5px;
+}
+.lightable-minimal th {
+margin-left: 5px;
+margin-right: 5px;
+}
+.lightable-minimal thead tr:last-child th {
+border-bottom: 2px solid #00000050;
+empty-cells: hide;
+}
+.lightable-minimal tbody tr:first-child td {
+padding-top: 0.5em;
+}
+.lightable-minimal.lightable-hover tbody tr:hover {
+background-color: #f5f5f5;
+}
+.lightable-minimal.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-classic {
+border-top: 0.16em solid #111111;
+width: 100%;
+margin-bottom: 10px;
+margin: 10px 5px;
+}
+.lightable-classic caption {
+color: #222222;
+}
+.lightable-classic td {
+padding-left: 5px;
+padding-right: 5px;
+color: #222222;
+}
+.lightable-classic th {
+padding-left: 5px;
+padding-right: 5px;
+font-weight: normal;
+color: #222222;
+}
+.lightable-classic thead tr:last-child th {
+border-bottom: 0.10em solid #111111;
+}
+.lightable-classic tbody tr:last-child td {
+border-bottom: 0.14em solid #111111;
+}
+.lightable-classic.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-classic.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-classic-2 {
+border-top: 3px double #111111;
+width: 100%;
+margin-bottom: 10px;
+}
+.lightable-classic-2 caption {
+color: #222222;
+}
+.lightable-classic-2 td {
+padding-left: 5px;
+padding-right: 5px;
+color: #222222;
+}
+.lightable-classic-2 th {
+padding-left: 5px;
+padding-right: 5px;
+font-weight: normal;
+color: #222222;
+}
+.lightable-classic-2 tbody tr:last-child td {
+border-bottom: 3px double #111111;
+}
+.lightable-classic-2 thead tr:last-child th {
+border-bottom: 1px solid #111111;
+}
+.lightable-classic-2.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-classic-2.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-material {
+min-width: 100%;
+white-space: nowrap;
+table-layout: fixed;
+font-family: Roboto, sans-serif;
+border: 1px solid #EEE;
+border-collapse: collapse;
+margin-bottom: 10px;
+}
+.lightable-material th {
+height: 56px;
+padding-left: 16px;
+padding-right: 16px;
+}
+.lightable-material td {
+height: 52px;
+padding-left: 16px;
+padding-right: 16px;
+border-top: 1px solid #eeeeee;
+}
+.lightable-material.lightable-hover tbody tr:hover {
+background-color: #f5f5f5;
+}
+.lightable-material.lightable-striped tbody tr:nth-child(even) {
+background-color: #f5f5f5;
+}
+.lightable-material.lightable-striped tbody td {
+border: 0;
+}
+.lightable-material.lightable-striped thead tr:last-child th {
+border-bottom: 1px solid #ddd;
+}
+.lightable-material-dark {
+min-width: 100%;
+white-space: nowrap;
+table-layout: fixed;
+font-family: Roboto, sans-serif;
+border: 1px solid #FFFFFF12;
+border-collapse: collapse;
+margin-bottom: 10px;
+background-color: #363640;
+}
+.lightable-material-dark th {
+height: 56px;
+padding-left: 16px;
+padding-right: 16px;
+color: #FFFFFF60;
+}
+.lightable-material-dark td {
+height: 52px;
+padding-left: 16px;
+padding-right: 16px;
+color: #FFFFFF;
+border-top: 1px solid #FFFFFF12;
+}
+.lightable-material-dark.lightable-hover tbody tr:hover {
+background-color: #FFFFFF12;
+}
+.lightable-material-dark.lightable-striped tbody tr:nth-child(even) {
+background-color: #FFFFFF12;
+}
+.lightable-material-dark.lightable-striped tbody td {
+border: 0;
+}
+.lightable-material-dark.lightable-striped thead tr:last-child th {
+border-bottom: 1px solid #FFFFFF12;
+}
+.lightable-paper {
+width: 100%;
+margin-bottom: 10px;
+color: #444;
+}
+.lightable-paper thead tr:last-child th {
+color: #666;
+vertical-align: bottom;
+border-bottom: 1px solid #00000020;
+line-height: 1.15em;
+padding: 10px 5px;
+}
+.lightable-paper td {
+vertical-align: middle;
+border-bottom: 1px solid #00000010;
+line-height: 1.15em;
+padding: 7px 5px;
+}
+.lightable-paper.lightable-hover tbody tr:hover {
+background-color: #F9EEC1;
+}
+.lightable-paper.lightable-striped tbody tr:nth-child(even) {
+background-color: #00000008;
+}
+.lightable-paper.lightable-striped tbody td {
+border: 0;
+}
+</style>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+      </style>
 
 
 
@@ -1585,15 +1780,18 @@ Class Zoom link
 </div>
 <div id="course-description" class="section level1">
 <h1><span class="header-section-number">3</span> Course description</h1>
-<p>“Organizations” include the schools and colleges we attend, businesses that create the products we use (and change our lifestyle), the bureaucracies that regulate daily life, the non-profit organizations that exert influence on societal policy, etc. For good or for ill, organizations dramatically affect our lives. But we are not helpless victims of organizational actions. As individuals and as collective actors, we can exert influence on the goals and behaviors of organizations.</p>
+<p>“Organizations” include the schools and colleges we attend, businesses that create the products we use (and change our lifestyle), the bureaucracies that regulate daily life, the non-profit organizations that exert influence on societal policy, etc. For good or for ill, organizations dramatically affect our lives. But we are not helpless victims of organizational actions. Sometimes as individuals and as more often as collective actors, we can exert influence over what organizations do</p>
 <p>In this class, you will be a student of organizational theory with the goal of understanding organizational behavior. Writ large, organizational theory draws from multiple disciplines (e.g., sociology, psychology, economics, political science, and anthropology) and each discipline approaches organizational behavior from a different perspective and with a different focus.</p>
 <p>Most courses on organizational theory draw primarily from psychology and/or sociology. Organizational theories from psychology tend to focus on more “micro” interactions between people, covering topics such as individual decision-making, implicit bias, motivation, trust, etc.</p>
-<p>Organizational theories from sociology tend to have a more “macro” focus, developing theories to address topics such as: how does the prescribed curriculum of a degree program change (or not change); how do donors control the behavior of departments/universities; how do foundations control the higher education policy agenda and how do other actors influence what problems/solutions are deemed “legitimate” by foundations; why did every university suddenly adopt an office of equity/diversity/inclusion.</p>
+<p>Organizational theories from sociology tend to have a more “macro” focus, developing theories to address topics such as: how does the prescribed curriculum of a degree program change (or not change); how do donors control the behavior of departments/universities; how do foundations control the higher education policy agenda and how do other actors influence what problems/solutions are deemed “legitimate” by foundations.</p>
 <p>This course focuses primarily on organizational theories from sociology rather than psychology. Why? Because 10 weeks is not enough time to cover both disciplinary perspectives well. And also because I was trained as a sociologist!</p>
 <p>The course is organized around theories rather than topics. For example, we don’t spend a week studying “organizational change.” Rather, several theories we learn throughout the quarter offer different perspectives on organizational change.</p>
+<div id="what-is-theory" class="section level2">
+<h2><span class="header-section-number">3.1</span> What is theory?</h2>
 <p>What is “theory”? A lot of ink has been spilled over this question. Here’s a simple, working definition: A theory is an explanation that can be applied to more than one situation. You will develop a deep understanding of several of the core sociological theories of organizational behavior (e.g., “old” institutionalism, new institutionalism, resource dependence theory).</p>
+</div>
 <div id="course-goals" class="section level2">
-<h2><span class="header-section-number">3.1</span> Course goals</h2>
+<h2><span class="header-section-number">3.2</span> Course goals</h2>
 <ol style="list-style-type: decimal">
 <li>Understand the theory
 <ul>
@@ -1601,7 +1799,7 @@ Class Zoom link
 </ul></li>
 <li>Understand the strengths and weaknesses of each theory
 <ul>
-<li>This goal requires that you fully engage with the theory - it is not acceptable to reject a theory/article because “I didn’t like it” or “It does not focus on XYZ”</li>
+<li>This goal requires that you fully engage with the theory - it is not acceptable to reject a theory/article because “I didn’t like it” or “It does not focus on X”</li>
 <li>I want your criticisms of the theory to be deep/substantive criticisms. Deep criticisms only come from deep understanding.</li>
 <li>I also want you to think about what is useful and insightful about the theory.</li>
 </ul></li>
@@ -1616,21 +1814,28 @@ Class Zoom link
 <li>Practice applying theory to current/previous personal experiences as a student or at your job</li>
 <li>Practice applying theory to contemporary issues happening at UCLA and in the broader field of education</li>
 </ul></li>
-<li>Begin to apply theory to research
-<ul>
-<li>Applying theory to empirical research takes a lot of practice. We’ll spend a bit of time identifying potential research topics and experimenting with applying different theories to this topic.</li>
-<li>Identify a topic that is (a) important/interesting to you and (b) involves some aspect of organizational behavior. Think about how you could apply different org theories to gain insight about this topic.</li>
-</ul></li>
+<li>Begin to apply theory to research</li>
 </ol>
 </div>
 </div>
 <div id="course-structure" class="section level1">
 <h1><span class="header-section-number">4</span> Course structure</h1>
-<p>This course will cover a new topic each week. Class will consist of weekly synchronous lectures on Wednesdays from 8:30AM to 10AM and an asynchronous component to be completed before the live class.</p>
+<p>The course will generally focus on a particular theoretical perspective each week. Class will consist of weekly synchronous lectures on Wednesdays from 8:30AM to 10AM and an asynchronous component to be completed before the live class.</p>
 <ol style="list-style-type: decimal">
 <li><strong>Asynchronous lectures materials and reading</strong>. Weekly lecture slides and associated pre-recorded lecture videos (hopefully 60 minutes or less) will be posted on the <a href="https://anyone-can-cook.github.io/orgs_class/">course website</a>, along with the required and encouraged readings for the week. Students are expected to work through the lecture material and complete the readings in advance of our weekly synchronous class meeting. Lectures are designed to provide context to help you understand the required readings better and/or will discuss main ideas from the required readings.</li>
 <li><strong>Synchronous class session</strong>. We will have one synchronous class meeting per week on Wednesdays from 8:30AM to 10AM. What we do during this 90-minute period will vary week to week, but generally there will be a student-led activity/discussion around the topic of the week followed by time for Q&amp;A about the reading and lecture.</li>
 </ol>
+<div id="using-cases-to-compare-theories" class="section level2">
+<h2><span class="header-section-number">4.1</span> Using cases to compare theories</h2>
+<p>Over the coming weeks, we will introduce three “cases” that we will use to compare one theory to another. These cases will be the focus of essay questions in your two written assessments during the quarter.</p>
+<p>Of particular interest, most of the dominant theoretical perspectives on the sociology of organizations were written by white men and often assuming heterosexual white male actors. How well do these theories perform when the protagonist does not fit this description? Can we get a better understanding of our cases by applying critical race-forward or gender-forward theoretical perspectives? Can very different theoretical perspectives by integrated to complement their respective strengths? These are the sorts of questions we will ponder as we apply theory to our three cases.</p>
+<p>The three cases are associated with these three pieces of scholarship:</p>
+<ul>
+<li>Hevel, M. S. (2017). <em>Toward a history of LGBT student organizations’ struggle-for-recognition lawsuits: The exemplar of GLSA v. Gohn.</em></li>
+<li>Cole, E. R. (2020). <em>The campus color line: College presidents and the struggle for Black freedom</em>. Princeton, New Jersey: Princeton University Press.</li>
+<li>Taylor, K.-Y. (2017). <em>How we get free: Black feminism and the Combahee River Collective</em>. Chicago, Illinois: Haymarket Books.</li>
+</ul>
+</div>
 </div>
 <div id="communication-and-course-website" class="section level1">
 <h1><span class="header-section-number">5</span> Communication and course website</h1>
@@ -1651,15 +1856,11 @@ Class Zoom link
 <div id="classroom-environment" class="section level1">
 <h1><span class="header-section-number">6</span> Classroom environment</h1>
 <p>We all have a responsibility to ensure that every member of the class feels valued and safe. Be mindful that our words and body language affects others in ways we might not fully understand. We have a responsibility to express our ideas in a way that doesn’t make disparaging generalizations and doesn’t make people feel excluded. As an instructor, I am responsible for setting an example through my own conduct.</p>
-<p>Learning data management, while trying to get a handle on R and unfamiliar data, can feel overwhelming! We must create an environment where students feel comfortable asking questions and talking about what they did not understand. Discomfort is part of the learning process. Unburden yourself from the weight of being an “expert.” Focus your energy on improving and helping your classmates improve.</p>
-<div id="towards-an-anti-racist-anti-heteronormative-learning-experience" class="section level2">
-<h2><span class="header-section-number">6.1</span> Towards an anti-racist, anti-heteronormative learning experience</h2>
-<p>This course teaches data management and R programming, tools that are often perceived as objective, independent of context and content. We must acknowledge that racism, white supremacy, and heteronormative ideas of gender identity and sexual orientation are rooted in every aspect of data. These seemingly objective rules (e.g., “the right way to handle data”) affect the way data are gathered, how variables are created, the questions asked (or not asked), etc.</p>
-<p>In this course we will utilize data that reflect systemic gaps based on race, ethnicity, immigration status, and gender identity, among other aspects of identity. It is critical to acknowledge that the processes used to create these data (e.g., how data collected, the categories chosen to represent identity) are often based on notions of white supremacy and heteronormativity. When you encounter a data management strategy that may cause harm, we encourage you to raise concerns. It may be that your instructor/TAs may need to think more critically about strategies they have been using for a long time! It is also critical that we acknowledge that the social and economic marginalization reflected in data is rooted in systemic oppression that upholds white supremacy and heteronormativity. We should all be reflecting about our own role in upholding these systems.</p>
-</div>
+<p>Learning organizational theory can be hard, especially when reading dense articles from sociology or org theory journals. I struggled with much of the material when I was first introduced to it, and sometimes I still struggle. It is important for all of us to help create an environment where students feel safe asking questions about what ideas/concepts they struggled with. This is how we learn.</p>
 </div>
 <div id="course-readings" class="section level1">
 <h1><span class="header-section-number">7</span> Course readings</h1>
+<p>This course is reading intensive. There will generally be three or four – often dense – required readings per week. Typically, this will amount to about 80 - 100 pages of required reading each week.</p>
 <p>All required and optional readings for each week will be listed on the <a href="https://anyone-can-cook.github.io/orgs_class/">course website</a>.</p>
 <p><strong>Required books</strong> (any edition fine)</p>
 <ul>
@@ -1672,29 +1873,6 @@ Class Zoom link
 <li>Birnbaum, R. (1991). <em>How colleges work: The cybernetics of academic organization and leadership</em>. San Francisco: Jossey-Bass.</li>
 <li>Scott, W. R., &amp; Davis, G. F. (2006). <em>Organizations and organizing: Rational, natural, and open systems perspectives</em>. Upper Saddle River, New Jersey: Pearson, Prentice Hall.</li>
 </ul>
-<div id="comment-on-course-readings" class="section level2">
-<h2><span class="header-section-number">7.1</span> Comment on course readings</h2>
-<p>This course is reading intensive. There will generally be four or five required readings per week. Typically, this will amount to about 100 pages of required reading each week.</p>
-<p>The course is designed for you to understand several of the “core” sociological theories of organizational behavior. Many of these theories were developed decades ago. Contemporary scholarship on organizational theory tends to integrate several theories – including theories that fall outside of organizational theory – to develop a framework that is particularly useful for understanding a specific topic/problem. However, these scholars are capable of integrating multiple theories because they have a deep understanding of each individual theory.</p>
-<p>Scholars of organizational behavior in the field of higher education research tend to focus on using theory to analyze important issues/problems in higher education. Nevertheless, leading scholars of higher education organizational behavior all have a deep understanding of the theories we will learn in this course. I want you to develop this same understanding. This course assumes no prior knowledge of organizational theory. So the course will tend to focus on readings that introduce or utilize a single theoretical perspective, with the idea that once you understand this theoretical perspective you can begin integrating it with other theories.</p>
-<p>Course readings can be categorized as falling into different types (while you are reading, try to be aware of what type of piece you are reading):</p>
-<ul>
-<li>Theoretical pieces
-<ul>
-<li>A seminal piece that lays out theory (i.e., the original statement of the theory from the authors of the theory)</li>
-<li>A piece that summarizes theory</li>
-</ul></li>
-<li>Empirical research (i.e., analyzes data to answer a question)
-<ul>
-<li>Empirical research published in sociology or organizational theory journals. Usually, these articles analyze some specific empirical context (e.g., U.S. micro-brewery industry) with the goal of making a theoretical contribution. (Here, the authors don’t necessarily care about the empirical context; rather, the empirical context is useful for contributing to theory.)</li>
-<li>Empirical research published in education journals. Usually, these articles utilize organizational theory to answer a substantively important question. (Here, the authors care less about contributing to theory and more about using theory to develop insights about an empirical question that is important to education.)</li>
-</ul></li>
-<li>A piece (theoretical and/or empirical) that offers an alternative or oppositional perspective to the theory we are focusing on that week</li>
-</ul>
-<p>I think it is important to read original theory from the author, so I try to assign “seminal” theory pieces whenever possible. Sometimes the original theory pieces are too long, so I assign a piece that reviews key theory.</p>
-<p>When reading an article that introduces or utilizes theory, your goal here should be to try to understand the basic ideas of the theory. What parts of the theory make sense to you? Make a note of what parts of the theory seem confusing. What parts of the theory seem useful for explaining why/how stuff happens? Where do you disagree with the theory and what important things are the theory missing/ignoring? If you have some spare time (e.g., walking, in the shower), think about how the theoretical concepts can be applied (or not) to issues you care about.</p>
-<p>While I require that you fully engage with course readings, you don’t have to agree with what the author says. Many of the organizational theories we will read were written more than 30 years ago by white men who did not consider the power associated with their identity. I encourage you to be critical about what these theories are missing or get wrong. I also encourage you to consider what seems useful about these theories. Developing a deep understanding of these foundational organizational theories will prepare you to explain why people using a particular theory are ignoring important aspects of a problem.</p>
-</div>
 </div>
 <div id="assignments-and-grading" class="section level1">
 <h1><span class="header-section-number">8</span> Assignments and grading</h1>
@@ -1705,13 +1883,12 @@ Class Zoom link
 <li>Read all required readings prior to class and be prepared to ask questions about areas of confusion.</li>
 <li>Be engaged in class discussion. This includes participating, as well as listening to and helping your classmates.</li>
 </ul>
-<p><strong>Student-led discussion of one required reading</strong> (15%)</p>
+<p><strong>Student-led activity for theory application</strong> (15%)</p>
 <ul>
 <li>Each week, a group of (usually) two students will be responsible for leading a 30-45 minute in-class activity that allows the class to apply the theory from the week’s readings to real-world scenarios.</li>
-<li>The goal of these activities is to move beyond simply learning theory to envisioning how these frameworks emerge in higher education as well as other organizational structures. Class activities should complement the course lectures and readings as well as engage other organizational theories that we will be learning throughout the quarter.</li>
-<li>Students leading the discussion can choose any of the required readings with the following exception: <em>If my lecture devotes substantial time discussing a particular article, I will ask that you choose a different article.</em></li>
-<li>During class on week 2, we will choose groups and sign up for weeks. However, one group of two will need to volunteer to lead the week 2 discussion.</li>
-<li>Read the separate “<a href="https://docs.google.com/document/d/1VCCR2ouyhxK4bFvmKcHpbOQGSS-ou9jruilpMoVYZMk/edit?usp=sharing">Guidelines for leading class discussion</a>” document (subject to change at discretion of instructors)</li>
+<li>The goal of these activities is to move beyond simply learning theory to envisioning how these frameworks emerge in higher education as well as other organizational structures.</li>
+<li>Class activities should complement the course lectures and readings as well as engage other organizational theories that we will be learning throughout the quarter.</li>
+<li><a href="https://docs.google.com/document/d/1VCCR2ouyhxK4bFvmKcHpbOQGSS-ou9jruilpMoVYZMk/edit?usp=sharing">Guidelines for leading class discussion</a>&quot; document (subject to change at discretion of instructors)</li>
 </ul>
 <p><strong>Mid-quarter three-page essay</strong> (10%)</p>
 <ul>
@@ -1742,11 +1919,13 @@ Class Zoom link
 <li>Each unexcused absence results in a loss of 2% from your overall grade for the course. Two or more unexcused absence will result in a failing grade for the course. An excused absence is a professional opportunity or religious holy day that you discuss with me beforehand or a medical or family emergency. Excused absences will not result in a loss of attendance points. However, you will be responsible for all material covered in that class.</li>
 <li>Please show up to class on time.</li>
 </ul>
-<p><strong>Guidelines for written work</strong> (i.e., take-home final)</p>
+<p><strong>Guidelines for written work</strong></p>
 <ul>
 <li>Use APA style. Written assignments should have 1 inch margins, double spacing, size 11 or 12 font.</li>
 <li>Late assignments will lose 10% for the first day late and an additional 10% for each week late. Assignments that are late due to medical or family emergencies will not receive a deduction in points. Contact me as soon as possible. If the reason is legitimate, I will be understanding and accommodating.</li>
 </ul>
+<p><strong>Learning during a pandemic</strong></p>
+<p>With the ongoing spread of the COVID-19 pandemic, we understand that right now is a challenging and precarious time for everybody. Many of us may be experiencing added stress or responsibilities that make learning and completing classwork difficult. If you are having trouble keeping up with the class, please reach out to the teaching team and we will help work out a plan with you. We want to be accommodating to everyone’s unique situation and we hope to avoid any deductions to your grade.</p>
 </div>
 <div id="grading-scale" class="section level2">
 <h2><span class="header-section-number">8.2</span> Grading scale</h2>
