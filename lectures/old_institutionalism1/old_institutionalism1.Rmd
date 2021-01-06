@@ -1,0 +1,612 @@
+---
+title: "Old institutionalism, part I" # potentially push to header
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 8pt
+urlcolor: blue
+output:
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Old institutionalism, lecture overview
+
+\tableofcontents
+
+\bigskip
+
+PLEASE EXCUSE TYPOS!
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+# Norms and institutions
+
+### Norms
+
+
+- Working definition, of norms from Birnbaum chap 4: 
+    - norms are shared "expectations about what people are supposed to do in given situations" (p.97)
+    
+\vspace{0.3cm}
+
+- Birnbaum focuses on organizational norms (norms developed within particular org), but norms can be at field-level (e.g., field of higher education research) and societal level too
+    - e.g., norms about desirability of marriage; who can marry who; what language appropriate/inappropriate; what research topics are "legitimate"
+
+\vspace{0.3cm}
+
+- Upholding norms requires maintenance/work; norms are constantly changing, being challenged
+
+\vspace{0.3cm}
+
+- Norms can be weak/strong
+    - strong norms: shared by everyone in group and deviance from prescribed behavior results in negative consequences
+    
+\vspace{0.3cm}    
+- Organizations with strong norms
+    - Agreed-upon ideas about acceptable behaviors for members in org; acceptance rewarded, deviation punished
+
+### Institutions (and "old" vs "new")
+
+The concept "institution" has some similarities with the concept "norms"
+
+\medskip
+norms
+
+- shared "expectations about what people are supposed to do in given situations" (Birnbaum, p.97)
+
+Institution: 
+
+- taken for granted idea about appropriate practice (e.g., faculty should wear robes at graduation)
+
+"Old" [this week] vs. "new" [future week] institutionalism in or theory
+
+- "old" focuses on specific organizations and the local external environment surrounding the org
+- "new" focuses on populations of organizations and the macro external forces 
+
+Definition of institution in "old" institutionalism
+
+- idea/practice at the organization-level or org sub-level that becomes widely accepted to the point of being "taken for granted" as appropriate  (e.g., HEOC's prescribed PhD curriculum and HEOC's "comprehensive exam" process)
+
+Definition of institution in "new" institutionalism
+
+- an idea/practices that gets taken-for-granted for population of orgs within a field 
+- e.g., Universities should have a "provost"; universities should offer a BA in history; which research topics are "important" in a particular field
+
+### Institutionalization
+
+Definition:
+
+- the process by which an idea/practice becomes taken for granted as legitimate/appropriate; 
+- said different, the process/interactions by which an institution emerges
+
+\medskip
+In "old" institutionalism
+
+- Institutionalization happens at the org-level (e.g., process by which Harvard came to consider "character"/extra-curricular activities as legitimate admissions criteria)
+
+\medskip    
+In "new" institutionalism
+
+- Institutionalization happens at the "feld-level" (e.g., macro-level, societal level)
+- e.g., process by which having a "career center" became a taken-for-granted practice that all universities must abide by
+- e.g., process by which adopting terminal vocational credentials became a taken-for-granted practice that all community colleges adhered to
+
+
+# Overview of old institutionalism
+
+### Overview of old institutionalism
+
+"Old" institutionalism is an approach to analyzing organizational behavior that:
+
+- focus on individual organizations as opposed to populations of organizations (e.g., all liberal arts colleges)
+-  focuses on dynamics occurring inside the organization (e.g., power dynamics, org structure, individual actors) and on interplay between the org and the "local" external environment (e.g., local businesses, local govt.)
+
+\medskip
+
+Broadly speaking, old institutionalism focuses on how/what organizational behavior changes or does not change by investigating the internal/external dynamics that influence what the organization does
+
+\medskip
+
+"prescriptive" org theory
+
+- Organization A has power over organization B if org A controls resources required by B and cannot be found elsewhere; org B responds to this power assymetry by seeking a substitute/alternative resource
+
+\medskip
+Old institutionalism is less "prescriptive" than other org theories
+
+- tells you broadly what sort of actors, actions, power dynamics to watch out for
+- org response unscripted, contingent; rather, press play and observe how things unfold
+
+
+### Authors associated with old institutionalism
+
+- Max Weber [@RN1133; @RN1081]
+- Phillip Selznick [@RN1613; @RN2464]
+- Burton Clark [@RN2401; @RN549; @RN537]
+- Jerome Karabel and Steven Brint [@RN3544; @RN3547; @RN869]
+- Scholars of professions that utilize a "conflict" approach [e.g., @RN880; @RN865]
+
+\medskip 
+
+Not much talk about "old" institutionalism until 1990s, when "new" institutionalism became very popular, leading to revival and restatement:
+
+- Revival [@RN2406]
+- Restatement, integration with "new" institutionalism [@RN2432; @RN524]
+
+
+# Weberian "status group" competition/conflict approach
+
+### Max Weber, German sociologist (1864 - 1920)
+
+**I LOVE MAX WEBER!!!**
+
+[Wikipedia says](https://en.wikipedia.org/wiki/Max_Weber): 
+
+- "Weber is often cited, with Émile Durkheim and Karl Marx, as among the three founders of sociology"
+- "Weber's main intellectual concern was understanding the processes of rationalisation, secularisation, and "disenchantment", which he associated with the rise of capitalism and modernity"
+\vspace{0.3cm}
+
+[**The Protestant Ethic and the Spirit of Capitalism**](https://en.wikipedia.org/wiki/The_Protestant_Ethic_and_the_Spirit_of_Capitalism)
+
+- "Proposed that ascetic Protestantism (e.g., promoting delayed satisfaction) was...associated with the rise in the Western world of market-driven capitalism and the rational-legal nation-state. 
+- "It was in the basic tenets of Protestantism to boost capitalism. Thus, it can be said that the spirit of capitalism is inherent to Protestant religious values"
+
+\vspace{0.3cm}
+
+[**Politics as a Vocation**](https://en.wikipedia.org/wiki/Politics_as_a_Vocation)
+
+- Defined "the state" as an entity that successfully claims a "monopoly of the legitimate use of physical force within a given territory." 
+
+### Rationalisation and authority
+
+**Rationalisation** (Weber was a romantic) 
+
+- "By rationalisation, Weber understood first, the individual cost-benefit calculation, second, the wider bureaucratic organisation of the organisations 
+- "and finally, in the more general sense [of rationalisation] as the opposite of understanding the reality through mystery and magic (disenchantment)"
+- Weber wrote: "The fate of our times is characterised by rationalisation and intellectualisation and, above all, by the disenchantment of the world".[77]"
+
+\vspace{0.3cm}
+**Classification of "legitimate authority" into three types**:
+
+- **traditional authority** a "form of leadership in which the authority of an organization or a ruling regime is largely tied to tradition or custom"
+- **charasmatic authority** a form of leadership "in which authority derives from the charisma [i.e., talent] of the leader"
+- **rational-legal authority** a "form of leadership in which the authority of an organization or a ruling regime is largely tied to legal rationality, legal legitimacy and bureaucracy (i.e., system of administration)"
+    - Dominant system of authority in "modern world"
+    
+### Max Weber on bureaucracy
+
+Bureaucracy as the organizational manifestation of the "rational-legal" model
+
+- "His analysis of bureaucracy emphasised that modern state institutions are increasingly based on rational-legal authority."
+- "Max Weber's bureaucratic theory or model is sometimes also known as the "rational-legal" model. The model tries to explain bureaucracy from a rational point of view"
+
+
+\vspace{0.3cm}
+
+Ideal-type bureaucracy characterized by:
+
+- hierarchical organization
+- formal lines of authority (chain of command)
+- a fixed area of activity (scope of job tasks)
+- rigid division of labor
+- regular and continuous execution of assigned tasks
+- all decisions and powers specified and restricted by regulations
+- officials with expert training in their fields
+- career advancement dependent on technical qualifications
+- qualifications evaluated by organizational rules, not individuals
+
+\vspace{0.3cm}
+
+Sounds like the University of California (UC) tenure process!
+
+### Weber on "status groups"
+
+Weber interested in conflict between "status groups" over how resources/property should be allocated
+
+- In the context of modernization, Weber interested in creation of "rational," "universalistic" bureaucracies, which claimed to be impartial
+- Interested in processes by which dominant groups tried to create "universalistic" bureaucracies that benefited members of the group; 
+- Also interested in conflict with competing "status groups" also vying for access to resources
+
+\vspace{0.3cm}
+
+"Status groups," as defined by @RN3547, p. 3
+
+- "Associational communities comprised of all who share a sense of status equality based on participation in a common culture. The basis of membership in such status groups, Weber maintains, may be any 'externally identifiable characteristic' racial, linguistic, religious, social - that may serve 'as a pretext for attempting...exclusion'"
+- Example: New England Protestant business class
+
+### Weber on "social closure"
+
+__"Social closure"__
+
+- process by which a status group seeks to maximize resources by resticting access to resources to a limited group of people
+- __"Exclusionary closure"__: attempt by one group (usually, dominant group) to secure privileged position 
+- __"Usurpationary closure"__: attempt by one group[usually an excluded one] to secure more opportunities
+
+Two strategies of "exclusionary closure"
+
+1. Strategies involving access to property (e.g., land, inheritance)
+1. strategies surrounding academic qualifications and credentials
+
+### Weber, orgs as sites for competition between status groups
+
+Competition/conflict between status groups
+
+- "status groups" in competition to gain privileged access to resources
+- In modern society, access to resources no longer determined by brute force; rather, organizations and bureaucracies grant access to resources (e.g., Universities award degrees)
+    - Status groups compete for resources by attempting to change which criteria are deemed "meritorious" with respect to gaining access to organizations
+    
+Organizations as sites of contestation between status groups in external and internal environment
+
+- Organizations confer access to resources
+- Status groups (that are external actors to the org) try to make access to the org depend on criteria that benefit particular statust group (e.g., applicants must demonstrate "character")
+- External resource perspective
+    - Orgs have incentive to privilege criteria that benefit status groups that control external resources the org needs for survival (e.g,. tuition revenue, donations)
+- Leaders of the org are often themselves members of particular status group (often the dominant status group)
+    - Often biased towards privileging criteria desired by their status group (independent of external resource considerations)
+
+### Fun quotes from Weber
+
+On academia, from essay *Science as a Vocation* [@RN1134] [published in 1918]
+
+\vspace{0.3cm}
+
+> "The predominance of mediocrity is rather due to the laws of human co-operation, especially of the co-operation of several bodies, and, in this case, co-operation of the faculties who recommend and of the ministries of education
+
+\vspace{0.3cm}
+
+>  If the young scholar asks for my advice with regard to habilitation, the responsibility of encouraging him can hardly be borne. If he is a Jew, of course one says, give up any hope. But one must ask every other man: Do you in all conscience believe that you can stand seeing mediocrity after mediocrity, year after year, climb beyond you, without becoming embittered and without coming to grief? Naturally, one always receives the answer: 'Of course, I live only for my "calling."' Yet, I have found that only a few persons could endure this situation without coming to grief."
+
+### Fun quotes from Weber
+
+On education credentials and opportunity, from essay *Bureaucracy* [@RN1297]
+
+\vspace{0.3cm}
+
+> "The development of the diploma from universities...and the universal clamor for the creation of educational certificates in all fields make for the formation of a privileged stratum in bureaus and in offices. Such certificates support their holders’ claims for intermarriages with notable families (in business offices people naturally hope for preferment with regard to the chief’s daughter), claims to be admitted into the circles that adhere to ‘codes of honor,’ claims for a ‘respectable’ remuneration rather than remuneration for work done, claims for assured advancement and old-age insurance, and, above all, claims to monopolize socially and economically advantageous positions.
+
+\vspace{0.3cm}
+
+> When we hear from all sides the demand for an introduction of regular curricula and special examinations, the reason behind it is, of course, not a suddenly awakened ‘thirst for education’ but the desire for restricting the supply for these positions and their monopolization by the owners of educational certificates. 
+
+\vspace{0.3cm}
+
+> Today, the ‘examination’ is the universal means of this monopolization, and therefore examinations irresistibly advance. As the education prerequisite to the acquisition of the educational certificate requires considerable expense and a period of waiting for full remuneration, this striving means a setback for talent (charisma) in favor of property. For the ‘intellectual’ costs of educational certificates are always low, and with the increasing volume of such certificates, their intellectual costs do not increase, but rather decrease.” 
+
+### Exemplar empirical examples of Weberian old institutionalism
+
+Karabel, J. (1984). Status-group struggle, organizational interests, and the limits of institutional autonomy: The transformation of Harvard, Yale, and Princeton, 1918-1940. _Theory and Society_, 13(1), 1-40
+
+- How elite Protestant business community and Protestant Ivy League university administrators (both part of the same Weberian "status group") sought to change admissions standards with the goal of reducing Jewish enrollment
+- Tinkering with admissions process/criteria  
+  - Admissions determined by score on entrance exam; growth over time in Jewish enrollment that alarmed Protestant elites
+  - First, attemped to set quotas on number of Jewish students, but this form of discrimination was too overt and resulted in lots of criticism
+  - Second, developed "character" admissions criteria, where character was defined as activities/traits of Protestant elite that would be difficult for Jewish students to obtain
+
+
+\bigskip
+
+Hirsch, P. M. (1986). From ambushes to golden parachutes: corporate takeovers as an instance of cultural framing and institutional integration. _American Journal of Sociology_, 91(4), 800-837. 
+
+- How Jewish bankers developed the innovation of the hostile corporate takeover as a response to being excluded by Protestant dominated banking industry
+- Protestant banking industry initially viewed hostile takeover as a deviant activity (in part because they associated it with Jewish bankers)
+- Eventually, Protestabt banking industry embraced the hostile takeover once they realized it was very profitable
+  
+# Selznick's old institutionalism
+
+### Selznick overview
+
+This discussion of Selznick based on primarily on @RN2406
+
+\medskip 
+
+Phillip Selznick (1919 - 2010) was a believer
+
+- believed that organizations play pivotal role in promoting values important for society (e.g., education, freedom, creativity, science)
+
+\medskip 
+
+"The problem" according to Selznick
+
+- Believed that [non-profit] organizations were created to promote certain values (e.g., universities created to promote social mobility, civic education necessary for functioning democracy)
+- But forces that swirling around these orgs could compel the org to start pursuing different goals
+    - orgs fall victim to "goal displacement" and fail to live up to their original purpose
+- So his research program focused on identifying "factors that tended to make organizational values either precarious (and thus subject to attenuation and displacement), or else secure (and therefore capable of being sustained over time)" [@RN2406, p. 1521]
+
+### Selznick, core premise 1
+
+__Two core premises of Selznick, leading to a paradox__
+
+CORE PREMISE 1: 
+
+- For an org to promote the values it was created to serve, the internal workings of the org must reflect/embody these values
+
+What it takes for internal dynamics of the org to uphold stated org mission
+
+- Requires constant maintenance to make sure that other goals/interest do not displace original purpose
+- Long-time organizational leaders important as "guardians" of org values
+    - need to be granted sufficient power/autonomy in order to "defend the values entrusted to them" [@RN2464, p. 94]
+- Related, administrative structure (e.g., org chart of offices) and org systems (e.g., system to determine admissions) must be oriented to broad goals of the org and must grant decision-making power to actors commited to values of the org
+- Selective hiring of employees committed to org mission; socialization of new employees to org values
+
+### Selznick, core premise 2
+
+CORE PREMISE 2: 
+
+- Orgs are not merely embodiments of stated purpose, they are __operative systems__ that follow their own rationality; as operative systems, orgs develop systems to solve recurring problems (e.g., how to develop and market online courses)
+
+What is meant by "operative systems"?
+
+- bureaucratic entities with routines, systems, and "mundane" administrative arrangements (e.g., create office of public relations) created to tend to issues that demand attention 
+- "Operative systems" often follow their own technical rationality that is often distinct/separate from the broad goals of the org
+
+Success for the "operative system" typically defined in terms like:
+
+- org survival and stability; efficiency; revenue generation; profit; market share; org prestige
+
+### Selznick, Paradox between core premise 1 and 2
+
+\medskip
+
+__PARADOX__: What is good for organizational success (e.g., revenues, efficiency) of the operative system does not necessarily serve the standards or ideals that the institution is supposed to uphold. 
+
+- Organizations created to uphold certain values, but upholding those values depends on internal workings of the org -- i.e., the "operative system" -- being oriented towards those values
+- Problem is the behaviors/changes that are good for operative system do not necessarily serve broader org goals
+- Changes adopted to make operative system more successful may displace broader org values
+- Selznick particularly concerned with changes in "congenial though often mundane administrative arrangements" (e.g., administrative re-organization). Changes can:
+    - Displace/diminish longtime actors who were "guardians" of org values
+    - Elevate power of actors committed to different goals (e.g., revenue, prestige)
+- When such changes occur, "values that had been effectively “built into” the social structure of an organization are at risk of being removed" [@RN2406, p. 1524]
+
+```{r, eval=FALSE, echo=FALSE}
+Therefore institutional values are at rist to the extent that short-run imperitatives dominate decision-making.
+-quote from Selznick, 1992 p. 244: "  "Institutions embody values, but they can do so only as operative systems or going concerns. The trouble is that what is good for the operative system does not necessarily serve the standards or ideals that the institution is supposed to uphold. Therefore institutional values are always at risk. Insofar as organizational technological and short-run imperatives dominate decision-making, goals and standards are vulnerable. They are subject to displacement, attenuation, and corruption. (Selznick, 1992: 244)"
+
+```
+
+\medskip
+
+__SHORTER VERSION OF PARADOX__:
+
+- Selznick does not believe "The ends justify the means"; rather, he believes the means you adopt will alter the ends you seek
+
+### "Enrollment management" as example of "seemingly mundane administrative arrangement" that displaces org values
+
+From @RN2406:
+
+- What is enrollment management (EM)?
+- What authors studied?
+    - Creation of position "vice president of enrollment management," which suggests an office of EM that controls admissions, financial aid, marketing/recruiting
+- Why authors believe creation of EM office undermines org values    
+    - "we emphasize that the EM structure undermines the autonomy of key internal elites and thereby lessens
+their ability and inclination to “defend the values entrusted to them” (Selznick, 1957: 94). We also argue that EM allows market values to unobtrusively penetrate a college and provides these values and their advocates with a structural and political foothold inside the organization."
+
+
+# Clark's less conflict-oriented approach to the external environment  [SKIP]
+
+### @RN2401: org adaptation to external environment
+
+@RN2401 article _"Organizational adaptation and precarious values"_ 
+
+- Analyzes how organizations adapt values/mission in response to changes in external environment
+- Focus is on organizations that serve mission/values not widely supported or not fiercely supported by external environment
+- Goal of paper: how do organizations respond when the mission they serve is "tied to weakly established values"
+
+
+Empirical focus of article: California "adult education" organizations (as distinct from community colleges)
+
+### @RN2401, values and precarious values
+
+Definition of social values: conceptions of the desirable that are held by members of society (majority of society or some well-organized segment of society)
+
+- examples: "liberal education"; "right to bear arms"; importance of math education; "everyone should have access to college"
+
+Social values tend to be "precarious" when:
+
+1. they are undefined (people don't know what the value means, what it stands for, who believes in this)
+    . e.g., "public welfare"; "anti-fascism"
+1. The proponents/actors associated with those values are not viewed as legitimate by people outside that group
+    - @RN2401, p. 328: "the values of the communist party are precarious in this country not by virtue of being undefined but, in part, because adherents are unacceptable as legitimate contenders for power"
+1. When the the value is unacceptable or uncared for by majority of society
+
+### Case study: California adult education organizations
+
+California adult education
+
+- "before 1925 "night school" was emphasized, with programs restricted mainly to elementary and high school work, vocational training, and courses on American citizenship
+- for a brief period following WW1, adult education schools had a strongly defined mission oriented to "immigrant education"/"citizenship education" because "here their work was related to a clearly defined national problem" [@RN2401, p. 330]
+
+Adult education becomes "marginal activity"
+
+- But as anti-immigration laws in 1920s slowed number of new immigrants, society cared less about the mission/problem adult education schools sought to solve
+- Adult education not considered part of the "education latter" (elementary schools, high schools, junior colleges, universities)
+- Adult ed becomes weakly supported by public funds and administrators/instructors had low status relative to other educators
+
+### Case study: California adult education organizations
+
+How California adult education orgs responded to being associated with values that society did not care about:
+
+- Looked for new missions/values to justify its existence, but none of these gained support in society
+    - e.g., Superintendent of adult ed quotes from Plato and argues that lieflong education essential for American democracy "where all men are rulers of the republic"
+- Gave up having distinct mission and became hostage to the "enrollment economy"
+    - All funding (public funds and tuition) depended on enrollment
+    - So adult education orgs started offering any course that would generate enrollment (e.g., square dancing, rug-making, pottery, etc.)
+    - Enrollment becomes __THE__ criterion by which courses are initiated and continued
+- Ultimately, adult education became a "service enterprise" willing to cater to anything that customers would sign up for
+
+### @RN2401, main take-aways
+
+\medskip
+
+What happens to organizations when the thing they focus on is no longer valued by society (the external environment)?
+
+- Organization tries to adapt and serve new set of values that society cares about (e.g., when people stopped caring about "liberal education", many liberal arts colleges became universities that focused on career education)
+- When org fails to find a new niche valued by society, org drops all pretense of "purpose" and takes on any activity that will generate customers
+
+@RN2401, p. 335, summarizing case of adult education:
+
+- "Adult schools labor under incompatible needs. Their central dilemma is that the short-run need for clientele, set by the enrollment economy, strains against the long-run need for educational respectability as the basis for legitimacy. The adult schools are torn between being a service facility and a school enterprise."
+
+@RN2401, p. 336, summarizing case the more general phenomenon:
+
+- "This value adaptation, where purpose is reduced to service will be pronounced when (a) organizations attached to a precarious value (b) continue to find
+themselves without a dependable clientele, or more broadly, with no specific outside social forces to sustain them. Then organizational needs of survival and security are likely to propel an adaptation to a diffuse social base, and purpose [mission] will be adjusted accordingly."
+
+# Summary of old institutionalism
+
+### Summary of old institutionalism
+
+Old institutionalism examines how organizational goals/behaviors change or don't change by focusing on:
+
+- internal organizational dynamics (e.g., values of key personnel, changes in org structure)
+- Interplay between organization and local external environment (e.g., local business leaders, local elected officials, alumni, donors, etc.)
+- **conflict.** Emphasizes power dynamics and conflict between competing status groups, how well a status group organizes and builds a coalition to maintain/obtain privileged access to resources
+
+\medskip
+
+__Internal dynamics that make org goals/values likely to change__
+
+- Change in leadership; new personnel not committed to org mission
+- Change in organizational structure that re-shuffles power dynamics
+- Adoption of new processes for the sake of efficiency, or outsourcing core activities to external orgs
+- Coalitions of internal/external actors that mobilize to shift purpose of org
+
+### Summary of old institutionalism
+
+__External dynamics that make org goals/values likely to change__
+
+- No organization can survive without support from external environment; 
+    - orgs must adapt to shifts in societal values that makes a core function of the org less important to society
+    - Orgs must adapt behaviors if org behaviors become viewed as illegitimate by society (e.g., denying LGBT student orgs funding in the 2000s)
+- Actors in external environment that provide needed resources have leverage to demand changes in org goals/behaviors
+    - "they who pay the piper calls the tune"
+- Orgs that control access to valued resources (e.g., flagship universities) become sits of conflict between competing "status groups" who want more access to the org
+    - Strategy, coalition building across status groups outside and within org become important determinants of outcome (e.g., civil rights movement)
+
+
+### Summary of old institutionalism
+
+__For scholars seeking to analyze org behavior__
+
+- Old institutionalism remains useful because it doesn't make a priori prescriptive predictions about org behavior
+- Rather, points you in the right direction about the broad sorts of actors, processes, relationships to pay attention to in the internal and external environment
+- You identify these actors, processes, relationships that are important for the particular empirical context you are studying
+- Press play and observe what happens
+
+\medskip
+
+__For professionals seeking to change organizations__
+
+- Old institutionalism theory (and empirical case studies) gives you insight about which actors, forces important for org change
+- Gives insight about how subordinate groups can be crafty about strategy and coalition building to enact change that dominant group does not want to see happen
+
+
+<!--
+
+# Introduce small group case study
+
+### Small group case study, topic overview
+
+Case study topic: efforts to increase African American enrollment at University of Colorado-Boulder (CU-Boulder) by James "Michael" Brodie
+
+- Mr. Brodie is a CU-Boulder alumnus (class of 1983) who is passionate about increasing African American enrollment at CU-Boulder
+- African Americans represent about 5.7% of 18-24 year-olds in Colorado but only 1.5% of full-time freshmen at CU-Boulder
+    - CU-Boulder says trying to solve this problem, but actions appear ceremonial
+- Mr. Brodie reached out to me (ozan) and Karina Salazar after we wrote New York Times op-ed [(LINK)](https://www.nytimes.com/interactive/2018/04/13/opinion/college-recruitment-rich-white.html) showing selective universities primarily visit rich, predominantly White high schools, using CU-Boulder as exemplar
+- Since then we have beeen in frequent contact as he has used data from our "off-campus recruiting" research project as part of a broader effort to enact organizational change at CU-Boulder
+
+In his own words (from email)
+
+- "My goal is 5,000 African American students on a campus that now has 34,000. I would like to see a university that bills itself as national and international in scope have numbers on campus (students, faculty, administrators) that look like that world. Is that goal achievable? Dunno. But I do know that a lot of young people would value from exposure to what institutions like Colorado[-Boulder] offer."
+- "Even on the state level, Colorado has a woeful track record. Out of state is worse. You have a college where 70 of the football players are Black on campus that is 1 percent Black. CU will search under a rock in Alabama for a running back, but won't even look down the street for a scholar."
+
+
+### Small group case study, your task
+
+Your task (in small groups)
+
+- read/skim below materials about Mr. Brodie's efforts to enact change
+- Develop strategies/recommendations Mr. Brodie can use to convince CU-Boulder to place a higher priority on increasing African American enrollment
+    - Separate these recommendations into those "motivated by old institutionalism" and "other recommendations not motivated by old institutionalism"
+- Email me your recommendations at the end of class; I will forward them (anonymously) to Mr. Brodie
+
+\medskip
+
+Recommendations:
+
+- don't spend lots of time reading every word from "background materials"; rather, try to get a general sense of how Mr. Broadie is approaching this challenge; then use old institutionalism of other theories/experiences to develop strategies that might be helpful
+- Making recommendations about how to change org priorities at a specific university requires in-depth knowledge of the university/surrounding extenral environment; don't spend more than 5 minutes doing any additional background informaiton; just do the best you can
+
+\medskip
+
+Remember, Mr. Broadie is a real person with hopes and dreams; 
+- This is his passion project but he is an "outsider" trying to create change
+- He is no slouch, but neither is he a powerful, elite actor (e.g., Shaun Harper, a state governor) with power and connections to change university agendas; 
+- So don't hold back on recommendations, but be sensitive and encouraging
+
+### Small group case study: characteristics of CU-Boulder
+
+Apologies for small font of screen-shot!
+
+![Characteristics of CU-Boulder, 2010-11 to 2016-17](cu-boulder-stats.png){width=440px}
+
+### Case study background materials [skimming OK]
+
+\medskip
+
+Letters from Mr. Brodie
+
+- Open letter to Colorado Board of Regents [LINK](https://www.dropbox.com/s/ltbc2v1w3yub13z/colorado_board_of_regents_open_letter.pdf?dl=0)
+    - resulted in conversations with several trustees
+- Letter to Colleen Newman, Director of Admissions at CU-Boulder [LINK](https://www.dropbox.com/s/lmga0ng6n1eq6oo/Admissions%20Letter.docx?dl=0)
+- Letter to Dr. Robert Boswell, Vice Chancellor for Diversity, Equity, and Community Engagement at CU-Boulder [LINK](https://www.dropbox.com/s/srj5dku0dfmly1e/Boswell%202019.docx?dl=0)
+
+Other efforts/activities from Mr. Brodie
+
+- Attended Fall 2018 CU-Boulder Diversity and Inclusion Summit to connect with administrators who can change policy [LINK TO SCHEDULE](https://www.colorado.edu/odece/diversity-inclusion-summit/fall-2018-diversity-and-inclusion-summit-schedule)
+- Discovered that CU-Boulder has a list of schools on a "do not visit" list because students lack financial resources to attend CU-Boulder
+    - Mr. Brodie is working with administrators to identify majrority minority schools on this list that enroll students academically qualified to attend CU-Boulder
+- CU-Boulder currently searching for new president
+    - search committee created a website for alumni to express what qualities they would like to see in the next president
+    - Mr. Brodie trying to mobilize alumni to demand candidate that takes African American Enrollment seriously
+- Writing a book the "CU Black and Gold Project" about African American alumni and the need to increase African American Enrollment
+- Other grass-roots efforts (e.g., email lits to alumni) publicizing CU-Boulder lack of effort, goal of forming a coalition that makes unified demands
+
+### Small group case study: background materials continued
+
+"Off-campus recruiting project"
+
+- New York Times op-ed [LINK](https://www.nytimes.com/interactive/2018/04/13/opinion/college-recruitment-rich-white.html)
+- Interactive map with recruiting results for CU-Boulder [LINK](https://map.emraresearch.org/)
+
+-->
+
+### References

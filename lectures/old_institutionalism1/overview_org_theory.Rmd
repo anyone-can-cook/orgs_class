@@ -1,0 +1,324 @@
+---
+title: "Lecture 1: rational choice theory and overview of rational/natural/open systems" # potentially push to header
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 9pt
+urlcolor: blue
+output:
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Lecture overview
+
+\tableofcontents
+
+\bigskip
+
+PLEASE EXCUSE TYPOS!
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+### Introduction
+
+Many "introduction to (sociological) organizational theory" courses follows the development of organizational theory from the 19th century to the late 20th century across three broad epochs:
+
+- __Rational systems__ perspective
+- __Natural systems__ perspective
+- __Open systems__ perspective
+
+Why I don't organize the course this way
+
+- We only have 10 weeks
+- You would hate reading a lot of this stuff (e.g. Taylor's "scientific management")
+
+Today, I want to provide a brief, broad overview of these three broad epochs
+
+- __Goal__: So when we learn specific theories over the next two months, you will have a sense of where they fit in the broader development of org theory
+
+# Rational choice theory
+
+### Rational choice theory and "rational systems" perspective
+
+The first epoch in sociological org theory -- "rational systems" perspective -- views organizations as instruments designed to achieve clearly defined goals
+
+\medskip 
+
+Rational systems perspective draws heavily from "rational choice theory," so I'll introduce the main ideas of rational choice theory
+
+\medskip 
+
+These notes draw from March (1994) chapter 1, "Limited rationality"
+
+- quotes are from March, though sometimes I forgot to write page number!
+
+### Rational choice theory: fundamental ideas/assumptions
+
+Rational choice theory is about how people make decisions when faced with alternative courses of action
+
+- Better thought of as a collection of theories, rather than a single theory
+
+The word "rational"
+
+- refers to the _process_ of making decisions, not to the outcome of those decisions
+
+Important concepts in rational choice theory:
+
+- __Consequences__: actions taken now affect future outcomes (they have consequences)
+- __Preferences__: Desirability of a particular outcome/consequence is evaluated in terms of personal preferences of the actor
+    - e.g., One person may place higher value on owning a luxury car than another person
+    
+### "Rational procedure" for making decisions
+
+A "rational procedure" for making a choice is based on answering four questions:
+
+1. __Alternatives__: what actions are possible?
+2. __Expectations__: for each alternative, what are the possible consequences (possible outcomes)? For each alternative, how “likely is each possible consequence”?
+3. __Preferences__: how valuable (to the individual) is each consequence to the decision-maker
+4. __Decision rule__: “how is a choice to be made among the alternatives in terms of the values of their consequences”
+
+Example of decisions people apply rational choice to:
+
+- What jobs should I apply to?
+- "College choice" process; e.g., which higher education MA/PhD program should I enroll in?
+- Which elective classes should I take?
+- What topic should I choose for class paper, dissertation?
+
+### (Extreme) pure theories of rational choice
+
+"Pure" theories of rational choice make the following assumptions:
+
+1. __Alternatives__. All alternatives courses of action are known
+1. __Expectations__. For each alternative, know the potential outcome and the likelihood of each outcome
+1. __Preferences__. Decision-maker can order preferences for each outcome
+1. __Decision rule__. Decision-maker has clear rules for deciding which alternative to choose
+
+\medskip
+
+Even proponents of rational choice have concerns about these assumptions:
+
+- Even if we believe these assumptions, following this process for all decisions would take a lot of time and energy
+- People are usually unaware of all options (information assymetries)
+- People usually don't know the outcome associated with a particular choice (e.g., taking one elective course instead of another)
+- But proponents of rational choice usually maintain assumptions about "preferences" and "decision rules"
+
+### Alternative to pure rational choice: rational decision-making amidst uncertainty
+
+Most common alternative to pure rational choice is “rational decision-making under risk”
+
+- Decision-makers know the likelihood of consequence [outcome] associated w/ choosing a particular alternative, but they don’t know the actual consequence
+- Example: I know that if I go to college there is an 80% chance I will make over 100,000 per year, but I don’t know for sure that I will make 100,000 per year.
+
+Stock market investing is common example for this type of rational choice theory
+
+- For each alternative: map out potential consequences (outcomes), the probability of each outcome, the expected value of each outcome if realized
+- Choose option with "highest expected value," but different rational decision makers could make different choices depending on their aversion to "risk"
+
+### Limited (or bounded rationality): Real world studies of decision-making
+
+"Information constraints"
+
+- Briefly: limitations to how much information decision-makers can consider, remember, comprehend, communicate to others
+
+Psychology of limited rationality: simplification processes decision-makers utilize (Kahneman and Tversky)
+
+- __Editing__. Discard/reduce information to make decision process simpler
+- __Decomposition__. Reduce large problems into distinct parts rather than make decision on all parts simultaneously
+- __Heuristics__. Rules of thumb to apply in certain situations (e.g., instead of calculating which move to make, world class chess players recognize situation and make move without calculation)
+    - lots of different heuristics (e.g., "anchoring bias" -- place more emphasis on information you receive first)
+- __Framing__. Don't make decisions w/ an empty mind; decisions are based on beliefs that define the problem and take particular perspective on the problem
+    - The manner in which information presented to us affects how we make decisions 
+
+Scholarship on implicit bias/racial bias in decision-making based on these ideas
+
+### maximizing vs. "satisficing"
+
+Maximizing vs. satisficing
+
+- Maximizing: choose the best alternative (amongst __all__ alternatives)
+- Satisficing: choose the first alternative that exceeds some minimum threshould 
+
+\medskip 
+
+Most proponents of rational choice theory assume that decision-makers "maximize"; empirical research finds that decision-makers usually "satisfice" rather than maximize
+
+- e.g., what clothes should I wear today?
+- what should I eat for dinner?
+- What should I watch on netflix tonight?
+
+\medskip 
+
+For what kinds of decisions are people more likely to "maximize" rather than "satisfice"?
+
+### Rational choice theory and higher education research
+
+Economists developing/evaluation policies to change student behavior
+
+- Usually assume a "rational actor model"; often goes further than even pure theories of rational choice because makes assumptions about what student preferences _should_ be
+- Often states that students make "irrational" decisions because they lack __information__ about alternative choices and/or the outcomes associated with each choice
+    - e.g., "under-matching" research: high-achieving, low-income students fail to apply to selective colleges because they: don't know what colleges are out there, don't know that they would get in and get big financial aid, don't know the economic rewards for attending
+- So "behavioral economics" attempts to develop interventions that reduce these "information assymetries" so that students make "rational decisions"
+
+# Org theory dynasties: rational, natural, and open systems
+
+## Organizations as "rational systems"
+
+### Rational systems perspective 
+
+Organizations are instruments designed to attain specific goals with maximum efficiency (goals that cannot be achieved by individual peiple)
+
+Assumptions/characteristics of rational systems perspective
+
+- Goal specificity. Goals of the organization are clearly defined
+    - Who chooses goals? doesn't really say, but implicitly management/owners choose goals
+- All members of the organization care about achieving these organizational goals; the org goals are their goals
+- Formalization. Formal organizational structure (e.g., org chart) dictates rules, roles, behavior of actors
+    - e.g., the org structure represents what really happens in the org
+    
+Examples of rational system perspective
+
+- Taylor's "scientific management":
+    - Wanted to replace human error with mechanistic procedures
+    - Would detail the most efficient way of doing each task to minimize waste and to minimize lost time
+
+### Problems with rational systems perspective
+
+- Assumes that organizations are monolithic decision-makers, but orgs are composed of lots of different people
+    - even rational choice theory assumes that decisions are made by individuals, not collective actors
+- Not clear who chooses the goals and why certain goals are chosen
+- Assumes that everyone in the org shares the same goals; wildly unrealistic
+    - My goals may differ from yours goals; your goals may differ from goals of president, etc.
+- Assumes that organizational charts actually reflect power-dynamics/authority
+- Assumes that organizations actually have goals and/or exist to solve problems
+    - for most orgs and people in orgs, the first priority is survival/stability; stated purpose is mainly a rationalization
+
+### Rational systems perspective in contemporary higher education
+
+Despite being completely abandoned as a realistic perspective on org behavior, we see org behaviors framed in terms of "rational systems" perspective all the time
+
+\medskip
+
+Examples:
+
+- Consider the problem of "student retention"
+    - Universities often attempt to solve this problem by creating offices of retention/student success
+    - If you actually wanted to increase student retention, is this the best approach? or is this a means of signaling that you are trying to solve the problem
+- Offices of equity/diversity/inclusion
+    - Stated goal often solve problems related to issues of discrimination/harassment/inclusive campus culture
+    - Over last 5-10 years, nearly every university has adopted an EDI office, especially following Chancellor and president of U. Missouri being fired in wake of 2015 student protests
+    - Is it realistic that all of a sudden, every university decided EDIs are best way to actually solve these problems? Or are EDIs sometimes adopted so that senior administrators can say they are working on the problem/avoid being fired
+    - If goal is to solve problems, why do some EDIs have tiny budget/powers/staff?
+
+
+## Organizations as "natural systems"
+
+### Natural systems perspective: behavioral scholars or organizational behavior
+
+- Natural systems perspective on org behavior emerged around 1940s century
+- Focus on _actual_ behavior of organizations and people within organizations
+    - By contrast "rational systems" perspective made normative prescriptions about what orgs "should" do and made unfounded assumptions about what orgs do
+
+\medskip
+
+### Characteristics of natural systems perspective
+
+__Goal complexity__
+
+- Organizational goals are unclear and constantly change
+    - Disparity between stated goals of org and what goals the org, org members actually pursue
+    - Survival of the org becomes and end in itself
+- Goals/behaviors of members of the organization
+    - Members of organizations are pursuing different goals
+    - Often focused on their own self-interest rather than stated purpose of org
+- Social conflict
+    - Actors in org d not agree on goals
+    - Competing coalitions within org and social conflict/power determines goals the org prioritizes
+    - "Social order" results from suppressing goals of members/coalitions with less power
+
+\medskip
+
+__Formal vs. informal structure__
+
+- Rational perspective assumes that formal org chart showed which actor is powerful, role they play, rules they follow
+    - assumes mangers more powerful than "workers"
+- Natural perspective rejects this assumptionn; informal structure of relations among participants more influential in guiding the behavior of participants than the formal structure (e.g., org chart)
+
+### Natural systems: important research/schools of thought
+
+__Melville Dalton's _Men Who Manage___ (ethnographic research in Midwest chemical plant)
+
+- Workers purposefully championed promotion of weak men to be managers so they could remain unaccountable to headquarters and continue pursuing self-interest
+- Internal audits were a farce; auditors notified departments beforehand about "surprise" visits
+- Real power center of the org was workers who were members of the Freemasons fraternal organization
+
+__Phillip Selznick's "old institutionalism"__ (focus of reading next week)
+
+- Interested in how original goals of org can be displaced or undermined
+    - Analyzed the "Tennessee Valley Authority," a federally funded, but locally controlled effort in 1930s to improve agriculture industry in Tennessee Valley
+- Long-time org members are important for maintenance of org goals/values
+- Actors in local external environment (e.g., local business leaders, politicians) exert influence over org goals to serve their self-interest
+- Changes in administrative structures (e.g., "reorganization") can displace long held org values, partly by elevating power of some people, reducing power of others
+
+## Organizations as "open systems"
+
+### "Open systems" perspective
+
+Like "natural systems" perspective, focus is on actual org behavior, but focuses less on internal org dynamics and more on how organizations interact with one another and the broader external environment
+
+- Initially developed in 1960s; contemporary org theory falls within "open systems" epoch
+
+Characteristics of open systems perspective
+
+- Focus on impact of external environment on organizations
+    - Including "local" external environment studied by "old institutionalism" (e.g., local business leaders)
+    - And "macro" external environmental factors that affect all orgs of particular type (e.g., US News College Rankings)
+- Moved analysis from individual organizations to systems of organizations
+
+### Open systems perspective: schools of thought
+
+[We'll read a lot of this stuff]
+
+__Contingency theory__
+
+- No single "best way to organize"; best way to organize depends on nature of external environment org operates in
+
+__Resource dependence theory__
+
+- External actors that control resources org needs for survival (and can't get elsewhere) can control goals of the org
+- Internal actors most responsible for securing those resources from external environment have the most power in org decision-making
+    - e.g., STEM faculty control decision-making at U. of Arizona because federal research is biggest funding source; Business school faculty control decision-making at U. Nebraska-Omaha because local business community (especially Warren Buffet) is biggest funding source
+    
+__New institutional theory__
+
+- In order survive, orgs must publicly adopt practices deemed "legitimate" in broader macro environment (e.g., Office of Student Success; Office of Equity, Diversity, Inclusion)
+- "institutions" are these taken-for-granted/legitimate practices
+- But adopt some practices symbolically (lots of ceremony, few resources) and others substantively
+- Analyze maintenance, decline, change in which practices orgs must publicly adopt
+
