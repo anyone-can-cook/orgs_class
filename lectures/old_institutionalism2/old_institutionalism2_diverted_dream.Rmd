@@ -1,0 +1,435 @@
+---
+title: "Old institutionalism part II, The Diverted Dream" # potentially push to header
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 8pt
+urlcolor: blue
+output:
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Overview
+
+\tableofcontents
+
+
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+# Diverted Dream
+
+## Chapter 1. CCs and the American Social Order
+
+### Opportunity and education
+
+19th Century, mythology about career/status attainment
+
+- Europe: access to privileged positions largely hereditary/depends on family ties
+- America: the "self-made (white) man"
+- In both Europe and America, education deemed peripheral to success
+
+\medskip
+
+20th Century, education and opportunity
+
+- Emergency of giant corporations in the late 19th Century [@RN979]
+  - contributed to hierarchical labor market
+- Structure of American education system became more hierarchical
+
+\medskip
+
+
+  > By 1920 the outliines of the orderly and highly stratified educational system that remains with us today were already visible. The emergence of a hierarchically differentiated educational system closely linked to the labor market provided an alternative pathway to success in an era when the traditional image of the self-made man \ldots was becoming less and less plausible [@RN869, p. 5]
+
+- Educational credentials become property that allows holders to make claims on career/social opportunities
+  - Educational credentials track people to certain kinds of jobs
+
+### American Education and management of ambition
+
+- Sociologists often focus on the idea that number of people who want good opportunities exceeds the supply of good opportunities
+
+> Since occupying the superordinate positions in such systems provides a variety of material and psychological gratifications not available to those who occupy subordinate positions, the number of individuals who aspire to privileged places in the division of labor not surprisingly tends to surpass \ldots the number of such slots that are available. In advanced industrial societies, all of which have renounced to \ldots the ideologies that have historically legitimated the hereditary transmission of positions, this problem of a discrepancy between ambition and the capacity of the opportunity structure to satisfy it is endemic. All such societies face, therefore, a problem in what might be called the _management of ambition_ [@RN869, p. 7]
+
+- Given demand in America for upward mobility, "it is hardly surprising that there has been such a powerful demand from below to expand the educational system. What is perhaps more difficult to understand is the readiness of the state to provide the additional years of schooling demanded by the populace" [@RN869, p. 8]
+- @RN869 (pp. 8-9) argue that "a society that promises its subordinate classes unique opportunities for individual advancement needs to offer well-developed channels of upward mobility.
+  - Implied here is the idea that creating these "channels of opportunity" may be a public-relations effort to appease the dreams of working-class people rather than a genuine effort to provide opportunity
+
+### Contradictory pressures facing the community college
+
+On the one hand
+
+\medskip 
+
+> the fundamental task of the junior college has been to "democratize" American higher education, by offering to those formerly excluded an opportunity to attend college [@RN869, p. 9]
+
+\bigskip
+
+On the other hand
+
+\medskip 
+
+> By virtue of its position in the structure of educational and social stratification, the junior college has confronted the necessity of diverting aspirations of students who wish to join the professional and managerial upper middle class, but who are typically destined by the structure of opportunity to occupy more modest positions [@RN869, p. 10]
+
+> The administrators of elite universities who developed the idea of the junior college did so \ldots with the hope that it would enable them to divert from their own doors the growing number of students clamoring for access to higher education [@RN869, p. 10]
+
+- In "The 'Cooling-Out' Function in Higher Education, @RN549 p. 515 states, "for large numbers failure is inevitable and _structured_"
+
+### Sociology and the community college
+
+Why has the discipline of sociology taken such a strong interest in the community college?
+
+- Sociology views the size of the pie (opportunity) as largely fixed and focuses on how privileged actors/groups get bigger slices
+- Educational credentials lay claims to opportunity; but different credentials grant access to different kinds of opportunities
+- Educational tracking leads to different credentials, which leads to different social/labor market opportunities
+- Sociologists (in the 20th century) viewed community colleges as mechanisms of educational tracking (e.g., where students who want a BA are tracked to terminal vocational)
+
+Sociology vs. economics
+
+- Both sociology and economics acknowledge the existence of hierarchical labor market and an education system that tracks people to different parts of the labor market
+- Economic theory often uncritical of tracking, views it as necessary to prepare students for hierarchical labor market
+- Sociology views tracking (who gets tracked to what) as highly problematic, but extremely likely in capitalist societies based on domination by the privileged
+
+## Core ideas of _Diverted Dream_
+
+
+### Competing explanations for terminal vocational mission
+
+_The Diverted Dream_ is an historical analysis of how the terminal vocational educaiton mission came to be institutionalized by community colleges
+
+\medskip
+Explanations @RN869 are arguing against:
+
+- “Consumer choice" explanation
+    - Community colleges adopted terminal vocational education programs because they were demanded by students
+- "Business domination" explanation (Marxist)
+    - Businesses think they can earn more profit by outsourcing training of workers to community colleges (and make students/government bear the cost)
+    - Therefore, corporate/business sector demanded that community colleges adopt terminal vocational education programs
+    
+@RN869 develop an "institutional" explanation for institutionalization of terminal vocational education mission
+
+- focuses on the interests of community colleges and the interests of people leading community colleges
+
+### Competing explanations for terminal vocational mission: 
+
+More on the "institutional" explanation
+
+\medskip
+
+> Perhaps the model's most fundamental feature is that it takes as its starting point organizations themselves, which are seen as pursuing their own distinct interests [@RN869, p. 15]
+
+\medskip
+
+> Much of our analysis will focus on explaining why these administrators chose to vocationalize despite what we shall call the opposition of the student consumer and the indifference of potential sponsors in the business corporations  [@RN869, p. 16].
+
+\medskip
+
+> In skeletal form, our basic argument is that the community colleges chose to vocationalize themselves, but they did so under conditions of powerful structural constraints. Foremost among those constraints was the subordinate position of the community college in the larger structure of educational and social stratification \ldots junior colleges were hampered by their subordinate position in relation to that of the older and more prestigious four-year colleges and universities  [@RN869, p. 15].
+
+### _Diverted Dream_: Some core ideas
+
+Origins of community colleges are very diverse
+
+- some founded by universities, some founded by high school districts
+- some focused on first two years of college coursework; others focused on remediating high school coursework
+
+\medskip
+Universities realized they wanted to teach freshman/sophomore courseowrk (cheap)
+
+- This undermined the CC mission of teaching freshman/sophomore coursework
+- Problem: most CC students wanted to obtain a BA
+
+\medskip
+Unlike “adult education” orgs [@RN2401] (not "junior colleges"), junior colleges successfully found a niche when mission of first two years of undergrad coursework was taken away. This niche [or value] they provided was twofold:
+
+- Terminal vocational education for “semi-professions”
+- A barrier for students who wanted a BA but weren't "cut out" to attend a university
+
+\medskip
+The meat of _Diverted Dream_ is how community college "vanguard" went about institutionalizing this niche
+
+- This "institutionalization project" took 50 years to bear fruit
+- So the terminal vocational education mission was a "solution looking for problems," waiting until the 1970s when economic conditions made businesses/labor market and students demand "semi-professions" credentials
+
+### Community colleges and the "enrollment economy" [@RN2401]
+
+Community colleges have always been centrally concerned about enrollment, enrollment growth
+
+- Enrollment growth causes public funding to increase
+- Enrollment growth increases probability of survival because society doesn’t want to kill an org that so many students depend on
+
+\medskip
+
+_Diverted Dream_ is about enrollment management
+
+- Once 4-year institutions didn't want CCs to have freshmen/sophomores, CCs couldn't get sufficient enrollment to survive based purely on transfer function
+- Needed to develop credentials not associated w/ transfer that could provide enrollment for survival
+- Leonard Koos
+    - investigated skill needs of occupations and corresponding training institutions.  
+    - believed CCs could find market niche in “semiprofessional” occupations where training requirements higher than the “trades” but lower than BA or the “professions”
+- long-term, CC "vanguard" wanted CC credentials to be prerequisite for these jobs (credentialism, professionalization)
+    - If so, CCs would get steady enrollment from students enrolled in terminal vocational education programs in order to get these jobs
+- "cooling out" function [@RN549]
+    - enroll CC students by telling them they can transfer
+    - cooling out: process by which CCs gradually make CC students that terminal vocational program is a "better fit" for them
+
+### Why is _The Diverted Dream_ an example of old institutionalism
+
+- CC "vangaurd" sought and achieved institutionalization at the organizational population/field level [rather than org-level]
+
+\medskip
+
+Took an "old institutionalism" approach to analyzing the process of by which "terminal vocational" mission was institutionalized
+
+- focused on the actions of small group of "institutional entrepreneurs"
+    - purposeful, self-interested status group that mobilize and build coalitions to institutionalize some practice that benefits the group
+    - "institutionalization projects": purposeful efforts by some status group to institutionalize some practice at the macro level; 
+- institutional entrepreneurs knew they were less powerful than orgs associated with high-status status groups (e.g., , universities, corporate america)
+    - interactions, subservience, development of coalitions with external actors associated with these powerful orgs in order to get support for the CC terminal vocational education mission
+
+## _Diverted Dream_ epilogue
+
+### Research on effect of attending CC on student degree attainment
+
+- For students who would otherwise not attend postsecondary education
+    - Positive effects on degree attainment, earnings
+- For students who would otherwise attend a 4-year university
+    - Most rigorous studies find large negative average effects on probability of obtaining a BA [e.g., @RN4284; @RN2261]
+    - Recent, cutting edge research by Mountjoy (2018): 
+        - starting at a CC reduces probability of getting a BA by 18 percentage points (e.g., from 50% probability to 32% probability)
+    - Caveat
+        - Some community colleges may do better than others; some CC tracks (e.g., honors program) may yield more positive results
+- Consistent evidence that CC students who do transfer to quite well on avg.
+
+### Policy support for CCs as engine of BA attainment
+
+American Association of Community Colleges (AACC) powerful professional association/lobbying org
+
+- Instrumental in institutionalizing the vocational education mission
+- Extremely active in lobbying politicians, policymakers, foundations for resources and favorable treatment
+
+\medskip
+
+Many states (e.g., CA) explicitly funnel postsecondary enrollment growth to community college sector as means of increasing BA attainment
+
+- Many big foundations and state policymakers are committed to helping community colleges increase transfer rates
+
+\medskip
+
+Strong policy support at state-level for for community colleges as an engine of BA attainment
+
+- Why are policymakers/foundations so committed to helping CCs increase transfer rates despite decades of research finding that starting at a community college decreases probability of obtaining BA?
+- Why not adopt policies that systematically funnel "college ready" students with BA aspirations to start at 4-year university rather than a CC?
+    - is lower costs of CC to state an adequate explanation?
+    - Do efforts by CCs and AACC to lobby policymakers and foundations play a role?
+
+<!-- your comment 
+
+### Tracking within community colleges: state policy and community college honors programs
+
+Recent policy changes in California require dramatic increases in number of UC students who transfer from CCs
+
+\medskip
+
+Who wins with this policy change:
+
+- CCs get to say that more students are transferring to UC
+- UCs get to say that they support social mobility by increasing number of CC transfers
+- State policymakers get to say they support social mobility and access to UCs
+
+\medskip
+Community College honors programs
+
+- at UCLA at least, CC students who complete a CC honors program are given "given priority consideration for admission to UCLA"
+    - [LINK](http://www.admission.ucla.edu/Prospect/Adm_tr/ADM_CCO/tap.htm)
+- What percent of CC transfers to UCLA/UC come from CC honors programs?
+- Who gets access to CC honors programs? 
+    - Does racial and socioeconomic composition of CC honors programs differ from rest of CC population?
+
+### Scholarship on community colleges
+
+Current vs. previous generation of scholarship on CCs
+
+- Previous generation included many scholars that were unequivocally critical of CCs (e.g., @RN869)
+- In current scholarship on CCs, fewer researchers that are unequivocally critical
+    - Most researchers start from premise that inappropriate to be wholly critical of CCs; rather, focus on how CCs can do better
+    - Is this a good thing?
+
+[Council for the Study of Community Colleges (CSCC)](http://www.cscconline.org/about-cscc)
+
+- Professional association focused on research about community colleges
+- "The Council for the Study of Community Colleges (CSCC) is an affiliate of the American Association of Community Colleges (AACC)"
+- Until 2014, annual conference of CSCC happens as part of the annual conference of AACC
+- Is it odd that the org focused on studying CCs is affiliated with primary professional/lobbying association of CCs?
+
+
+# Applying old institutionalism to research (and practice)
+
+Guiding quesions that inform empirical application of old institutionalism
+
+- How did the "terminal vocational education" mission of CCs emerge [@RN869)]? 
+- How did "hostile takeover" emerge and become institutionalized [@RN2417]?
+- Why did Ivy League universities adopt "character" admissions criteria between WWI and WWII[@RN3547]? 
+
+\bigskip
+
+Sometimes, guiding research questions or research focus centers on particular groups
+
+- How did the "terminal vocational education" mission of CCs emerge [@RN869)]? 
+    - focus on CC "vanguard"
+- How did "hostile takeover" emerge and become institutionalized [@RN2417]?
+    - focus on Jewish banking firms
+- Why did Ivy League universities adopt "character" admissions criteria between WWI and WWII[@RN3547]? 
+    - focus on protestant university administrators and protestant alum/local business leaders
+
+
+\bigskip
+
+See handout on CCLE that summarizes old institutionalism [LINK](https://www.dropbox.com/s/lhu6v7fwck5e55o/old_institutionalism_overview.pdf?dl=0)
+
+
+### Example: Recruiting at Sunnyside School District by University of Arizona
+
+Recruiting research program [LINK](https://emraresearch.org/)
+
+- macro theory of change ("new" institutionalization): 
+    - transform national policy discourse about college access inequality 
+- local theory of change ("old" institutionalism): 
+    - provide concrete data about university enrollment management behavior that empower local actors committed to access to demand substantive action by university
+
+\medskip
+
+Research question: why did University of Arizona (UA) start recruiting/enrolling more students from Sunnyside School District
+
+- Historically, UA has not actively recruited students from Sunnyside School District
+- Karina Salazar defends dissertation at Sunnyside High School [LINK](https://ksalazar3.github.io/defense/#/title)
+    - life-long resident of South Tucson, attended Sunnyside High School, became professor of University of Arizona
+    - attended by UA deans, faculty; attended by Sunnyside School District administrators
+- The next week, UA president tasked VP of enrollment management w/ developing strategy to increase enrollment by Sunnyside students and hiring a full-time admissions recruiter focused on Sunnyside
+    - UA hosts first admissions event of the year at Sunnyside High School [LINK](https://fbwat.ch/1RDD5O8y3aB1Skgp)
+
+## Small group case-study activity
+
+### Small group case-study activity: apply old institutionalism to develop empirical research
+
+Broad topic: UC currently considering no longer requiring SAT/ACT for admissions
+
+- coalition of groups pushing UC to make this change
+    - e.g., including group of undergrad students that are part of UCLA student govt.
+- College Board, ACT, and affiliated orgs trying to stop this from happening
+
+Your task (in groups of 3)
+
+- Read/skim background info on this issue in CCLE
+- Develop one-sentence guiding research question or research focus
+- Summarize core ideas/approaches from old institutionalism that are relevant to your research question
+    - skim summary old institutionalism dodument [LINK](https://www.dropbox.com/s/lhu6v7fwck5e55o/old_institutionalism_overview.pdf?dl=0)
+- Apply old institutionalism to develop focus of your empirical research. For example: 
+    - who are the "actors" involved; what is their role in this topic
+    - What are the relationships, power dynamics between these actors
+    - which actors form coalitions or could form coalitions
+    - which interactions, events, should you focus on to develop explanation for how this issue will play out?
+- What the limitations of old institutionalism with respect to understanding this issue?    
+
+-->
+
+# Appendix
+
+## Theoretical background: functionalism
+
+### What is "functionalism"
+
+Functionalism is a macro-sociological approach to analyzing society that views society as a living organism in which the parts (e.g., systems, organizations) work together/interact to contribut to a "functioning" society
+
+- Core idea of functionalism
+    - If some process/thing exists in society, it must be because it solves some problem that society faces
+- Popular in the late 19th to mid-20th century; now viewed as a "dirty word" in sociology (e.g., if a sociologist says "that is a functionalist explanation" it is not a compliment!)
+
+\medskip 
+
+Why am I telling you about functionalism?
+
+- Because some of you have mentioned or asked about functionalism
+- Because organizational actions are often rationalized to the public in functionalist terms (e.g., we adopted X practice to solve Y problem)
+- Creation of degree programs often rationalized in functionalist terms
+    - e.g., I got an MA degree in "comparative social policy"
+        - degree focused on comparing the welfare states (e.g., pension, healthcare, education) of different industrialized countries
+        - I assumed the degree was created because society needed people who knew when/how to incorporate practices from different welfare states
+
+### Extreme view of functionalism: @RN1263
+
+Easiest way to understand functionalism is to summarize an extreme statement: "Some principles of stratification" by @RN1263
+
+Basic research question: why does stratification/inequality exist  (e.g., inequality in who goes to which school, who gets which job, etc.)
+
+Basic explanation: 
+
+- inequality exists because a functioning society requires different people to do different sorts of jobs
+    - e.g., some people have to collect trash, some people have to be teachers, some people have to be doctors, etc.
+- Without inequality in access to opportunities, everyone would want the most prestigious, highest-paying jobs and many jobs necessary for functioning society would go undone
+
+In their words (p. 243)
+
+> "the main functional necessity explaining the universal presence of stratification is precisely the requirement faced by any society of placing and motivating individuals in the social structure. As a functioning mechanism a society must somehow distribute its members in social positions and induce them to perform the duties of these positions"
+
+
+> "Inevitably, then, a society must have, first, some kind of rewards that it can use as inducements, and, second, some way of distributing these rewards differentially according
+to positions. The rewards and their distribution become a part of the social order, and thus give rise to stratification."
+
+```{r, eval=FALSE, echo=FALSE}
+> "It must thus concern itself with motivation at two different levels: to instill in the proper individuals the desire to fill certain positions, and, once in these positions, the desire to perform the duties attached to them."
+
+> "it does make a great deal of difference who gets into which positions....but also because some require special talents or training and some are functionally more important than others."
+```
+
+### Comments/concerns on functionalism
+
+On one hand, certain ideas from functionalism seem true 
+
+- e.g., not everyone can be a lawyer
+
+\medskip
+
+Functionalism rationalizes hierarchy and social stratification; public policy often explicitly adopts a functionalist rationale
+
+- e.g., the "California Master Plan" for higher education is based on functionalist logic
+
+\medskip
+
+Criticisms about functionalism:
+
+- Assumption that any common practice/process exists because it serves some purpose needed for society to "function"
+- By contrast, "conflict" approaches to sociology assume that practices exist because they served the interests of some group(s) that was powerful enough or big enough to institutionalize the practice
+    - But no reason to believe that this practice serves the broader interest of society
+
+
+### References

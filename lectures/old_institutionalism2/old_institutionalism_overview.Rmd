@@ -1,0 +1,111 @@
+---
+title: "Summary of old institutionalism"
+#author: John Doe
+#date: March 22, 2005
+output: 
+  pdf_document:
+    toc: false
+    number_sections: true  
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+
+---
+
+# Institutions and institutionalization
+
+## Institutions:
+
+- general definition: taken for granted idea about appropriate practices
+- "old" institution: idea/practice that becomes widely accepted to the point of being "taken for granted" at the organization-level or org sub-level (e.g., "comprehensive exam" process for an MA or PhD program)
+- "new" institution: idea/practice that becomes widely accepted to the point of being "taken for granted" for all organizations of a particular type, or at the societal level (e.g., A university should have a "student success" center)
+
+## Institutionalization
+
+- general definition: the process by which an idea/practice becomes taken for granted as legitimate/appropriate; 
+    - said different, the process/interactions by which an institution emerges
+- of an "old" institution: process by which an idea/practice becomes taken for granted as legitimate/appropriate at the organization-level or sub-organizaiton-level (or within a particular professional association)
+- of a "new" institution: process by which an idea/practice becomes taken for granted as legitimate/appropriate for all organizations of particular type
+
+
+# "old institutionalism" as an approach to studying organizational behavior
+
+- "Old" institutionalism is an approach to analyzing organizational behavior that examines how organizational goals/behaviors change or don't change by focusing on:
+
+    - internal organizational dynamics (e.g., values of key personnel, changes in org structure)
+    - interplay between organization and local external environment (e.g., local business leaders, local elected officials, alumni, donors, etc.)
+    - **conflict.** Emphasizes power dynamics and conflict between competing status groups, how well a status group organizes and builds a coalition to maintain/obtain privileged access to resources
+
+## status groups
+
+- Definition 
+    - from @RN3547 , p. 3: "associational communities comprised of all who share a sense of status equality based on participation in a common culture. The basis of membership in such status groups, Weber maintains, may be any 'externally identifiable characteristic' racial, linguistic, religious, social - that may serve 'as a pretext for attempting...exclusion'"
+    - Example: New England Protestant business class
+- Competition/conflict between status groups
+- "status groups" in competition to gain privileged access to resources
+    - In modern society, access to resources no longer determined by brute force; rather, organizations and bureaucracies grant access to resources (e.g., Universities award degrees)
+    - Status groups compete for resources by attempting to change which criteria are deemed "meritorious" with respect to gaining access to organizations
+
+## Organizations as sites of contestation between status groups in external and internal environment
+
+- Organizations confer access to resources
+- Status groups (that are external actors to the org) try to make access to the org depend on criteria that benefit particular statust group (e.g., applicants must demonstrate "character")
+- External resource perspective
+    - Orgs have incentive to privilege criteria that benefit status groups that control external resources the org needs for survival (e.g,. tuition revenue, donations)
+- Leaders of the org are often themselves members of particular status group (often the dominant status group)
+    - Often biased towards privileging criteria desired by their status group (independent of external resource considerations)
+\medskip
+
+## Strategies employed by orgs that don't have support from organizations associated with powerful status groups
+
+- gain support of more powerful orgs (e.g. public research universities) by claiming that your niche fits within the interests of the more powerful org
+    - e.g., CC vanguard claiming CCs will keep "inferior" applicants from transferring to the university [@RN869]
+- Finde a niche by engaging in practices that high-status orgs view as illegitimate
+     - Examples: 
+        - Jewish banking firms inventing the "hostile takeover" [@RN2417]
+        - for-profit colleges embracing online education
+     - if practice turns out to be profitable, high status orgs will eventually adopt
+
+# Flavors of old institutionalism
+
+Old institutionalism is not really a single theory, but an approach to studying orgs that has different flavors (akin to different flavors of rational choice theory)
+
+## Weberian status group competition approach
+
+- orgs as site for competition between status groups
+- analyze connections between internal org actors and external actors associated w/ particular status groups    
+- analyze internal power dynamics; some internal actors more powerful than others (formal authority; informal authority such as connections to powerful status groups or membership in a coalition)    
+- coalition building -- involving both internal and external actors -- as a means of winning competition between competing status groups
+- strategy and discipline matter
+
+## Selznick approach
+
+- idealistic view that [non-profit] orgs support societal values (e.g., "equality of opportunity")
+- In order for the org to support support this societal value, actions of org must be directed towards supporting this goal
+- Unfortunately: orgs are also *operative systems* that need to raise revenues, cut costs, etc. to survive; 
+    - Sometimes goals associated w/ operative system can become take priority over original mission to support some societal value
+- Internal/external actors who are/become powerful can influence goals/actions of the org to promote their self-interest
+- Internal dynamics that make org goals/values likely to change
+    - Change in leadership; new personnel not committed to org mission
+    - Change in organizational structure that re-shuffles power dynamics
+    - Adoption of new processes for the sake of efficiency, or outsourcing core activities to external orgs
+    - Coalitions of internal/external actors that mobilize to shift purpose of org
+- External dynamics that make org goals/values likely to change
+    - No organization can survive without support from external environment; 
+        - orgs must adapt to shifts in societal values that makes a core function of the org less important to society
+        - Orgs must adapt behaviors if org behaviors become viewed as illegitimate by society (e.g., denying LGBT student orgs funding in the 2000s)
+    - Actors in external environment that provide needed resources have leverage to demand changes in org goals/behaviors
+        - "they who pay the piper calls the tune"
+    - Orgs that control access to valued resources (e.g., flagship universities) become sits of conflict between competing "status groups" who want more access to the org
+    - Strategy, coalition building across status groups outside and within org become important determinants of outcome (e.g., civil rights movement)    
+    
+    
+# Why old institutionalism remains useful for scholars
+
+- Old institutionalism doesn't make a priori prescriptive predictions about org behavior (as opposed to resource dependence theory);
+    - views org behavior as contingent, depends interactions in unique empirical context
+- Rather, Old institutionalism points you in the right direction about the broad sorts of actors, processes, relationships to pay attention to in the internal and external environment
+- You identify these actors, processes, relationships that are important for the particular empirical context you are studying
+- Press play and observe what happens
+
+# References
+
