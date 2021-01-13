@@ -1,8 +1,8 @@
 ## Generate link to PDF
 
-1. Find link to PDF on GitHub (e.g., [old_institutionalism1.pdf](https://github.com/anyone-can-cook/orgs_class/blob/master/lectures/old_institutionalism1/old_institutionalism1.pdf))
+1. Find link to PDF on GitHub (e.g., `https://github.com/anyone-can-cook/orgs_class/blob/master/lectures/old_institutionalism1/old_institutionalism1.pdf`)
 
-2. Paste link [here](https://nbviewer.jupyter.org/) to generate the link of PDF that's viewable in the browser.
+2. Append the path to the file after `https://anyone-can-cook.github.io/orgs_class/` (e.g., `https://anyone-can-cook.github.io/orgs_class/lectures/old_institutionalism1/old_institutionalism1.pdf`)
 
 ## Encrypt HTML page
 
