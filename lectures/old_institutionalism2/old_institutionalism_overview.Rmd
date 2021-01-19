@@ -1,14 +1,14 @@
 ---
 title: "Summary of old institutionalism"
-#author: John Doe
-#date: March 22, 2005
-output: 
+output:
+  html_document:
+    toc: no
+    df_print: paged
   pdf_document:
-    toc: false
-    number_sections: true  
+    toc: no
+    number_sections: yes
 bibliography: ../educ250_bib.bib
 csl: ../apa.csl
-
 ---
 
 # Institutions and institutionalization
