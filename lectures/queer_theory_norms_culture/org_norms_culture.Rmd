@@ -1,0 +1,257 @@
+---
+title: "Organizational norms and culture" # potentially push to header
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 9pt
+urlcolor: blue
+output:
+  slidy_presentation:
+    highlight: tango
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Lecture overview
+
+This brief lecture will review ideas about "organizational norms" and "organizational culture" written in the late 20th Century
+
+- This lecture does not review more recent advances on org norms/culture
+- This late 20th Century perspective remains the standard approach to org norms/culture in research about education
+- In recent years, this approach is being challenged by queer theory and by other critical/postmodern theoretical perspectives
+  - see separate lecture on queer theory and its application to study organizational behavior
+
+\bigskip
+
+Outline:
+
+\tableofcontents
+
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+<!-- your comment 
+
+
+
+
+
+# Essay question
+
+### Essay question prompt and writing expectations
+
+Go over essay prompt/guidelines
+
+\medskip
+
+Why am I assigning this
+
+- Will prepare you for take-home final
+- An opportunity to become familiar with my writing expectations
+
+\medskip
+
+Writing recommendations/expectations
+
+- Create an outline to develop logical flow of ideas/argument
+- Aim for clear, simple prose that is easy for reader to follow
+- Each paragraph should be about one idea/topic (could be big or small)
+    - First sentence ["topic sentence"] of paragraph tells reader what paragraph is about
+    - Subsequent sentences flesh out the idea of topic sentence, develop logical argument and/or empirical evidence
+
+\medskip
+
+Happy to meet with students (in office hours or we can make appointment) to help develop essay
+
+-->
+
+# Norms and culture
+
+### First norms, then culture
+
+I find the concept "culture" difficult to define because so many different definitions/perspectives on culture
+
+\medskip
+
+Easier to define "__norms__," which are associated with discipline of sociology
+
+- Working definition, Birnbaum chap 4: norms are shared "expectations about what people are supposed to do in given situations" (p.97)
+- Birnbaum focuses on organizational norms (norms developed within particular org), but norms can be at field-level (e.g., field of higher education research) and societal level too
+    - e.g., norms about desirability of marriage; who can marry who; what language appropriate/inappropriate; which research topics are "legitimate"
+- Upholding norms requires maintenance/work; norms are constantly changing, being challenged
+- Norms can be weak/strong
+    - strong norms: shared by everyone in group and deviance from prescribed behavior results in negative consequences
+- Organizations with strong norms
+    - Agreed-upon ideas about acceptable behaviors for members in org
+    - acceptance rewarded, deviation punished
+
+### Culture
+
+No agreed-upon defintins or theories of "culture"
+
+- Anthropology claims to be leading discipline in analysis of culture; but many different theories about culture in anthropology
+- Other disciplines (e.g., sociology, comparative literature) and inter-disciplinary departments (e.g., UCLA dept. of Gender Studies) develop their own theories of culture
+- Peruse different theoretical approaches, but find the one that speaks most to you
+
+\medskip
+
+__Definitions of culture__:
+
+- Most commonly cited definition of culture is from anthropologist Clifford Geertz:
+    - "Man is an animal suspended in webs of significance he himself has spun. I take culture to be those webs, and the analysis of it to be therefore not an experimental science in search of law, but an interpretive one in search of meaning"
+- Merriam-Webster dictionary:
+    - Culture is "the beliefs, customs, arts, etc., of a particular society, group, place, or time"
+
+\medskip
+
+I find Merriam-Webster definition too simplistic/surface-level, but Geertz definition can be difficult to make sense of at first
+
+## Organizational culture
+
+### What is organizational culture
+
+Similarly, no agreed-upon definitions of organizational culture. 
+
+\medskip
+Tierney (1988) is most-cited authority on org culture in higher ed (p. 4):
+
+- "The culture of an organization is grounded in the shared assumptions of individuals participating in the organization," which are "often taken for granted by the actors themselves"
+- Drawing from Geertz's definition of culture, Tierney writes
+    - "Thus, an analysis of organizational culture of a college or university occurs as if the institution were an interconnected web that cannot be understood unless one looks not only at the structure and natural laws of that web, but also at the actors' interpretations of the web itself. Organizational culture, then, is the study of particular webs of significance within an organizational setting."
+- "Administrators often have only an intuitive grasp of the cultural conditions and influences....administrators
+tend to recognize their organization's culture only when they have transgressed its bounds and severe conflicts or adverse relationships ensue."    
+
+\medskip
+
+Tierney, W. G. (1988). Organizational culture in higher education: Defining the essentials. _The Journal of Higher Education_, 59(1), 2-21. 
+
+### Strong/cohesive organizational cultures
+
+Scholarship on org culture written in the late 20th Century often preferred "strong" org cultures (e.g. "Toyota Way")
+
+- Tierney, 1988, p. 7: "Recent findings indicate that strong, congruent cultures supportive of organizational structures and strategies are more effective than weak, incongruent, or disconnected cultures"
+
+So what is a strong, cohesive org culture?
+
+- People in the org share the same value system; believe in the mission/values of the org
+- org members share same expectations of what behavior is appropriate
+- View the org as a special place and members of the org are special people
+- participation/membership in org makes life feel more meaningful
+
+# Examples of late 20th century scholarship on org norms/culture in higher ed
+
+### Exemplar of "strong culture": *Organizational saga* by @RN537 
+
+What is "organizational saga"
+
+- “An organizational saga is a collective understanding of a unique accomplishment based on historical exploits of a formal organization, offering strong normative bonds within and outside the organization. Believers give loyalty to the organization and take pride and identity from it” (p. 178)
+- "With a general emphasis on normative bonds, organizational saga refers to a unified set of publicly expressed beliefs about the formal group that (a) is rooted in history, (b) claims unique accomplishment, and (c) is held with sentiment by the group."
+
+Initiation of org saga
+
+- "The saga is initially a strong purpose, conceived and enunciated by a single man or a small cadre (Selznick, 1957)"
+- settings for organizational saga: 
+    - creation of new organization; organization in crisis; suffering from long decay
+    
+### Exemplar of "strong culture": *Organizational saga* by @RN537 
+
+Fulfillment/maintenance of org saga
+
+\medskip
+
+- Personnel (p. 181)
+    - "In a college, the key group of believers is the senior faculty."
+    - "A single leader, a college president, can initiate the change, but the organizational idea will not be expanded over the years and expressed in performance unless ranking and powerful members of the faculty become committed to it and remain committed even after the initiator is gone."
+    - "The faculty cadre of believers helps to effect the legend, then to protect it against later leaders and other new participants who, less pure in belief, might turn the organization in some other direction."
+- Program
+    - "For a college to transform purpose into a credible story of unique accomplishment, there must be visible practices with which claims of distinctiveness can be supported; that is, unusual courses, noteworthy requirements, or special methods of teaching" (p. 181)
+    - these unique practices become central to the belief system that the organization is a unique and special place
+- Social base (p. 182)
+    - "The saga also becomes fixed in the minds of outside believers devoted to the organization, usually the alumni. 
+    - The alumni are the best located to hold beliefs enduringly pure, since they can be as strongly identified with a special organizational history as the older faculty and administrators and yet do not have to face directly the new problems generated by a changing environment or students."
+    
+### Example of strong culture: "Heritage College," @RN4310 chapter 4
+
+On the development of norms, p. 97
+
+\medskip
+
+- “As people in a group interact, share activities, and develop common values, the group develops norms -- expectations about what people are supposed to do in given situations. 
+- Examples of norms at heritage College are that it is wrong to criticize a colleague in public, that faculty members should not wear jeans to class, that administrators and faculty should address each other by first name, and that courses in the general education core should emphasize original sources.
+- Informal norms control behavior even more powerfully than do written rules and regulations. Such shared understandings arise gradually and covertly through the interaction of group members, and for the most part are not even consciously considered by the group. 
+- Since norms often indicate a range of acceptable behavior, deviations from them can often bring group disapproval."
+
+### Example of strong culture: "Heritage College," @RN4310 chapter 4
+
+On selecting new members (e.g., students, faculty), p. 96
+
+\medskip
+
+- "When Heritage recruits new personnel, it gives a great deal of attention to appointing people whose values appear to be compatible with those of people already on campus. 
+- Applicants, in turn, usually base their continued interest in an appointment on whether they are intrigued or turned off by the Heritage environment"
+
+### Example of strong culture: "Heritage College," @RN4310 chapter 4
+
+On socializing (deviant) members, p. 96
+
+\medskip
+
+- "But if the values of the newcomer deviate from those of the group, certain things are likely to happen
+- Members of the community will respond in a manner that indicates their disapproval- sometimes by overt attempts to correct the behavior (We missed you at The Teas last night, John)" and sometimes by decreasing interaction with the newcomer (and thus withholding the reward of friendship).
+- if the newcomer changes behavior to conform to Heritage's culture, interactions with colleagues will increase. If not, interactions between colleagues and the newcomer are likely to diminish....the recruit eventually will feel like an outsider and leave after a year or so. 
+- The mutual effects of liking, interaction, values, and activities are therefore strengthened both by the self-selection of candidates to the collegium and by the strong pressures for conformity found in a cohesive community."
+
+
+### Potential concerns about organizational culture and strong organizational cultures
+
+Concerns about "strong" org cultures in practically navigating professional life: 
+
+- "Strong" organizational cultures may privilege "dominant members" or "majority members" of org
+- Org members with alternative viewpoints/backgrounds may be suppressed, ostracized, kicked-out
+- Can contribute to org members willfully ignoring problems (e.g., Penn State)
+- Cults have the strongest org cultures
+
+### Potential concerns about organizational culture and strong organizational cultures
+
+Concerns about using "organizational culture" theory to study org behavior, particularly as described by @RN536
+
+- This theories may compel the researcher to lionize "strong cultures"
+- Can lead to some lazy assumptions about org behavior/performance
+    - e.g., anything successful is due to "good" culture and orgs that fail have "bad" culture
+    - sometimes people using this theory treat the organization as a monolithic entity; but organizations are composed of people (past, present) who may or may not agree
+- Compels reearcher to conclude that the mainstream/dominant culture __IS__ the culture of the org; 
+- ignores power dynamics, conflict, exclusion, domination happening in the org
+
+- Assumption that an org that disagrees about values, does not prescribe behavior cannot be successful
+- No reason that analysis of "org culture" should focus on shared ideas; aren't conflicts/differences part of organizational culture too?
+
+### References
+

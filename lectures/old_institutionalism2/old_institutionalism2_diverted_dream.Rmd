@@ -3,8 +3,6 @@ title: "Old institutionalism part II, The Diverted Dream"
 author: "Ozan Jaquette"
 date: "null"
 output:
-  slidy_presentation:
-    highlight: tango
   beamer_presentation:
     keep_tex: no
     toc: no
@@ -14,6 +12,8 @@ output:
     df_print: tibble
     latex_engine: xelatex
     includes: null
+  slidy_presentation:
+    highlight: tango
 classoption: dvipsnames
 fontsize: 8pt
 urlcolor: blue
