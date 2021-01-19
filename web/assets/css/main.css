@@ -2507,7 +2507,7 @@ input, select, textarea {
 		margin: 0;
 	}
 
-		ul.feature-icons li {
+		ul.feature-icons > li {
 			text-decoration: none;
 			display: inline-block;
 			margin: 0 0 1.6875em 0;
@@ -2543,6 +2543,13 @@ input, select, textarea {
 				top: 0;
 				width: 2.5em;
 			}
+			
+		ul.feature-icons li ul {
+      list-style: circle;
+      margin-left: 1em;
+      font-size: 88%;
+      /*position: absolute;*/
+    }
 
 /* Icons */
 
