@@ -1,0 +1,98 @@
+---
+title: "Introduction to basic concepts in Black feminism" # potentially push to header
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 9pt
+urlcolor: blue
+output:
+  slidy_presentation:
+    highlight: tango
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Lecture overview
+
+
+\bigskip
+
+Outline:
+
+\tableofcontents
+
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+<!-- your comment 
+
+
+
+
+
+# Essay question
+
+### Essay question prompt and writing expectations
+
+Go over essay prompt/guidelines
+
+\medskip
+
+Why am I assigning this
+
+- Will prepare you for take-home final
+- An opportunity to become familiar with my writing expectations
+
+\medskip
+
+Writing recommendations/expectations
+
+- Create an outline to develop logical flow of ideas/argument
+- Aim for clear, simple prose that is easy for reader to follow
+- Each paragraph should be about one idea/topic (could be big or small)
+    - First sentence ["topic sentence"] of paragraph tells reader what paragraph is about
+    - Subsequent sentences flesh out the idea of topic sentence, develop logical argument and/or empirical evidence
+
+\medskip
+
+Happy to meet with students (in office hours or we can make appointment) to help develop essay
+
+-->
+
+# section 1
+
+### slide x
+
+text
+
+
+### References
+
