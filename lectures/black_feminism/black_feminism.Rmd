@@ -1,5 +1,5 @@
 ---
-title: "Introduction to basic concepts in Black feminism" # potentially push to header
+title: "Black feminist ideas and concepts introduced by the Combahee River Collective" # potentially push to header
 subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
 author: Ozan Jaquette
 date: 
@@ -7,8 +7,6 @@ classoption: dvipsnames  # for colors
 fontsize: 9pt
 urlcolor: blue
 output:
-  slidy_presentation:
-    highlight: tango
   beamer_presentation:
     keep_tex: false
     toc: false
@@ -22,6 +20,8 @@ output:
     includes:
       #in_header: ../beamer_header.tex
       #after_body: table-of-contents.txt 
+  slidy_presentation:
+    highlight: tango
 bibliography: ../educ250_bib.bib
 csl: ../apa.csl
 ---
@@ -36,14 +36,18 @@ knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
 
 ### Lecture overview
 
+Not an overview of Black feminism, which encompasses a very large set of theoretical perspecties and scholarly literatures
 
+Rather, this lecture is an introduction to the ideas and concepts introduced by the Combahee River Collective, particularly those discussed in the _Combahee River Collective Statement_, which was published in 1977
+
+
+```{r, eval=FALSE, echo=FALSE}
 \bigskip
 
 Outline:
 
 \tableofcontents
 
-```{r, eval=FALSE, echo=FALSE}
 # Introduction
 
 #Use this if you want TOC to show level 2 headings
@@ -56,43 +60,211 @@ Outline:
 
 
 
+-->
+
+### _Combahee River Collective Statement_, overview
+
+High-level overview of _Combahee River Collective Statement_
+
+\bigskip
+
+> The most general statement of our politics at the present time would be that we are actively committed to struggling against racial, sexual, heterosexual, and class oppression, and see as our particular task the development of integrated analysis and practice based upon the fact that the major systems of oppression are interlocking. The synthesis of these oppressions creates the conditions of our lives. As Black women we see Black feminism as the logical political movement to combat the manifold and simultanesous oppressions that all women of color face [@RN4570, p. 15].
+
+### Major sections of the statement
+
+1. The genesis of contemporary Black feminism
+    - credit to previous generations of Black women activists
+    - Their contemporary Black feminism evolved in connection with contemporary movements
+        - American women's movement
+        - Movements for Black liberation in 1960s and 1970s (Civil Rights, Black nationalism, the Black Panthers)
+    - Personal experiences of individual Black women's lives
+1. What we believe
+    - key ideas developed by the Combahee River Collective
+1. The problems in organizing Black feminists
+  - Interested in answering the question, why has it been "very difficult to organize around Black feminist issues?" [p. 21]
+1. Black feminist issues and practice.
+  - Discusses issues the _Collective_ has worked on and issues they hope to work on
 
 
-# Essay question
+### Women's liberation movement and Black liberation movement
 
-### Essay question prompt and writing expectations
+"American women's movement"
 
-Go over essay prompt/guidelines
+> A Black feminist presence has evolved most obviously in connection with the second wave of the American women’s movement beginning in the late 1960s. Black, other Third World, and working women have been involved in the feminist movement from its start, but both outside reactionary forces and racism and elitism within the movement itself have served to obscure our participation [@RN4570, p 16].
 
-\medskip
+<!-- your comment 
 
-Why am I assigning this
+1960s. Black, other Third World, and working women have been involved in the feminist movement from its start, but both outside reactionary forces and racism and elitism within the movement itself have served to obscure our participation. In 1973, Black feminists, primarily located in New York, felt the necessity of forming a separate Black feminist group. This became the National Black Feminist Organization (NBFO). [P. 16 OF PAPERBACK]
+-->
 
-- Will prepare you for take-home final
-- An opportunity to become familiar with my writing expectations
+Black liberation
 
-\medskip
+> Black feminist politics also have an obvious connection to movements for Black liberation, particularly those of the 1960s and 1970s. Many of us were active in those movements (Civil Rights, Black nationalism, the Black Panthers), and all of our lives were greatly affected and changed by their ideologies, their goals, and the tactics used to achieve their goals [@RN4570, p 17].
 
-Writing recommendations/expectations
+Impetus for creating separate Black feminist movement
 
-- Create an outline to develop logical flow of ideas/argument
-- Aim for clear, simple prose that is easy for reader to follow
-- Each paragraph should be about one idea/topic (could be big or small)
-    - First sentence ["topic sentence"] of paragraph tells reader what paragraph is about
-    - Subsequent sentences flesh out the idea of topic sentence, develop logical argument and/or empirical evidence
+> It was our experience and disillusionment within these liberation movements, as well as experience on the periphery of the white male left [e.g., socialist, anti-war], that led to the need to develop a politics that was antiracist, unlike those of white women, and antisexist, unlike those of Black and white men [@RN4570, p 17].
 
-\medskip
+### Socialism/anti-capitalism
 
-Happy to meet with students (in office hours or we can make appointment) to help develop essay
+<!-- your comment 
+
+> We are socialists because we believe that work must be organized for the collective benefit of those who do the work and create the products, and not for the profit of the bosses. Material resources must be equally distributed among those who create these resources. We are not convinced, however, that a socialist revolution that is not also a feminist and antiracist revolution will guarantee our liberation. We have arrived at the necessity for developing an understanding of class relationships that takes into account the specific class position of Black women who are generally marginal in the labor force \ldots We need to articulate the real class situation of persons who are not merely raceless, sexless workers, but for whom racial and sexual oppression are sigificant determiants in their working/economic lives. Although we are in essential agreement with Marx's theory as it applied to the very specific economic relationships he analyzed, we know that his analysis must be extended further in order for us to understand our specific economic situation as Black women [P. 19-20 OF PAPERBACK]
 
 -->
 
-# section 1
+> We are socialists because we believe that work must be organized for the collective benefit of those who do the work and create the products, and not for the profit of the bosses \ldots We are not convinced, however, that a socialist revolution that is not also a feminist and antiracist revolution will guarantee our liberation. We have arrived at the necessity for developing an understanding of class relationships that takes into account the specific class position of Black women who are generally marginal in the labor force \ldots We need to articulate the real class situation of persons who are not merely raceless, sexless workers, but for whom racial and sexual oppression are sigificant determiants in their working/economic lives. Although we are in essential agreement with Marx's theory as it applied to the very specific economic relationships he analyzed, we know that his analysis must be extended further in order for us to understand our specific economic situation as Black women [P. 19-20 OF PAPERBACK]
 
-### slide x
+## Intersectionality
 
-text
+### Intersectionality/interlocking systems of oppression
 
+_Combahee River Collective Statement_ widely credited with developing the concept "intersectionality"
+
+- discussed throughout the _Statement_ rather than a standalone definition
+- instead of "intersectionality" they refer to "interlocking" systems of oppression
+
+### Dominant and opprssed social categories
+
+> The major source of difficulty in our political work is that we are not just trying to fight oppression on one front or even two, but instead to address a whole range of oppressions. We do not have racial, sexual, heterosexual, or class privilege to rely upon, nor do we have even the minimal access to resources and power that groups who possess any one of these types of privilege have [@RN4570, pp 19-20]
+
+
+- In every social category (e.g., race, gender, sex, class, sexual orientation), there are dominant/privileged groups and oppressed groups
+- Individual people are associated with belonging to multiple social categories
+  - e.g., Black men belong to an oppressed racial category but dominant gender category
+  - White women belong to an opprssed gender category but a dominant racial category
+- Black women belong to an oppressed racial category and oppressed gender category
+  - Further, most Black women are "marginal in the labor force" [@RN4570, p. 20] and, thus, belong to oppressed class category
+  - Many founding members of "Combahee River Collective also identified as Lesbians and, thus, belonged to oppressed category of sexual orientation
+
+### Groups oppressed in one social category have partial understanding
+
+_Combahee River Collective Statement_ argues that people who are oppressed in at least one social category have partial understanding of the experience of being a Black women
+
+- Black men
+  - have empathy/solidarity with Black women on issues of racial oppression, but do not understand sexism experienced by Black women
+- White women
+  - understand experience of sexism but do not understand racial oppression
+- White heterosexual men
+  - from _Sisterhood is Powerful_ by @RN4689, quoted in _Combahee River Collective Statement_:
+  
+> I haven’t the faintest notion what possible revolutionary role white heterosexual men could fulfill, since they are the very embodiment of reactionary-vested-interest-power
+
+### Interlocking systems of oppression cannot be reduced to separate experiences of oppression
+
+> [We] find it difficult to separate race from class from sex oppression because in our lives they are most often experienced simultaneously [@RN4570, pp 19]
+
+The experience of Being a poor Black women cannot be understood as the sum of racial oppression experienced by Black men, the gender oppression experienced by White women, and the class oppression experienced by working class people
+
+- White women
+  - can utilize their racial privilege to mitigate/respond to gender oppression
+- Black men 
+  - can utilize their gender privilege to mitigate/respond to racial oppression
+- Black women 
+  - cannot utilize racial privilege to counteract gender oppression and vice-versa; 
+  - Because most Black women are poor, they cannot fall back on class privilege to counter act racial or gender oppression
+
+Because interlocking systems of oppression cannot be reduced, Black women as a group are uniquely oppressed
+
+
+<!-- your comment 
+
+Previous slides:
+
+- Black women face unique experiences in everyday life due to being an oppressed group in multiple social categories simultaneously
+
+-->
+
+### Intersectionality and exclusion from social movements
+
+Additional oppression faced by Black women: social movements associated with one social category unsupportive of demands from Black women about other social categories
+
+- Women's movement dominated by bourgeoisie White women was indifferent to racial oppression
+  - Claims by Black women in the movement to fight gender and racial oppression simultaneously viewed as a distraction by white women
+  - Black women never given a real seat at the table
+
+
+### Intersectionality and exclusion from social movements
+
+Additional oppression faced by Black women: social movements associated with one social category unsupportive of demands from Black women about other social categories
+
+- Black men, Black liberation movements viewed Black feminism as a threat
+
+\medskip
+
+> The reaction of Black men to feminism has been notoriously negative. They are, of course, even more threatened than Black women by the possibility that Black feminists might organize around our own needs. They realize that they might not only lose valuable and hardworking allies in their struggles but that they might also be forced to change their habitually sexist ways of interacting with and oppressing Black women [@RN4570, p 24]
+
+- Many Black women fearful that embracing Black feminism would cause support from Black men to decline, making them more vulnerable to racial oppression
+
+\medskip
+
+> “The material conditions of most Black women would hardly lead them to upset both economic and sexual arrangements that seem to represent some stability in their lives. Many Black women have a good understanding of both sexism and racism, but, because of the everyday constrictions of their lives, cannot risk struggling against them both.
+
+
+
+
+## Identity politics
+
+### Identity politics
+
+_Combahee River Collective Statement_ credited with developing concept "identity politics" (different from usage in mainstream media)
+
+Key quotes
+
+> Above all else, our politics initially sprang from the shared belief that Black women are inherently valuable \ldots This may seem so obvious as to sound simplistic, but it is apparent that no other ostensibly progressive movement has ever considered our specific oppression as a priority \ldots We realize that the only people who care enough about us to work consistently for our liberation are us \ldots This focusing upon our own oppression is embodied in the concept of identity politics. We believe that the most profound and potentially most radical politics come directly out of our own identity, as opposed to working to end somebody else’s oppression [@RN4570, p 18-19]
+
+
+Their "identity politics" concept was built on their "intersectionality" concept
+
+- Black women experience unique oppression; this oppression is fundamentally due to their multiple identities as Black, (poor) women
+- No other group understands or cares about oppression experienced by Black women; 
+- Therefore, Black women must lead the fight to end the oppressions faced by Black women
+
+### Identity politics, which issues to fight for
+
+As a concept, "identity politics" was informed by concrete oppressions Black women faced; in turn this concept informed which issues to focus on
+
+Section 4, "Black Feminist Issues and Practice" discusses issues to prioritize
+
+- Focus on issues relevant to the concrete oppressions Black women face, including reproductive health (abortion rights, sterilization abuse), physical abuse, sexual abuse, health care, access to education
+
+Commentary from Introduction chapter by @RN4570
+
+> Black women were not radicalizing over abstract issues of doctrine; they were radicalizing because of the ways that their multiple identities opened them up to overlapping oppression and exploitation. Black women’s social positions made them disproportionately susceptible to the ravages of capitalism, including poverty, illness, violence, sexual assault, and inadequate healthcare and housing (p. 8)
+
+> Black feminists identified reproductive justice as a priority, from abortion rights to ending the sterilization practices that were common in gynecological medicine when it came to treating working-class Black and Puerto Rican women in the United States \ldots. Identity politics became a way that those suffering that oppression could become politically active to confront it. This meant taking up political campaigns not just to ensure the liberation of other people but also to guarantee your own freedom (p. 9)
+
+### Identity politics expands upon the feminist principle "the personal is political"
+
+
+> One issue that is of major concern to us and that we have begun to publicly address is racism in the white women's movement \ldots Eliminating racism in the white women's movement is by definition work for white women to do, but we will continue to speak to and demand accountability on the issue
+
+
+
+- expands notion of "personal is political"
+- focus on issues that black women face in everyday lives
+
+
+From section (3), "The Problems in Organizing Black Feminists"
+
+From the _Combahee River Collective Statement_
+
+
+
+
+### On the origins of the collective
+
+p. 24 of paperback talks about participating in NFBO and starting the collective
+
+"We also decided around the time to become an independent collective since we had serious disagreements with NFBO's bourgeois-feminist stand and their lack of clear political focus
+
+p. 25 of paperback talks about starting Collective, that they decided to be a "study group"
+
+
+
+### Solidarity and coalitions
+
+p. 19
 
 ### References
 
