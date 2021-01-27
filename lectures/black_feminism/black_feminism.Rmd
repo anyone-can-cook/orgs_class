@@ -56,11 +56,8 @@ Outline:
 \tableofcontents[subsectionstyle=hide/hide/hide]
 ```
 
-<!-- your comment 
+# _Combahee River Collective Statement_
 
-
-
--->
 
 ### _Combahee River Collective Statement_, overview
 
@@ -75,18 +72,16 @@ High-level overview of _Combahee River Collective Statement_
 1. The genesis of contemporary Black feminism
     - credit to previous generations of Black women activists
     - Their contemporary Black feminism evolved in connection with contemporary movements
-        - American women's movement
-        - Movements for Black liberation in 1960s and 1970s (Civil Rights, Black nationalism, the Black Panthers)
     - Personal experiences of individual Black women's lives
 1. What we believe
     - key ideas developed by the Combahee River Collective
 1. The problems in organizing Black feminists
-  - Interested in answering the question, why has it been "very difficult to organize around Black feminist issues?" [p. 21]
+    - Interested in answering the question, why has it been "very difficult to organize around Black feminist issues?" [p. 21]
 1. Black feminist issues and practice.
-  - Discusses issues the _Collective_ has worked on and issues they hope to work on
+    - Discusses issues the _Collective_ has worked on and issues they hope to work on
 
 
-### Women's liberation movement and Black liberation movement
+### Social movements the Combahee River Collective engaged with
 
 "American women's movement"
 
@@ -105,15 +100,24 @@ Impetus for creating separate Black feminist movement
 
 > It was our experience and disillusionment within these liberation movements, as well as experience on the periphery of the white male left [e.g., socialist, anti-war], that led to the need to develop a politics that was antiracist, unlike those of white women, and antisexist, unlike those of Black and white men [@RN4570, p 17].
 
-### Socialism/anti-capitalism
+### Social movements the Combahee River Collective engaged with
+
+On Socialism and anti-capitalism, from _Combahee River Collective Statement_ [@RN4570, pp 19-20]
+
+\medskip 
+
+> We are socialists because we believe that work must be organized for the collective benefit of those who do the work and create the products, and not for the profit of the bosses \ldots We are not convinced, however, that a socialist revolution that is not also a feminist and antiracist revolution will guarantee our liberation. We have arrived at the necessity for developing an understanding of class relationships that takes into account the specific class position of Black women who are generally marginal in the labor force. We need to articulate the real class situation of persons who are not merely raceless, sexless workers, but for whom racial and sexual oppression are sigificant determiants in their working/economic lives.
+
+\medskip 
+
+> Although we are in essential agreement with Marx's theory as it applied to the very specific economic relationships he analyzed, we know that his analysis must be extended further in order for us to understand our specific economic situation as Black women.
+
 
 <!-- your comment 
 
 > We are socialists because we believe that work must be organized for the collective benefit of those who do the work and create the products, and not for the profit of the bosses. Material resources must be equally distributed among those who create these resources. We are not convinced, however, that a socialist revolution that is not also a feminist and antiracist revolution will guarantee our liberation. We have arrived at the necessity for developing an understanding of class relationships that takes into account the specific class position of Black women who are generally marginal in the labor force \ldots We need to articulate the real class situation of persons who are not merely raceless, sexless workers, but for whom racial and sexual oppression are sigificant determiants in their working/economic lives. Although we are in essential agreement with Marx's theory as it applied to the very specific economic relationships he analyzed, we know that his analysis must be extended further in order for us to understand our specific economic situation as Black women [P. 19-20 OF PAPERBACK]
 
 -->
-
-> We are socialists because we believe that work must be organized for the collective benefit of those who do the work and create the products, and not for the profit of the bosses \ldots We are not convinced, however, that a socialist revolution that is not also a feminist and antiracist revolution will guarantee our liberation. We have arrived at the necessity for developing an understanding of class relationships that takes into account the specific class position of Black women who are generally marginal in the labor force \ldots We need to articulate the real class situation of persons who are not merely raceless, sexless workers, but for whom racial and sexual oppression are sigificant determiants in their working/economic lives. Although we are in essential agreement with Marx's theory as it applied to the very specific economic relationships he analyzed, we know that his analysis must be extended further in order for us to understand our specific economic situation as Black women [P. 19-20 OF PAPERBACK]
 
 ## Intersectionality
 
@@ -124,7 +128,7 @@ _Combahee River Collective Statement_ widely credited with developing the concep
 - discussed throughout the _Statement_ rather than a standalone definition
 - instead of "intersectionality" they refer to "interlocking" systems of oppression
 
-### Dominant and opprssed social categories
+### Dominant and oppressed social categories
 
 > The major source of difficulty in our political work is that we are not just trying to fight oppression on one front or even two, but instead to address a whole range of oppressions. We do not have racial, sexual, heterosexual, or class privilege to rely upon, nor do we have even the minimal access to resources and power that groups who possess any one of these types of privilege have [@RN4570, pp 19-20]
 
@@ -164,17 +168,6 @@ The experience of Being a poor Black women cannot be understood as the sum of ra
   - cannot utilize racial privilege to counteract gender oppression and vice-versa; 
   - Because most Black women are poor, they cannot fall back on class privilege to counter act racial or gender oppression
 
-Because interlocking systems of oppression cannot be reduced, Black women as a group are uniquely oppressed
-
-
-<!-- your comment 
-
-Previous slides:
-
-- Black women face unique experiences in everyday life due to being an oppressed group in multiple social categories simultaneously
-
--->
-
 ### Intersectionality and exclusion from social movements
 
 Additional oppression faced by Black women: social movements associated with one social category unsupportive of demands from Black women about other social categories
@@ -183,6 +176,9 @@ Additional oppression faced by Black women: social movements associated with one
   - Claims by Black women in the movement to fight gender and racial oppression simultaneously viewed as a distraction by white women
   - Black women never given a real seat at the table
 
+\medskip
+
+> One issue that is of major concern to us and that we have begun to publicly address is racism in the white women’s movement. As Black feminists we are made constantly and painfully aware of how little effort white women have made to understand and combat their racism, which requires among other things that they have a more than superficial comprehension of race, color, and Black history and culture [@RN4570, p 23]
 
 ### Intersectionality and exclusion from social movements
 
@@ -234,37 +230,33 @@ Commentary from Introduction chapter by @RN4570
 
 > Black feminists identified reproductive justice as a priority, from abortion rights to ending the sterilization practices that were common in gynecological medicine when it came to treating working-class Black and Puerto Rican women in the United States \ldots. Identity politics became a way that those suffering that oppression could become politically active to confront it. This meant taking up political campaigns not just to ensure the liberation of other people but also to guarantee your own freedom (p. 9)
 
-### Identity politics expands upon the feminist principle "the personal is political"
+### On coalition building and solidarity
+
+The Combahee River Collective vision for Black feminism believed in coalition building and solidarity, but demanded that other movements respect Black feminism as a cause
+
+\medskip
 
 
-> One issue that is of major concern to us and that we have begun to publicly address is racism in the white women's movement \ldots Eliminating racism in the white women's movement is by definition work for white women to do, but we will continue to speak to and demand accountability on the issue
+> One issue that is of major concern to us and that we have begun to publicly address is racism in the white women's movement \ldots Eliminating racism in the white women's movement is by definition work for white women to do, but we will continue to speak to and demand accountability on the issue  [@RN4570, p. 23]
 
+> we reject the stance of lesbian separatism because it is not a viable political analysis or strategy for us. It leaves out far too much and far too many people, particularly Black men, women, and children 
 
+# Appendix
 
-- expands notion of "personal is political"
-- focus on issues that black women face in everyday lives
+### Other topics to cover
 
+- The origins of Combahee River Collective as an organization vis-a-vis other organizations asssociated with social movemenbts (e.g., National Black Women's Organization)
+  - "We also decided around the time to become an independent collective since we had serious disagreements with NFBO's bourgeois-feminist stand and their lack of clear political focus
+  - The _Statement_ says they decided to start the Combahee River Collective as a "study group"   [@RN4570, p. 25] 
+  
+\medskip
 
-From section (3), "The Problems in Organizing Black Feminists"
+- How did ideas from _Combahee River Collective Statement_ grow stronger over time
+  - e.g., creating _Kitchen Table Press_
+  - Chapter by Barbara Ransby from @RN4570 talks about many organizations supported and were created to support Black feminism
+- Thinking about _Combahee River Collective Statement_ as an institutionalization project, drawing from old institutionalisjm
+  - [LINK](https://anyone-can-cook.github.io/orgs_class/lectures/old_institutionalism2/old_institutionalism_overview.html) to handout on old institutionalism
 
-From the _Combahee River Collective Statement_
-
-
-
-
-### On the origins of the collective
-
-p. 24 of paperback talks about participating in NFBO and starting the collective
-
-"We also decided around the time to become an independent collective since we had serious disagreements with NFBO's bourgeois-feminist stand and their lack of clear political focus
-
-p. 25 of paperback talks about starting Collective, that they decided to be a "study group"
-
-
-
-### Solidarity and coalitions
-
-p. 19
 
 ### References
 

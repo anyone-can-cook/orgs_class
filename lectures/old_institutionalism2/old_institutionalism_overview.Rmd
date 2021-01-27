@@ -84,6 +84,9 @@ Old institutionalism is not really a single theory, but an approach to studying 
 - Unfortunately: orgs are also *operative systems* that need to raise revenues, cut costs, etc. to survive; 
     - Sometimes goals associated w/ operative system can become take priority over original mission to support some societal value
 - Internal/external actors who are/become powerful can influence goals/actions of the org to promote their self-interest
+  - institutional "guardians"
+    - Selznick viewed internal "elites" [formally and/or informally powerful, been there for a while] as "guardians of important organizational values"
+    - Changes in organizational structure that reduce the power of internal elites can threaten organizational values
 - Internal dynamics that make org goals/values likely to change
     - Change in leadership; new personnel not committed to org mission
     - Change in organizational structure that re-shuffles power dynamics

@@ -29,7 +29,7 @@ The "Combahee River Collective" published the 1977 _Combahee River Collective St
 
 -->
 
-The "Combahee River Collective" was a Black feminist organization best known for publishing the 1977 _Combahee River Collective Statement_, which became an important document in the development of Black feminism @RN4570. @RN869 develop an old institutionalism analysis of the origins institutionalization of the "terminal vocational education" mission of the community college. Your task is, first, to develop an old institutionalism analysis of the origins and institutionalization of the _Combahee River Collective Statement_. How do the limitations of old institutionalism as a theoretical perspective undermine this analysis? How can selected ideas/concepts from Black feminism be incorporated to develop a more insightful analysis about the origins of the  _Combahee River Collective Statement_ and/or explanation for why this statement has been so impactful?
+The "Combahee River Collective" was a Black feminist organization best known for publishing the 1977 _Combahee River Collective Statement_, which became an important document in the development of Black feminism [@RN4570]. @RN869 develop an old institutionalism analysis of the origins and institutionalization of the "terminal vocational education" mission of the community college. Your task is, first, to develop an old institutionalism analysis of the origins and institutionalization of the _Combahee River Collective Statement_. Next, how do the limitations of old institutionalism as a theoretical perspective undermine this analysis? And how can selected ideas/concepts from Black feminism -- from _Combahee River Collective Statement_ or other Black feminist scholarship you have read -- be incorporated to develop a more insightful analysis about the origins of the  _Combahee River Collective Statement_ and/or explanation for why this statement has been so impactful?
 
 
 # General guidelines/recommendations
@@ -39,9 +39,10 @@ The "Combahee River Collective" was a Black feminist organization best known for
 - Submit essay [here](https://www.dropbox.com/request/Ea4MWcYgHdbXUtrwDBYd)
 - Essay should be three to four pages (excluding references) double space, size 11 or 12 font, one inch margins all around
   - A bit less than three pages is fine, but cannot be longer than four pages
+- Don't feel compelled to delve deeply into both the origins and institutionalization of _Combahee River Collective Statement_; fine to devote more attention to one more than the other
 - On old institutionalism
   - In addition to lecture slides and assigned readings, this handout on old institutionalism may be useful: [LINK](https://anyone-can-cook.github.io/orgs_class/lectures/old_institutionalism2/old_institutionalism_overview.html)
-  - Note that there are different “flavors” of old institutionalism. These different flavors share some common ideas/approaches that are fundamental to old institutionalism, but differ in other ways (For example, Selznick focuses on extent to which the "operative system" supports organizational values and how changes in operative system strengthen/weaken "institutional guardians" that protect organizational values).  You can be selective about which “flavor” of old institutionalism you draw from (but choose the flavor that you think is best for this analysis). Also, given space limitations, you can be selective about which concepts you introduce.
+  - Note that there are different “flavors” of old institutionalism. These different flavors share some common ideas/approaches that are fundamental to old institutionalism, but differ in other ways. You can be selective about which “flavor” of old institutionalism you draw from (but choose the flavor that you think is best for this analysis). Also, given space limitations, be purposeful about which concepts you choose to introduce.
   - Try to take old institutionalism as far as it can go in analyzing the Combahee River Collective, as opposed to creating a "paper tiger" analysis.
 - Follow APA style
   - Use citations when appropriate
