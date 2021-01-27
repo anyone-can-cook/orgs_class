@@ -7,6 +7,8 @@ classoption: dvipsnames  # for colors
 fontsize: 9pt
 urlcolor: blue
 output:
+  slidy_presentation:
+    highlight: tango
   beamer_presentation:
     keep_tex: false
     toc: false
@@ -20,8 +22,6 @@ output:
     includes:
       #in_header: ../beamer_header.tex
       #after_body: table-of-contents.txt 
-  slidy_presentation:
-    highlight: tango
 bibliography: ../educ250_bib.bib
 csl: ../apa.csl
 ---
