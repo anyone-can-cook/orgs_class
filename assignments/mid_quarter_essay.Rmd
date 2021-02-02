@@ -39,6 +39,16 @@ The "Combahee River Collective" was a Black feminist organization best known for
 - Submit essay [here](https://www.dropbox.com/request/Ea4MWcYgHdbXUtrwDBYd)
 - Essay should be three to four pages (excluding references) double space, size 11 or 12 font, one inch margins all around
   - A bit less than three pages is fine, but cannot be longer than four pages
+- For this essay (also essays prompts I write for take-home final and DAP exam; also, when I am a reviewer for journal manuscripts) I want you to do three basic things in some order: define theory; introduce empirical context of the case; apply theory to the case
+  - define theory and key concepts of theory
+    - includes brief, broad overview of theory you are using
+    - define the key concepts of the theory that you will apply to the case
+  - introduce relevant "empirical context" of the "case" (usually one or two paragraphs)
+    - background information for reader who is unfamiliar to the case
+    - provide more detail about parts of the case that you will apply theory/concepts to
+  - apply theory/concepts to the case
+    - start w/ general concept from the theory; show how some aspect of the case can be thought of as a specific example of the general concept from the theory
+    - hopefully, explaining the case in terms of concepts from theory leads to insights about the case
 - Don't feel compelled to delve deeply into both the origins and institutionalization of _Combahee River Collective Statement_; fine to devote more attention to one more than the other
 - On old institutionalism
   - In addition to lecture slides and assigned readings, this handout on old institutionalism may be useful: [LINK](https://anyone-can-cook.github.io/orgs_class/lectures/old_institutionalism2/old_institutionalism_overview.html)

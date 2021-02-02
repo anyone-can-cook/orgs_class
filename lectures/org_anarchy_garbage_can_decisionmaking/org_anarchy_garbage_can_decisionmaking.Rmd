@@ -1,0 +1,538 @@
+---
+title: "Organizational anarchy and the garbage-can theory of decision-making"
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 8pt
+urlcolor: blue
+output:
+  slidy_presentation:
+    highlight: tango
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Overview
+
+\tableofcontents
+
+\bigskip
+
+
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+# Loosely coupled systems [SKIM]
+
+### Concept "loosely coupled systems" a building block for "organizational anarchy"
+
+\medskip
+
+Recall three broad "epochs" in organizational theory
+
+- Rational systems perspective
+- Natual systems perspective (what __actually__ happens inside/around orgs)
+- Open systems perspective (focus on orgs in relation to broader external environment; examines populations of orgs rather than individual orgs)
+
+\medskip
+
+"Rational systems perspective"
+
+- Assume that org has clear hierarchy and org chart portrays actual chain of command
+- Assume that the parts/sub-systems of org are strongly conected to one another (change in one part has mechanistic effect on another part)
+    - Higher level asks for X, lower level does X
+
+\medskip
+"natural systems perspective" and "open systems perspective" 
+
+- systems (e.g., an organization) contain parts/sub-systems that are weakly connected to one another and operate fairly autonomously
+- For natural systems perspective, "system" might refer to an individual organization (e.g., UCLA)
+    - Organizational anarchy and "garbage can theory of decision-making" fit here
+- For open systems perspective, "system" might refer to a population of organizations (e.g., community college system) or an entire industry (e.g., postsecondary education industry)
+
+### Tight vs. loose coupling [@RN489]
+
+Tight coupling
+
+- Definition: arrangement of parts such that each is highly responsive to changes in the others; 
+- e.g., new car sensors that beep if you get too close to object; or that automatically turn on breaks when you get too close to object
+- e.g., assembly-line manufacturing is a tightly coupled systems
+
+Loose coupling
+
+- anything that may be tied together weakly, infrequently, with minimal interdependence
+- Elements of system are weakly connected to others and capable of fairly autonomous action
+- Loose coupling can be applied to the relationship among structural units [e.g., work groups, departments]
+    - e.g., When no VP for enrollment management, the actions of admissions, financial, marketing a loosely coupled w/ one another
+    - e.g., when university creates VP for enrollment management, actions of admissions office and financial aid office more coordinated, tightly coupled with one another
+
+### Loosely coupled systems
+
+"System"
+
+- Can think of an organization and its sub-units as a system
+- Can think of organizations interacting with one another as a system (e.g., LA Unified School District)
+
+In a system, some parts could be loosely coupled and other parts could be tightly coupled
+
+- e.g., tight coupling between UCLA offices of "Student Billings & Collections" and "Registrar" (If you don't pay tuition, immediate hold on ability to register for classes!)
+- e.g., loose coupling between UCLA office of Instructional Development and teaching practices of UCLA faculty/lecturers
+
+"Loosely coupled system"
+
+- Lousely coupled system is one in which different parts/elements of the system tend to be loosely coupled
+    - Note: loosely coupled system may contain some parts that are tightly coupled
+- Thinking of an organization as a system, universities are textbook examples of loosely coupled systems
+    - e.g., actions of UCLA Office of External Affairs don't affect academic departments
+
+### De-coupling
+
+De-coupling
+
+- “Formal administrative structures within organizations are often de-coupled from production systems ”[@RN489]
+- Example:
+    - University responds to policy requirements (e.g., Requirements about course learning goals from accreditation agencies) by making some changes in Office of Instructional Development, but those changes don't really touch teaching practices of faculty
+    - In reality, an implicit goal of Office of Instructional Development may be to "buffer" faculty teaching practices from external policy pressures
+
+# Organized anarchy
+
+### Overview of organized anarchy
+
+@RN928 developed idea of organized anarchy to describe system in which everyone does what they wish:
+
+\medskip
+
+> "Teachers decide if, when, and what to teach. Students decide if, when, and what to learn. Legislators and donors decide if, when, and what to support. Neither coordination (except the spontaneous mutual adaptation of decision) nor control are practiced. Resources are allocated by whatever process emerges but without explicit accommodation and without explicit reference to some superordinate goals.” [@RN928, p. 33]
+
+\medskip
+
+Understanding organized anarchies requires throwing away common-sense ideas of how orgs work. In org anarchies:
+
+- leaders do not play as decisive a role in deicding what orgs do
+- Suspend the idea that orgs have goals
+- Question the idea that thought precedes action and or that action motivated by larger purpose/goals
+
+
+### Characteristics of anarchical systems (from Birnbaum ch. 7)
+
+__Problematic goals__
+
+- formal goal of "college of arts and sciences": prepare students who are “liberally educated”
+    - Disagreement about what that means; unable to define goal more clearly
+- Actual curriculum reflects the interests of  departments/faculty members
+- Goals stated AFTER programs have been developed (as means of rationalizing what actions have been done)
+-	Goals are loose collection of changing ideas
+
+
+\medskip
+
+__Unclear technology__
+
+- Technology (definition): process by which orgs convert inputs to outputs
+- Example: turning new students into educated graduates
+    - Technologies: big lecture, small classes, laboratories, capstone courses, advising
+- In org anarchy, lots of technologies used but nobody knows which ones are effective or why effective
+    - e.g., which pedagogy most effective; nobody knows; they just do what they want
+
+\medskip
+
+__Fluid participation__
+
+- Lots of formal, informal groups at program, departmental, and college level that deal w/ any particular issue [e.g., curriculum]
+- Attendance/attention people devote to particular issue is sporadic
+- High turnover (e.g., students, faculty, staff) affects who is in group and what issues group cares about
+
+
+### "Four streams" in org anarchy: problems; solutions; participants; choice opportunities
+
+\medskip
+
+__Problems__
+
+- Unresolved concerns of people inside the institution
+- Lots of different problems happening at once in a department/org 
+    - students unhappy with course offerings
+    - junior faculty depart or don't get tenure
+    - Don't have someone who can teach required class
+
+\medskip
+
+__Solutions__
+
+- Common view: solution developed to solve a problem; in org anarchy, solutions already exist and they are waiting for a problem to attach themselves to [opportunism]
+- “solutions are someone’s products” (Birnbaum, p. 160)
+    - "solutions precede problems and flow in a stream through the organization looking for problems to which they might be the answer.”
+- Example: Conulting firms as "solutions looking for problems"
+    - e.g., they have pre-made solutions (products)
+    - convince university it has a problem (e.g., decline in applications, retention)
+    - say this problem can be solved by their product
+- Example: students concerned about campus/classroom environment
+    - Solutions: all faculty/staff do implict bias training
+    - This solution likely existed prior to problem and voiced by someone who will benefit from this solution
+- Ozan's solution is always allow me to teach statistics classes, particularly courses on prgoramming and "data science" using _R_
+    - Always looking for problems I can attach that solution to!
+
+
+### "Four streams" in org anarchy: problems; solutions; participants; choice opportunities
+
+\medskip
+
+__Participants__
+
+- Participants are people involved in a decision
+- In org anarchy, students/faculty are usually free to participate in many decisions if they are willing to expend time/energy
+- time is limited so students/faculty choose to get involved in some and not in others
+- **(Important)** Participants percieve problems/solutions through their own lens, which may be accurate/inaccurate. Example:
+    - Problem: Academic program/division wants to hire new faculty member
+    - Solution: grow PhD enrollment, make case that more PhD students require more faculty
+    - But maybe faculty hiring decisions now driven by undergraduate major/enrollment, not PhD enrollment
+
+```{r, eval=FALSE, echo=FALSE}
+
+•	Combining streams
+o	“These three streams flow through CLAS. One is problems looking for places to be aired and resolved. The second is solutions looking for issues to which they might be the answer. The third includes decision makers looking for work.”
+
+```
+\medskip
+	
+__Choice opportunities__
+
+- Choice opportunities: occasions in which org is expected to make a decision
+    - Often, choice opportunities arise at regularly scheduled times and/or through formally prescribed channels
+- Examples:
+    - Approval of annual budget
+    - approval of tuition price for next year
+    - hiring decision
+    - promotion/tenure
+    - approval of new undergraduate major programs
+    - approval of curriculum for new undergraduate major
+
+### Problem of decision-making in org anarchy
+
+Occasions (e.g., "choice opportunities") in which the org must make decision
+
+\medskip
+Problem of decision-making in organized anarchy:
+
+- Rational decision-making depends on agreed upon: clear goals; clear technology; stable participation
+- none of these present in org anarchy: 
+    - “How can Flagship make these choices if it cannot specify its goals, it does not know the best way to achieve them, and it cannot tell in advance who will participate in the decision process?” [@RN479, p. 161]
+
+\medskip
+
+What is present in organized anarchy is the set of interacting "streams"
+
+- "One is problems looking for places to be aired and resolved. The second is solutions looking for issues to which they might be the answer. The third includes decision makers looking for work.” [@RN479, p. 161]
+
+```{r, echo=FALSE, eval=FALSE}
+- "From this point of view, "an organization is a collection of choices [opportunities] looking for problems, issues and feelings [problems] looking for decision situations in which they might be aired, solutions looking for issues to which they might be the answer, and decision makers looking for work." [@RN4150, p. 2]
+```
+
+
+
+\medskip
+_Garbage-can decision-making_ is a theory that describes process of how decisions are actually made in organized anarchy
+
+# Garbage can theory of decision-making
+
+### An example of leadership/decision-making in an organized anarchy
+
+_Garbage-can decision-making_ is a theory that describes process of how decisions are actually made in organized anarchy
+
+\bigskip
+
+Example: scene from HBO's _The Wire_, Season 4, Episode 11 ("A New Day")
+
+- White Baltimore police officer "Herc" pulls over a Black church minister without cause and is physically agressive
+- The minister has strong connections to Baltimore political elite
+- New (white) Mayor Carcetti must decide how to discipline/fire "Herc"
+    - too light a punishment angers Black political elite and rank-and-file voters
+    - But police will be upset if "Herc" is fired for what they view as not a fireable offense
+- Disgraced (former) Police Commissioner Burrell enters Mayor Carcetti's office with a plan
+- Show scene (41:50 to 44:00)
+
+### Almost any org issue can be analyzed using gabage can theory
+
+\medskip
+
+Example: UCLA undergraduate major in education. Dept of education must decide:
+
+- Whether to adopt an undergraduate major (choice opportunity)
+- Prescribed/elective curriclum for the major (choice opportunity)
+
+\medskip
+
+Problems tied to this choice
+
+- UCLA will adopt an enrollment-based budgeting system
+- Education dept. has low student enrollment relative to number of faculty, and 
+- Education dept. does bad job of funding graduate students
+- State policymakers pressuring UCLA to grow enrollment, especially CC transfers
+- UCLA students often cannot get into major UCLA senior administrators want more majors to enroll these additional students
+
+\medskip
+
+Solution (Undergraduate major in education)
+
+- Undergrad Ed major could enroll these new students
+- Undergrad classes would lead to hiring more faculty, more funding for grad students (being TA for undergrad classes)
+
+\medskip
+
+Patricipants
+
+- UCLA senior administrators
+- Education department head;
+- Faculty in "divisions" of dept of education (e.g., HEOC, HDP)
+    - But some faculty more engaged than others
+
+
+## What are garbage cans
+
+### Garbage cans
+
+A __Garbage cans__ the set of problems, solutions, participants all engaged around a particular
+issue/choice opportunity
+
+- @RN4150, p. 2 "one can view a choice opportunity as a garbage can into which various kinds of problems and solutions are dumped by participants as they are generated"
+- @RN479, p. 162: "stream of choice opportunities can be thought of metaphorically as offering large receptacles, or garbage cans, through which flow the other streams of problems, solutions, and participants. In the garbage can, specific problems, participants, and solutions coalesce with a particular choice point and they become attached" (p. 162)
+
+
+\medskip
+
+Example choice opportunity: who teaches required undergrad methods courses
+
+- Problem
+    - Undergrad major plan approved by Academic Senate proposed 2-3 basic methods courses undergrads must complete
+    - But not a lot of faculty interested in teaching "inquiry" (i.e., methods) courses
+- Solution
+    - Require all faculty to teach 1 undergrad course; convince some to teach methods
+- Participants (Ozan)
+    - Ozan could teach intro stats or other quant methods courses
+    - But Ozan is a crazy zealot who only cares about reforming graduate methods training and developing a "data science using R" sequence
+        - He views this as "solution" to "problem" of improving research training for grad students
+    - Wants to teach his "intro to programming using R" course as undergrad elective
+- Garbage can
+    - Simple choice opportunity of who teaches intro stats course becomes complicated because other participants attach their problems/solutions to this choice
+
+### Garbage can example from Birnbaum
+
+__Decision__: president decides whether to approve to faculty positions for school of business in next year’s budget
+
+__Problems__
+
+- History faculty member was denied tenure; History wants new tenure line
+- Other departments say they deserve new faculty, not business school
+- Faculty senate says president has not gone through approved process for hiring; calls for re-evaluaiton of process for hiring new faculty
+
+__Solutions__
+
+- Deans of high-enrollment colleges say colleges w/ high enrollment should be given preference
+- Some say problem is need better faculty training, support
+- Some say problem is need better data to inform faculty hiring, so we need better management information system
+
+__Participants__
+
+- Advisee of faculty member denied tenure writes op-ed supporting advisor
+- Business dept faculty ask for meeting w/ president
+- Equity/diversity/inclusion tells president to increase diversity in hires
+
+\medskip
+
+“What started out as a simple choice opportunity now appears exceptionally complicated because of the linkages that have developed inside the garbage can. In the garbage can, it is possible for almost any problem, any solution, and any participant to become tightly coupled with any decision" (p. 164)
+
+### Understanding garbage-cans: Birnbaum's "rope" metaphor
+
+Garbage-can decision-making 
+
+- When problems, solutions, participants coalesce around a particular garbage can [“choice/action”] then that is the action taken
+
+Birnbaum's rope metaphor [highlights role of chance/contingency]
+
+- The sets of problems, solutions, participants are each a braid of rope;
+- Braids loosely connected with one another, but each braid moves on its own; change over time which part of the problems braid touches which part of the solutions brad
+- If you examine relationship between three braids at one point in time, one set of problems, solutions, participants will be connected to each other
+    - Certain actions possible, certain actions not possible
+- If you examine relationship between three braids at a different point in time, a different set of problems, solutions, participants will be connected to each other    
+    - Actions possible at previous points in time no longer possible; but other actions possible
+
+
+
+
+## Decision styles in garbage-can decision-making
+
+### Three decision styles related to garbage-can decision-making
+
+Three decision styles related to garbage-can decision-making
+
+- resolution; oversight (important); flight (important)
+
+\medskip
+
+__Decision made by resolution__
+
+- "problems are actually worked through rationally until they are resolved"
+- doesn't happen very often; but more likely for big decisions that formally must involve a vote by members of a department/committee
+
+__Decision made by oversight__ (think executive order)
+
+- "A decision by oversight is one made quickly so that people and problems busy in other arenas have no time to get involved in the decision"
+- Common when an administrator can push things through via "executive order"; usually not possible for decisions that require vote or formal approval by multiple parties
+
+
+### Three decision styles related to garbage-can decision-making
+
+Three decision styles related to garbage-can decision-making
+
+- resolution; oversight; flight
+
+\medskip
+
+__Decision made by flight__
+
+- What it means: when a choice becomes complicated because attached to too many participants/problems, find ways to detach participants/problems from that choice and have them focus on another issue, so the choice you want to decide on becomes uncluttered
+- Motivating idea: while choices may become attached to particular problems/participants, this attachment is not permanent
+- Example: Form an Ad Hoc Senate Committee on Reappointment Procedures, use this committee to handle the case of faculty member denied tenure, thereby removing this issue from the problem of whether to hire business school faculty
+
+### Decisions made by flight continued: creating new garbage cans
+
+__Garbage can__: problems, solutions, participants all engaged around a particular decision/action
+
+When choice cannot be made because too many problems, solutions, participants become attached to that choice, then create separate garbage cans to divert participants
+
+- e.g., create committee to develop ideas for developing, mentoring junior faculty
+- e.g., student groups protesting for diversity in faculty hiring; ask these groups to survey students about their thoughts on faculty hiring and develop a report with recommendations
+
+\medskip
+
+Committees [both ad-hoc and permanent] are effective ways of diverting participants to a focus on a new garbage can, rather than the garbage can attached to the choice/action you care about
+
+- @RN479, p. 164: "Ad hoc long-range institutional planning committees may be the quintessential garbage cans, temporarily providing "homes" for any conceivable institutional problem, solution, or participant. But there may also be permanent structural garbage cans, such as the academic senate, that function at least in part to draw unwanted participants, problems, or solutions away from decision arenas"
+
+## Practical strategies for leaders and agents of change
+
+### Strategies for leaders in organized anarchies
+
+"leaders" in organized anarchies have little actual authority; get things done using craftiness
+
+Basic rules for actors seeking to influence course of decisions
+
+- __Spend time__: 
+    - Most people unwilling to spend time on a decision; so those who are willing to spend time likely to have effect; 
+    - Only spend time on a small number of things rather than a venture capital approach
+- __Persist__ [most important in my opinion]: 
+    - A proposal can easily fail because of unique set of participants, problems, solutions that align at particular time; 
+    - later on the conditions for failure of that problem might not be there, so persist over a long time; be a long-term solution looking for problems
+- __Overload the system__: 	
+    - Time/attention of participants is limited; overload system w/ more proposals than they have capacity to oppose; and some will get approved
+- __Facilitate opposition participation__: 
+    - when opposition formally invited to participate, they start seeing your perspective; when given a "seat at the table" (even if symbolic) intensity of  opposition declines (e.g., Johns Hopkins expansion plans)
+
+### Strategies for leaders in organized anarchies
+
+Basic rules for actors seeking to influence course of decisions
+
+- __Provide garbage cans__
+    - 	Particpants/problems looking for choice opportunities to attach themselves to
+    - 	Can loudly proclaim a big choice that needs to be made and create a committee; then make an under-the-table decision about something you care about more
+    - 	Refer decision that needs to be made that you don’t care much about to some more formal committee;
+        - This frees your time and energy to focus on problem you care about; diverts the time/energy of that committee to a decision you don’t care about and away from the decision you do care about
+- __Exchange status for substance__: 
+    - let others take credit for "wins" so that they support your agenda, and your role/intentions remain invisible
+- __Manage unobtrusively__
+    - Instead of making big sweeping visible changes, focus on small unobtrusive changes that have large effects without generating opposition
+- __Interpret history__
+    - Interpret history/events of org in a way that reinforces support for initiatives you are currently interested in
+
+### Strategies for agents of change who are not formal leaders of org
+
+Imagine you are an agent of change or opposition group trying to influence organizational action
+
+- Important to have general understanding of garbage can decision-making theory and strategies leaders use to influence decisions in an organized anarchy
+
+\medskip
+
+Many of the same strategies available to "leaders" can be utilized by agents of change/opposition groups
+
+- e.g., interpret history, spend time, persist
+
+
+\medskip
+
+Realize when you are getting played
+
+- Sometimes leadership will appear to give in to your demands, but in reality they are not making a substantive change
+- When leadership asks your group form a committee to "make recommendations," ask yourself if this is a ploy to make you watste time, energy (e.g., run out clock to end of academic year)
+- If leadership asks you to join a committee of other groups focused on an issue, does this committee have any real powers or is leader trying to divert your attention from the real issue you care about
+
+### Old institutionalism vs. garbage-can decision-making
+
+Similarities (due to common theoretical origins)
+
+- focus on interactions between people/groups inside organization and interactions with local external environment
+- both focus on coalition-building, strategizing as keys to success
+- ignore personal/group identities of race, gender, disability, etc.
+
+\medskip
+
+Differences
+
+- old institutionalism highlights power dynamics; garbage-can theory does not emphasize power (but no reason you couldn't emphasize power when applying it)
+- Old institutionalism tends to focus on one conflict/problem; garbage-can theory shows how several different problems/solutions can become attached to decision you care about and affect organizational action
+- Garbage can theory highlights the importance of chance and contingency: 
+    - opportunities affected by events not directly related to issue you care about (e.g., growth in CC transfer to UCLA creates opportunity for undergrad Ed major)
+- Garbage can theory highlights importance of timing
+    - actions not possible one time are possible at others, depending on the set of problems/solutions/participants participating in decision at some point in time
+- Garbage can theory focuses on the perspectives/lenses of different participants -- how they perceive what is happening (but ignores race, gender, age, etc.)
+
+### Using old institutionalism, garbage-can theory in research
+
+Often reasonable to analyze some organizational problem/action using old institutionalism or garbage-can decision-making
+
+- e.g., how/why did the California "Associate's Degree for Transfer" emerge; how/why did UCLA adopt undergraduate major in education
+
+When you use a particular theory, that theory tells you what actors, factors, relationships to focus on
+
+- Some similarities and some differences in what the two theories tell you to focus on (see above)
+
+\medskip
+
+Can take bits and pieces of both theories
+
+- e.g., Maybe analysis of creation of UCLA African American Studies Dept. based mostly on institutional theory, but incorporates garbage-can ideas about importance of timing, importance of contigency (e.g., seemingly unrelated events)
+
+\medskip
+
+Can incorporate additional theoretical perspectives
+
+- e.g., Analysis of creation of UCLA African American Studies Dept based mostly on Critical Race Theory (CRT) but incorporate elements from old institutionalism and/or garbage-can decision0-making
+
+### References
