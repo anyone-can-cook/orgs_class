@@ -22,15 +22,25 @@ bibliography: ../lectures/educ250_bib.bib
 csl: ../lectures/apa.csl
 ---
 
-# Essay prompt
+# Essay prompt (revised)
 
 <!-- your comment 
 The "Combahee River Collective" published the 1977 _Combahee River Collective Statement_, which became an important document in the development of Black feminism. 
 
 -->
 
+The "Combahee River Collective" was a Black feminist organization best known for publishing the 1977 _Combahee River Collective Statement_, which became an important document in the development of Black feminism [@RN4570]. @RN869 develop an old institutionalism analysis of the origins and institutionalization of the "terminal vocational education" mission of the community college. Your task is, first, to develop an old institutionalism analysis of the origins and institutionalization of the _Combahee River Collective Statement_. Next, apply selected ideas/concepts from Black feminism – from Combahee River Collective Statement or other Black feminist scholarship you have read – to your analysis. Discuss how this application of Black feminism overcomes limitations of the old institutionalism analysis or yields insights that would difficult to observe in an analysis that only utilized old institutionalism.
+
+- *Note: This above essay prompt has been slightly revised. By clicking below, you can see the original essay prompt. Your essay can address either the original or the revised prompt.*
+
+<br>
+
+<details><summary>**Click to view original essay prompt"**</summary> 
+
 The "Combahee River Collective" was a Black feminist organization best known for publishing the 1977 _Combahee River Collective Statement_, which became an important document in the development of Black feminism [@RN4570]. @RN869 develop an old institutionalism analysis of the origins and institutionalization of the "terminal vocational education" mission of the community college. Your task is, first, to develop an old institutionalism analysis of the origins and institutionalization of the _Combahee River Collective Statement_. Next, how do the limitations of old institutionalism as a theoretical perspective undermine this analysis? And how can selected ideas/concepts from Black feminism -- from _Combahee River Collective Statement_ or other Black feminist scholarship you have read -- be incorporated to develop a more insightful analysis about the origins of the  _Combahee River Collective Statement_ and/or explanation for why this statement has been so impactful?
 
+</details>
+<br>
 
 # General guidelines/recommendations
 
