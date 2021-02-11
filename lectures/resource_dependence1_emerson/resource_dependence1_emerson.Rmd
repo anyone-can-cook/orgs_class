@@ -1,0 +1,598 @@
+---
+title: "Resource Dependence Theory Part I, Emerson's Theory of Power"
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 8pt
+urlcolor: blue
+output:
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Overview
+
+\tableofcontents
+
+\bigskip
+
+PLEASE EXCUSE TYPOS
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+# @RN960, Power-dependence relations
+
+### @RN960, introduction
+
+@RN960 theory of power (described below) extremely influential
+
+- In organizational theory 
+    - e.g., is the basis for "resource dependence theory"
+    - is utilized in "new institutionalism"
+- Influential in sociology more generally    
+
+## @RN960, core concepts/definitions
+
+### @RN960, introduction
+
+Prevailing notions of "power" that @RN960 was arguing against
+
+- Assume that power is an __attribute of a person__
+- Idea that some people (e.g., the president, owner of business) are "powerful" and other people not powerful
+
+\medskip
+
+@RN960 key intervention against this view of power
+
+- Power is an __attribute of a relationship__ not an attribute of a person
+    - "to say that 'X has power' is vacant, unless we specify 'over whom'" (p. 32)
+    
+\medskip
+
+Problem with "relational" view of power by @RN960
+
+- viewing power solely as an attribute of a relationship between two actors ignores power associated with -- as the Combahee River Collective Statement puts it -- "oppressed social categories" (e.g., Black, female) [@RN4570]
+    
+### @RN960, introduction
+
+@RN960 focuses on __relationships__ among "actors" ("actor A", "actor B", etc.)
+
+- For @RN960, "actor" was usually a person
+- But when theories of organizational behavior utilize @RN960, actor could be an organization or an organizational sub-unit
+
+\medskip
+
+@RN960 talks about social relations as "ties of mutual dependence"
+
+- That is, actors depend on each other to achieve things they want
+- but dependence of one actor on another is not necessarily equal
+
+\medskip
+
+In this lecture, which explains core ideas of @RN960, I often refer to actor _A_ and actor _B_
+
+- In examples I provide below, usually the balance of power between _A_ and _B_ will not be equal
+- Since I don't always specify who _A_ and _B_ are, helpful to have a couple of common cases in mind:
+  - One actor is _faculty advisor_ and the other is _student advisee_ (but sometimes I will change who is _A_ and who is _B_)
+  - One actor is _manager/boss_ and the other is _employee_ (but sometimes I will change who is _A_ and who is _B_)
+
+### Core concepts: dependence (most important concept)
+
+\medskip
+
+__Dependence__
+
+- Actor $A$ depends upon actor $B$ if $B$ controls goals that $A$ wants
+- Definition: __Dependence of actor $A$ upon actor $B$ ($Dab$)__ is:
+    1. directly proportional to $A$'s motivational investment in goals mediated by $B$ __AND__
+    1. inversely proportional to availability of those goals to $A$ outside of $A-B$ relation
+
+\medskip
+Reflection on definition of dependence
+
+- If actor $B$ does not control goals $A$ cares about, then $A$ not dependent on $B$
+- If actor $A$ can obtain goal from other actors, then $A$ less dependent on $B$
+
+\medskip
+Example: $A$ is professor who wants research funding; $B$ is foundation that funds research
+
+- Professor ($A$) is very dependent on Foundation ($B$) if:
+    1. needs research funding that foundation ($B$) controls __AND__ 
+    1. cannot get research funding from any other actor besides the foundation ($B$)
+- Professor is less dependent on Foundation ($B$) if:
+    1. Research funding isn't absolutely essential for the research that professor ($A$) wants to do __OR__
+    1. Professor ($A$) can get research funding from several other organizations
+
+\medskip
+Analyze this: student $A$ needs recommendation to obtain job; $B$ is professor who can write recommmendation
+
+
+### Core concepts: power
+
+Definition: __Power of actor $B$ upon actor $A$ ($Pba$)__ is:
+    
+- Emerson: 
+    - The power of actor $B$ over actor $A$ is the amount of resistance on the part of $A$ which can be potentially overcome by $B$
+- Said differently, $B$ is powerful over $A$ if:
+    - $B$ makes some demand on $A$, and satisfying this demand runs counter to the interests of $A$, and $A$ cannot resist satisfying this demand (because $A$ is dependent on $B$ for some goal that $A$ values)
+
+\medskip
+Some reflections:
+
+- Note that the power of $B$ over $A$ is a function of how __dependent__ $A$ is on $B$ (i.e., $B$ controls goals that $A$ wants and cannot get from other actors)
+
+\medskip
+Hypothetical example: it's saturday night
+
+- Actors:
+    - You (actor $A$) are a student; have a great saturday night lined up
+    - Actor $B$ is your boss and actor $C$ is your academic advisor (two different people)
+- Scenario:
+    - You get a text from your boss ($B$) asking you to do a task that takes all Saturday night to complete
+    - You also get text from your academic avisor ($C$) asking you to do task that takes all Saturday night to complete
+- Questions:
+    - (According to @RN960), what factors influence how you ($A$) respond?
+    - Does actor $B$ or actor $C$ have more power over you ($A$)?
+
+### Core concepts: power-dependence relationship equation
+
+$Pba = Dab$
+
+- the power of $B$ over $A$ is equal to the dependence of $A$ upon $B$ (i.e., extent to which $B$ controls goals that $A$ wants and cannot get from other actors)
+
+\medskip
+
+$Pab = Dba$
+
+- the power of $A$ over $B$ is equal to the dependence of $B$ upon $A$
+
+\bigskip
+
+Hypothetical example: Imagine you (actor $A$) are research analyst working at a "think-tank" and actor $B$ is your manager
+
+- Power of manager ($B$) over research analyst ($A$)
+    - is equal to the extent to which manager ($B$) controls goals that research analyst ($A$) wants and cannot obtain from anyone besides manager ($B$)
+- Power of research analyst ($A$) over manager
+    - is equal to the extent to which research analyst ($A$) controls goals that manager ($B$) wants and cannot obtain from anyone besides research analyst ($A$)
+- Anecdote: my first job as research analyst at Abt Associates
+Actor $A$ is worker; actor $B$ is manager
+
+### Balance and imbalance in power-dependence relationships
+
+@RN960, p. 33: 
+
+- “The notion of reciprocity in power-dependency relations raises the question of equality or inequality of power in the relation”
+
+__Balanced relationship__
+
+- The power of actor $A$ over actor $B$ is equal to power of actor $B$ over actor $A$ __because__ the dependence of actor $B$ on actor $A$ is equal to dependence of actor $A$ on actor $B$
+
+\medskip
+
+__Unbalanced relationship__
+
+- The power of actor $A$ over actor $B$ is greater than power of actor $B$ over actor $A$ __because__ the dependence of actor $B$ on actor $A$ is greater than the dependence of actor $B$ on actor $A$.
+- or vice-versa
+
+\medskip
+
+@RN960 reflections on balance/imbalance
+
+- When $A$ has power over $B$ __AND__ $B$ has power over $A$, power is not removed from the relationship
+- reciprocal power does not cancel out power; rather it adds "features" to the $A-B$ relationship
+
+### Balance and imbalance in power-dependence relationships
+
+\medskip
+"Features" caused by power balance/imbalance in $A-B$ relationship 
+
+
+1. __Power advantage__
+    - "A power advantage of actor $A$ over actor $B$ can be defined as:
+        - $Pab$ (power of actor $A$ over $B$) minus $Pba$ (power of $B$ over $A$)"
+    - Power advantage of one actor over another could be positive or negative (i.e., a power disadvantage)
+    - Power advantage could also be defined in terms of dependence:
+        - Power advantage of actor $A$ over actor $B$ is equal to $Dba$ (dependence of actor $B$ upon actor $A$) minus $Dab$ (dependence of actor $A$ upon actor $B$)
+\medskip
+1. __Costs and cost reduction__ [this is appeasement, acquiescence]
+    - __Costs__ 
+        - effort/pain involved for one actor (e.g., $B$) in meeting demands made by other actor (e.g., $A$) when $A$ has a power advantage over $B$
+    - __Cost reduction__: 
+        - “Process involving change in values (personal, social, economic) which reduces the pains incurred in meeting the demands of a powerful other.”
+        - e.g., rationalizing to yourself that it isn't so bad to do what more powerful actor wants
+        - Cost reductions don’t reduce the power imbalance; rather it is a process of rationalization that makes it less painful for $B$ to acquiesce to demands of $A$ 
+    - I do not believe in appeasement, acquescence as a strategy!
+1. __Balancing operations__
+    - structural changes in power-dependence relations to reduce power advantage
+    - i.e., things you can do if you are in power disadvantage in some relationship
+    - I believe in punching the bully in the mouth by using the right balancing operation
+
+## @RN960, Balancing operations
+
+### Balancing operations
+
+\medskip
+Consider unbalanced relation in which $A$ has power advantage over $B$
+
+- $Pab > Pba$: Power of $A$ over $B$ is greater than power of $B$ over $A$ __because__:
+- $Dba > Dab$: Dependence of $B$ upon $A$ is greater than dependence of $A$ upon $B$
+
+Balancing operation
+
+- structural changes in power-dependence relations to reduce power advantage in an unbalanced relation
+- Generally speaking, balance can be restored by increasing dependence of $A$ on $B$ __OR__ by decreasing dependence of $B$ on $A$
+
+
+\medskip
+Four balancing operations to reduce the power advantage that $A$ has over $B$
+
+1. $B$ reduces motivational investment in goals mediated by $A$
+    - (decreases dependence of $B$ on $A$)
+1. $B$ finds alternative resources for goals mediated by $A$
+    - (decreases dependence of $B$ on $A$)
+1. $A$ increases motivational investment in goals mediated by $B$
+    - (increases dependence of $A$ on $B$)
+1. $A$ is denied alternative sources for achieving goals mediated by $B$
+    - (increases dependence of $A$ on $B$)
+
+### Balancing operation 1: Withdrawal
+
+\medskip
+Power imbalance Dba > Dab: Powerful $A$ making demands on $B$
+
+\medskip
+Balancing operation: $B$ reduces motivational investment in goal mediated by $A$
+
+- called "withdrawal": $B$ decides to no longer pursue goal mediated by $A$
+
+\medskip
+Example: Kids $A$ and $B$ are "friends"
+
+- $A$ is popular; $B$ wants populrity; $B$ can be popular by being friends with $A$
+- $A$ will be friends with $B$ if: $B$ does $A$'s homework; $A$ gets to make fun of $B$
+- "Withdrawal" balancing operation:
+    - $B$ decides they don't care that much about being popular
+    - $B$ stops trying to hang out with $A$
+
+\medskip
+Example: $A$ is department head and $B$ is assistant professor
+
+- $B$ wants to get tenure; $A$ wants to make progress on research projects
+- Assume that department head, $B$, substantially controls whether assistant prof $A$ gets tenure (usually not true in practice)
+- $A$ will "support" $B$ if $B$ works on $A$'s research projects
+    - If $B$ works on $A$'s projects, $B$ has less time for their own work
+- "Withdrawal" balancing operation:
+    - $B$ decides they don't care that much about getting tenure
+    - $B$ stops working on $A$'s research projects
+
+### Balancing operation 2: extend the "power network"
+
+\medskip
+"extending the power network" enables $B$ to find alternative resources for goals mediated by $A$
+
+- __power network__: two or more connected power dependence relationships (e.g., $A-B$)
+
+\medskip
+Imagine actor $A$ is connected to $B$ and $C$ but $C$ and $B$ don't interact
+
+- $A$ is more powerful vis-a-vis $C$ and $B$ because $A$ can interact with $C$ or $B$, but $C$ and $B$ can only interact with $A$
+- scenarios in which this could arise:
+    - $A$, $B$, and $C$ are three kids who want friends to play with
+    - $A$ is an employer and $B$ and $C$ are workers
+
+\medskip
+
+Balancing operations that extend the power network:
+
+- "close the network": $C$ and $B$ form relationships with each other
+    - e.g., $C$ and $B$ become friends with one another
+        - now, $C$ no longer dependent solely on $A$ for friendship; $B$ no longer solely dependent on $A$ for friendship
+- "lengthen the linear network": 
+    - $C$ starts interacting with new actor $D$; and $B$ starts interacting with new actor $E$
+    - network now looks like this: $D-C-A-B-E$
+        - In friendship example, now $C$ depends less on $A$ because can play with $D$; and $B$ depends less on $A$ because can play with $E$
+        
+### Balancing operation 2: extend the "power network"
+
+\medskip
+
+Example of extending the power network from Jim Crow laws
+
+- A decade after US Civil war "Jim Crow" laws curtail political participation and make land ownership difficult
+
+\medskip
+
+Scenario: $B$ and $C$ are African Americans; $A$ is orange plantation they work on
+
+- Jim Crow laws make it difficult for $B$ and $C$ to make a living by owning a farm or by working in different occupations
+- Therefore, big farm $A$ pays $B$ and $C$ low wages, because they have no other options
+
+\medskip
+Lengthening network: $B$ pays $C$ find alternative ways to make a living besides working for orange plantation $A$
+
+- Potential examples of lengthening network
+    - $B$ and $C$ allowed to work for different employers in different jobs __OR__
+    - $B$ and $C$ allowed to own their own business or own property
+- Consequences of $A$ and $B$ being allowed to lengthen the network:
+    - They Could leave relationship with $A$
+    - __OR__ $A$ forced to increase wages until $A$ is better option than other employment options
+
+        
+
+### Balancing operation 4: Coalition formation to deny $A$ demands 
+\medskip
+
+Coalition formation is a means of gaining power of $A$ by denying $A$ alternative means for achieving goals
+\medskip
+
+Scenario: $B$ and $C$ work for $A$; $A$ treats them badly, pays low wages
+
+- Network looks like this: $B-A-C$
+- Power imbalance:
+    - Dba > Dab: Powerful $A$ making demands on $B$
+    - Dca > Dac: Powerful $A$ making demands on $C$
+
+\medskip
+Balancing operation 4: coalition formation
+
+- $B$ and $C$ form a coalition such that they act as one "collective actor"
+- Network now looks like this: $(BC)-A$
+- Consequences of coalition formation:
+    - $A$ needs $B$ and $C$ to work in order for business to run
+    - Now that $B-C$ become collective actor, can make unified demands:
+        - e.g., increase wages, improve working conditions
+        - If $A$ denies these demands, __both__ $B$ and $C$ will not work; big effect on business
+
+
+\medskip
+Examples of coalition formation:
+
+- Unionization of workers (Marx: workers of the world unite)
+- Students in class form coalition to make collective demands on teacher
+- Students form coalition to make collective demands on dept/university
+
+### Operation 3: make $A$ care more about goals controlled by $B$
+
+\medskip
+
+Power imbalance (Dba > Dab): Powerful $A$ making demands on $B$
+
+\medskip    
+
+In balancing operation 3, $A$ becomes more invested in goals mediated by $B$
+
+- Reduces power imbalance by increasing dependence of $A$ on $B$
+
+\medskip
+
+Actor $A$ is dependent on actor $B$ if:
+
+1. Actor $A$ cares about goals mediated by actor $B$
+1. Actor $A$ cannot easily achieve these goals outside the $A-B$ relation
+    - Key concept: __Availability__ 
+        - how easy to find some other actor (e.g., $C, D, E$) to achieve goal mediated by actor $B$
+
+\bigskip
+
+Scenario: Actor $A$ is boss, actor $B$ is worker, and actors $C, D, E$ are also workers
+
+- Dependence of boss ($A$) on worker $B$ increases if worker $B$ learns special skills that (1) are necessary to achieve goals valued by boss and (2) that other workers don't have
+
+\medskip
+Some real life examples
+
+- my first job as research assistant at Abt Associates
+    - I was expendable until I learned statistical programming
+- research assistants that work for me
+    - takes 1-2 years to train them; once trained, I live in fear they will leave
+- I like teaching statistics/programming because students literally become more powerful in jobs when they learn valuable skills that are hard to find
+
+
+## Pair and share: analyze a relationship
+
+### Pair and share: analyze an unbalanced power-dependence relationship
+
+Goal:
+
+- analyze an unbalanced power-dependence relationship you have experienced as a student or in your professional life
+
+\medskip
+
+Choose any relationship you have experienced. Below is prompt from last year:
+
+\medskip
+
+> Imagine that you are a UCLA graduate student who pays for tuition and cost of living by working as a graduate assistant/research assistant/administrative assistant (you decide the specifics) for a faculty member/office/department on campus at UCLA (you decide the specifics). Imagine that you are unhappy with the working conditions (e.g., expected to work more hours than you get paid for, insufficient emphasis on your professional development, etc.).
+
+\medskip
+After each of you choose a relationship, discuss the following:
+
+- Using concepts from @RN960, describe the power-dependence relations between you (actor $A$) and the other actor (actor $B$) (e.g., boss, advisor)
+- identify a couple concrete "balancing operations" that could improve your employment situation. Make sure you can articulate in your own words:
+    - (1) the generic "balancing operation" as described by @RN960
+    - (2) the particular action you could take that is a concrete example of the generic balancing operation
+- Which of these potential actions would be the best approach and why
+- [OPTIONAL] Discuss any concerns/limitations about Emerson's analysis of power or recommendations that might cause your plan of action to backfire
+    
+# @RN959, chapters 2 and 3
+
+## Chapter 2: Organization and social context defined
+
+### Organizationals and organizational goals
+
+\medskip
+
+@RN959 rejects the idea that organizations "have goals" 
+
+- because individuals and collective actors (i.e., coalitions) within organizations have different goals.
+
+\medskip
+How @RN959 define organizations:
+
+- An organization is not concrete social entities
+- rather, an organization is a constantly changing set of coalitions, with each coalition pursuing different set of goals
+        
+\medskip
+More on coalitions
+
+- Recall @RN960 definition of a "coalition" as two or more people acting as one "collective actor"
+    - e.g., UCLA students form a group to fight tuition increases; HEOC students form coalition to influence faculty hiring
+- individuals in coalitions do not have to share the same goals. All they need some inducement strong enough to get them to participate
+    
+    
+\medskip  
+Organizational actions and organizational decisions
+
+- Although organizations do not "have goals," they do engage in actions and make decisions (e.g., adopt new policy, approve budget, grant tenure)
+- Given that org is composed of lots of competing coalitions vying for decision-making power, question becomes which actors/coalitions influence org actions
+
+### The dominant coalition
+
+\medskip
+
+@RN959 perspective on who influences org actions draws on idea of "dominant coalition" from @RN1715
+
+- orgs composed of coalitions, defined as “multiple groups of individuals pursuing similar interests”
+    - Each group attempts to imporse its preferences (goals) on the larger system
+- Groups seek out other groups with compatable interests to be allies; give “side payment” io other groups for payment
+-	Dominant coalition is composed of each group whose interests must be taken into account when determining org decisions
+    - but some groups within the dominant coalition may have more say than others
+
+\medskip
+Additional ideas on dominant coalition
+
+- Recognizes that different people/groups don’t have same level of power
+- In most cases, no single individual or group is able to completely determine the goals of the organization
+- dominant coalition may include and represent the interests of constituencies or “stakeholders” outside of the formal boundaries of the organization”
+- dominant coalition within an org changes over time, depending on internal and external power dynamics
+
+### The dominant coalition
+
+Dominant coalition is composed of multiple groups, but some groups have bigger say than others in determining organizational decisions
+
+\medskip
+So which groups within dominant coalition have most influence in org decision-making?
+
+- Answer: the groups most responsible for acquiring resources the org values and cannot obtain elsewhere
+
+## Chapter 3: Social control of organizations
+
+### Resource dependence theory overview
+
+Overview of resource dependence theory (RDT)
+
+- Organizations depend on resources from external environment to survive
+- RDT shows that an org is sensitive to demands of important external resource providers
+- These external resource providers attempt to influence the behavior of the org
+- second half of @RN959 discusses how orgs respond to demands from external resource providers 
+
+### Dependence of one org on another
+
+Chapter 3 describes the dependence of one org on another org
+
+- Draws heavily from @RN960 conceptions of __dependence__ and __power__
+    - power = ability of actor $A$ to get actor $B$ to do what they would not otherwise do
+    - dependence: $B$ dependent on $A$ to the extent that $A$ controls goals that $B$ values and that $B$ cannot obtain outside $A-B$ relationship
+
+\medskip
+Three factors determine the dependence of one [focal] organization on an external organization [@RN959]
+
+1. __importance__ of the resource provided by external org; extent to which the focal organization requires it for continued operation/survival
+1. __Discretion__. Extent to which external org has discretion over allocation and use of the resource
+    - e.g., all orgs require electricity, but electric company cannot simply refuse to sell electricity to an org
+1. __Alternatives__. Extent to which there are few alternatives
+
+
+### Resource importance
+
+Resource importance a function of two factors  [@RN959]
+
+1. __Relative magnitude__: the proportion of total inputs or the proportion of total outputs accounted for by the resource exchange
+    - e.g., both car companies (e.g., Toyota) and computer manufacturers (e.g., Dell) require steel, but the relative magnitude of steel higher for car companies than computer manurfacturers
+1. __Criticality of the input__: ability of the organization to continue functioning in the absence of the resources or in the absence of the market for the output
+
+\medskip
+Resource importance and uncertainty
+
+- “The fact that a resource is important to the organization’s functioning is...not the source of the organization’s problems. Problematic conditions of resources come from the environment. When the supply of a resource is stable and ample, there is no problem for the organization. Organizational vulnerability derives from the possibility of an environment changing so that the resource is no longer assured.”
+
+### Dependence and control
+
+A focal organization is highly __dependent__ on an external organization/group if:
+
+1. external org controls resource that is important for survival/operation of focal org
+1. external org has discretion over allocation of resource the focal org requires
+1. focal org cannot obtain resource from other providers
+
+\medskip
+In turn, dependence measures the ability of the external org to control the focal org
+
+- If focal org highly dependent on external org, external org has great power over focal org
+
+### Dependence and internal actors
+
+Let's return to the question of which internal actors in the focal organization exert the most influence in org decision-making
+\medskip
+
+According to @RN959, internal actors that are most influential in org decision-making are:
+
+- the ones most responsible for garnering external resources that are important for org survival/success and are not widely available
+
+\medskip
+Some examples:
+
+- As public universities become more tuition reliant (and more sensitive to rankings), VP for enrollment management becomes more influential in org decision-making
+- At University of Arizona, biggest revenue source and biggest source of prestige was federal research funding in STEM fields
+    - Therefore, STEM faculty had more influence in org decision-making than non-STEM faculty
+- At University Nebraska Omaha, biggest resource provider was Omaha business community headed by Warren Buffet
+    - Business school faculty have strongest relationship w/ Omaha business community, most responsible for garnering resources from business community, so influenced org decision-making more than other faculty members
+
+### Career advice from @RN960 and @RN959
+
+@RN960 and @RN959 generally useful for the question, "should I do this thing that person X wants me to do?"
+
+\medskip
+
+Times @RN960 and @RN959 steered me in right direction
+
+- As grad student, saying "no" to unreasonable demands from bosses outside my department but saying yes to demands from advisor
+- As assistant prof at U. Arizona, saying "no" to dept head who wanted me to be his research assistant; but making sure I was bringing in enough prestige from external environment to not need his support
+
+\medskip
+
+Times @RN960 and @RN959 yielded bad advice
+
+- University of Arizona "cluster hire" initiative
+- Whenever I gave advice based on @RN960 and @RN959 to someone who was not a white male
+
+
+
+### References
