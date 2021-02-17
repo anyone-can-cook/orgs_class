@@ -1,0 +1,471 @@
+---
+title: "Resource Dependence Theory Part II, Managing Dependence on External Organizations"
+author: "Ozan Jaquette"
+date: ""
+output:
+  slidy_presentation:
+    highlight: tango
+  beamer_presentation:
+    keep_tex: no
+    toc: no
+    slide_level: 3
+    theme: default
+    highlight: tango
+    df_print: tibble
+    latex_engine: xelatex
+    includes: null
+classoption: dvipsnames
+fontsize: 8pt
+urlcolor: blue
+subtitle: 'EDUC 250B: Organizational Analysis of Higher Education'
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Overview
+
+\tableofcontents
+
+\bigskip
+
+PLEASE EXCUSE TYPOS
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+
+# Historical context, motivating ideas for resource dependence theory
+
+### Resource dependence theory (RDT) in historical context
+
+Resource dependence theory is a child of the 1970s
+
+- This was an era of giant "conglomerate" corporations that were horizontally diversified
+    - Meaning that a single corporation often producted products in completely unrelated markets (e.g., furniture and electronics)
+    
+\medskip
+Ideas @RN959 arguing against
+
+- "theory of the firm" from economics
+    - assumption that the goal of corporations is to maximize profit
+    - Orgs maximize profit by prioritizing efficiency/productivity; maximize revenue and minimize costs
+- But actual firms and firm behavior bore little resemblance to firms theorized by economists
+
+\medskip
+So @RN959 developed RDT to explain why actual firms of the 1970s behaved the way they did
+
+- RDT is a manager-focused theory written mainly about large corporations
+    - Managers don't pursue profit; they pursue stability, survival, perks
+
+### Core ideas motivating resource dependence theory
+
+\medskip
+
+All orgs depend on resources from external environment to survive
+
+- in turn, key to org survival is ability to acquire and maintain resources
+    - In particular, orgs depend on other orgs for many resources they require for survival
+- orgs don’t like uncertainty of resource flows because increases probability of death and can’t plan
+    - Overriding concern of orgs is how to manage dependencies with external orgs such that the org maintains steady flow of resources necessary for survival
+- If orgs prioritized profit/efficiency (maximize revenue, minimize costs) could create dependencies that lead to future problems
+    - e.g., org could be easily controlled by key resource providers
+    - could lead to uncertainty in resource flows that cause org death
+- Like economists, @RN959 assumes managers are "rational"
+    - but care about long-term survival more than short-run profit/efficiency
+
+\medskip
+@RN959 argue that these ideas do a better job of explaining org behavior than "theory of the firm"
+
+- Doesn't make sense for a car producer to buy an iron mine from profit/efficiency perspective (mining iron not what firm does well)
+- But could make sense for car producer to buy iron mine if goal is to ensure stable flow of resources necesssary for survival
+
+# How orgs manage dependence on external orgs
+
+### How orgs respond to dependence on external orgs
+
+@RN959 develop set of organizational responses to the problem of dependence on actors in external environment
+
+- These organizational responses are the focus of chapters 5 - 10
+
+\medskip
+Broad strategy in choosing organizational response
+
+- "Choose the least-constraining device to govern relations with your exchange partners that will allow you to minimize uncertainty and dependence and maximize your autonomy" [@RN1669, p. 5]
+- Logic of this statement:
+    - External orgs you are dependent on constrain your actions
+    - so respond in ways that minimize uncertainty in access to important resources while also attempting to reduce constraint/dependence on external orgs
+- Organizational responses can be arranged from less to more constraining
+    - all things equal, choose the least constraining    
+
+### Overview of org response to dependence
+
+Responses designed to "manage demands" by external orgs (chapter 5)
+
+- Compliance
+- Avoid fulfilling demands of resource provider you depend on
+- Avoid being dependent on particular resource provider
+
+\medskip
+
+Responses to control external orgs or reduce reliance on external orgs (chapter 6)
+
+- Merger/acquisition of external resource provider
+    - vertical merger
+    - horizontal merge
+- Organizational growth
+- [also talks about resource diversification here]
+
+\medskip
+Inter-organizational action to control external environment (chapter 7)
+
+- Trade/professional associations
+- Cooptation
+- Joint ventures
+
+## Managing demands by external orgs (chapter 5): compliance, avoidance, resource diversification
+
+### Managing demands by external orgs: compliance
+
+Problem
+
+- Org relies on resources from particular external resource provider and cannot easily get this resource from other providers
+- External resource provider demands org do certain things in order to obtain resources
+    - These demands may be onerous
+    - or these demands may conflict with demands from another important resource provider
+
+\medskip
+__Compliance__ strategy (also called acquiescence):
+
+- do what the external org tells you to do
+- This is similar to @RN960 idea of acquiescence to demands of more powerful other
+    - results in "costs"/effort/pain
+- Generally, adopt this strategy when you don't have other real options    
+    
+\medskip
+Example: researcher reliance on funding from particular foundation
+
+- Foundation changes requirements for receipt of funding (e.g., changes what things must be in "deliverable")
+- Compliance: do what foundation asks
+
+### Managing demands by external orgs: avoidance
+
+Problem
+
+- reliance on resources from external resource provider that you cannot easily obtain elsewhere; and resource proivder demands certain actions
+
+\medskip
+
+General definition of __avoidance__
+
+- strategies to avoid demands by external resource provider
+
+\medskip
+Two broad types of avoidance strategies:
+
+- Avoid fulfilling demands of external actor you are dependent on
+    - i.e., you still depend on resources from external org, but you find ways to avoid fulfilling demands of external org
+- Avoid being dependent on external actor in the first place
+    - Find ways to reduce dependence on resources provided by particular external org, so that org can survive/thrive without fulfilling demands of external org
+
+\medskip
+
+### Avoid fulfilling demands of external actor you depend on
+
+\medskip
+@RN959 describe many strategies to avoid fulfilling demands of external actors you dpend on for resources
+
+- Unimportant to memorize each strategy; understand broad ideas
+- Most of these strategies involve guile: e.g., secrecy/restricting information; use demands of one resource provider to avoid demands of another
+
+\medskip
+
+__Control definition of satisfaction__. Example:
+
+- Cannot receive PhD until dissertation committee approves revisions; PhD student negotiates to reduce amount of required revisions
+
+\medskip
+__Symbolic (rather than substantive) acquiescence to demands__. Examples:
+
+- Parents demand kid cleans up toys
+    - kid throws everything in closet
+- State demands you provide access for low-income students in exchange for state funding; 
+    - university adopts "outreach" program, but gives program small budget
+    - university adopts "no loan" need-based grant program, but don't advertise program or make eligibility difficult
+
+\medskip
+__Balance (conflicting) demands of multiple resource providers__. Examples:
+
+- playing orgs off one another
+    - say you can't do what one org asks because would violate demand by other org
+- Attend to demands sequentially
+    - Tell resource provider you will satisfy demand after you satisfy demand of other provider
+
+### Avoid dependence on particular resource provider
+
+Responses to reduce dependence on particular provider when provider makes onerous demands or resources become uncertain:
+
+- __Alternative resources__: 
+    - most obvious solution is to find alternatives to resource provided by particular provider
+- __Exert control on external resource provider__
+    - Merger/acquisition with provider (chapter 6)
+    - Coordination/coalition with other orgs to control resource provider (chapter 7)
+
+
+### Alternative resources to avoid dependence on particular resource provider
+
+\medskip
+
+Response: find alternative resources to reduce dependence on particular provider when provider makes onerous demands or resources become uncertain
+
+\medskip
+
+Two broad types of alternative resources:
+
+- Find __alternative sources of supply__ of same resource
+    - e.g., University relies on technology company to create online courses; if tech company now demands that it "owns" intellectual property of these courses, solution is to find different tech company
+- __Resource diversification__ such that org less reliant on particular resource
+    - "Given that the organization’s vulnerabilities derives from dependence on single exchanges, the most direct solution is to develop an organization which is dependent on a variety of exchanges and less dependent on any single exchange" [@RN959, p. 109]
+    - e.g., University depends on state appropriations, but state funding declines or state makes additional performance demands, university can diversify revenue sources by growing nonresident enrollment or finding big donors
+    - Changing which resources you use vs. diversifying resources
+        - Note that switching reliance from one resource (e.g., wool) to another resource (cotton) changes which external resource providers you depend on
+        - Diversifying resources (e.g., can use either wool or cotton as input) makes you less reliant on any single set of resource providers
+
+
+### Changing resources: mission drift and internal power dynamics
+
+\medskip
+Internal actors most responsible for garnering important resources from external environment exert most influence on org decision-making. Example:
+
+- University of Arizona depends on federal research funding for revenue (financial resource) and prestige (reputational resource)
+- Actors most responsible for garnering federal research funding (e.g, STEM faculty in particular disciplines) most influental in org decision-making
+    - These actors have most say in defining org mission
+
+\medskip
+Imagine that federal research funding dries up and won't come back
+
+- University responds by growing financial resources from private donors and tuition revenue; prestige now depends more on academic profile of enrolled students
+- Shift in internal power dynamics; these actors now more powerful:
+    - Actors most responsible for private donors (e.g., office of external relations)
+    - Actors most responsible for attracting nonresident students (e.g., football program), high-achieving students (e.g., office of enrollment management)
+    
+\medskip
+Change in resource providers leads to change in organizational mission
+
+- Orgs more sensitive to demands of new external resource providers (e.g., donors; affluent, high-achieving students)
+- Internal actors most responsible for obtaining resources from these new providers now have more say in org mission     - These actors may have different values than previously powerful internal actors
+
+## Mergers/acquisitions to reduce dependence on external org (chapter 6)
+
+### Mergers/acquisitions: buying orgs you depend on
+
+\medskip
+Examples of when to consider mergers (vertical merger)
+
+- Dependent on particular supplier of input to produce outputs (e.g., car company depends on steel from big steel producer)
+- Dependent on particular org to sell your products (e.g., furniture company sells all its furniture to particular furniture seller)
+
+\medskip
+The merger solution
+
+- depend on exchange relationship with particular org and concerned that org is controlling you?
+- Solution: buy that org so that you control the exchange relationship
+    - e.g., buy the org that supplies the needed input
+    - e.g., buy the org that absorbs all your output
+
+### Types of mergers: vertical, horizontal, diversification
+
+\medskip
+__Vertical integration__ [buying suppliers and distributors]
+
+- buying upstream and downstream represents a method of "extending organizational control over exchanges vital to its operation.”
+- e.g., Purdue University buys tech firm to produce own online courses
+
+\medskip
+
+__horizontal expansion__ [buying competitors] 
+
+- method for attaining dominance in particular market to increase the organization’s power in exchange relationships and to reduce uncertainty generated from competition”
+- e.g., for-profit colleges buy competitors that operate in same geographic area
+
+\medskip
+__diversification/conglomeration__ merger
+
+- When an firm buys firms that operate in different product markets; 
+- Makes org less sensitive to any single product line; less reliant on resource provider for any single product line
+- Results in "conglomerate firm" that operates in lots of different markets
+    - popular through 1970s, but died in 1980s
+
+\bigskip
+How would we categorize this?:
+
+- UCLA dept of education buys a high school
+
+### Organizational growth strategy to increase org survival
+
+Organizational growth strategy
+
+- When you are bigger, you can control your environment, you have more alumni that care about your survival, and you are harder to kill
+- Example: community colleges follow this strategy
+
+\bigskip
+How organizations can pursue growth strategy:
+
+- through mergers (e.g., horizontal, diversification)
+- or by aggressive expansion without mergers
+
+
+## Inter-organizational action to control external environment (chapter 7)
+
+### Inter-organizational action to control external environment
+
+What is the problem
+
+- Focal org dependent on resources from particular provider
+- But cannot find alternative resource provider, cannot acquire resource provider
+
+\medskip
+Example: for-profit colleges dependent on accreditors, federal regulators
+
+- Revenue at for-profit college mostly derived from federal financial aid
+- Requirements for college to enroll students that receive federal financial aid
+    - Accredited by accrediting agency recognized by secretary of US dept. of Education
+    - Satisfy additional regulatory requirements of US dept of Ed (e.g., student loan default rates, Title IX regulations)
+- Cannot find alternative resources or acquire these external orgs
+
+\medskip
+Solution: Linkages/coordination with other organizations
+
+- Linkages with external resource providers (e.g., participate in technical review panels about new regulations at US dept. of Ed)
+- Linkages with other orgs controlled by these external resource providers (e.g., coordinated action with other for-profit colleges)
+
+### Examples of inter-organizational linkages and benefits
+
+\medskip
+Examples of inter-organizational linkages
+
+- Professional associations/trade associations (e.g., American Association of Community Colleges; Career Education Colleges and Universities)
+- Asking manager of external resource provider to serve on your board
+- Manager of focal org participating in activities of external resource provider
+- Partnership with other, prestigious organization
+
+\medskip
+Potential benefits of inter-organizational linkages
+
+- exert control over external resource provider by forming coalition with other orgs like you and making unified demands
+    - e.g., what if GM suppliers formed a coalition
+- Communicate with external resource provider, socialize them to be supportive of focal org
+- Influence policies/regulations by external resource provider that affect focal org
+- Increase legitimacy for your org by partnering with an org with strong reputation
+
+
+### Professional/trade associations
+
+\medskip
+What are they:
+
+- “A collective structure that has developed to provide the centralized information and coordination”
+- Orgs in the same field [often competitors] form a permanent coalition 
+
+\medskip
+Why form professional associations
+
+- In order to negotiate with important resource provider as a unified front
+    - external resource provider not dependent on any one org, but may be very dependent on entire population of orgs
+    - so professional association negotiating on behalf of all orgs has much more power over external resource provider than any single org
+- Goal is often to lobby for favorable legislation
+
+\medskip
+Examples in higher ed:
+
+- Higher education professional associations (e.g., American Council on Education, Association of American Universities) have main offices in DC in order to lobby federal legislators
+- American Association of Community Colleges [@RN869]
+- Texas Association of Community Colleges
+    - "Our primary mission is advocacy to help lead policy development, innovation and institutional practices in higher education."
+    - e.g., lobby for more state funding, regulations that serve interests of TX community colleges
+
+### Cooptation
+
+General definition of cooptation
+
+- Member of one group tries to gain decision-making power/influence over another group
+
+\medskip
+	Cooptation in resource dependence theory:
+
+- If you are reliant on a particular resource provider, invite members of that resource provider into your org
+- Goal is to socialize that resource provider to the goals of the focal org; they become committed to the success of the focal org
+- "members of the controlling organization are invited to participate in various activities of the vulnerable organization, to sit on the board of directors, advisory panels, and so forth. The aim of bringing in potentially hostile outsiders is to socialize them and to commit them to provide assistance to the focal organization.”
+
+### Cooptation, examples
+
+Interlocking board directorates are most common example of cooptation
+
+- Focal organization invites influential decision-makers from important external resource providers to sit on "board of directors"/"board of trustees"
+- e.g., examine board of directors of [Lockheed Martin](https://www.lockheedmartin.com/en-us/who-we-are/leadership-governance/board-of-directors.html)
+    - Includes CEO of major steel corporation (war machines built from steel)
+    - Includes retired Air Force General (ties to decision-makers in military who decide on military contracts)
+- Examine board of directors of foundations, especially ones not flush with money
+    - Usually includes large number of people from finance world who can generate revenues for the foundation
+    
+\medskip
+Cooptation can also be members of focal org participating in activities of external resource provider they are dependent on
+
+- e.g., Review panels in US dept of education that make recommendations about new regulations, requiring new data
+    - Lots of representatives from for-profit sector
+    - lots of representatives from other higher ed professional associations (e.g., Land Grant Universities)
+    - All want to avoid regulations and data collections that go against interests of colleges they represent
+- e.g., Board of Directors of [Lumina Foundation](https://www.luminafoundation.org/board-of-directors)
+    - includes lots of "money people" that provide $ to Lumina
+    - includes representatives from universities that want $ from Lumina and also provide legitimacy to Lumina
+    
+### Cooptation example, The College Board
+
+Stated mission
+
+- “Founded in 1900, the College Board was created to expand access to higher education. Today, the membership association is made up of over 6,000 of the world’s leading educational institutions and is dedicated to promoting excellence and equity in education.”
+
+\medskip
+What they actually do
+
+- They are a vendor that sells tests to students
+- An enrollment management vendor that sells personal information about test-takers to universities (i.e., "prospect lists")
+- Their mission of access is debatable; but want to be perceived as committed to access for sake of legitimacy
+
+\medskip
+Cooptation
+
+- Invite higher education scholars focused on access to serve on advisory board that purports to focus on access
+    - good food+drink; generous honorarium/stipend
+- Socializes these scholars to be less critical of College Board
+- Increases legitimacy of "access mission" claims by College Board
+
+### Other examples of inter-organizational linkages
+
+__Joint ventures__
+
+- if product you want to create depends on resources your org creates and resources created by another org, can form "joint venture" to create product
+-	Joint venture involves the creation of a new, separate, organizational entity.
+- Less constraining/costly than acquisition
+- Often, joint ventures between orgs that produce stuff and orgs that sell stuff
+    - Example in higher ed [HERE](https://www.intostudy.com/en-gb): Joint venture between universities and firm that recruits/admits international students
+
+\medskip
+Partnering with an external organization that gives your organization legitimacy/prestige
+
+- e.g., community college developing transfer articulation agreements with prestigious university
+
+### References
