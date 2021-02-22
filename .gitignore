@@ -4,3 +4,6 @@
 .Ruserdata
 
 .DS_Store
+
+# exclude grading sub folder from being tracked in repo
+grading/

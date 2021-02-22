@@ -1,0 +1,940 @@
+---
+title: "Review of (some) theories covered in course"
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 8pt
+urlcolor: blue
+output:
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Overview
+
+\medskip
+
+\tableofcontents
+
+\medskip
+
+PLEASE EXCUSE TYPOS
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+### Word of caution
+
+\medskip
+
+The below slides provide brief and very crude summaries/comparisons of theories
+
+- Written Winter quarter 2019
+- Not all theories are covered (e.g., nothing on new institutional theory here)
+- Purpose is to jog your memory about basics of what theory is about
+- These slides can be helpful when working on final exam, but recommend that you rely more heavily on detailed lectures rather than these brief overviews
+
+# Rational choice/rational systems perspective
+
+### Rational choice/rational systems perspective
+
+\medskip
+
+Rational choice theory
+
+- Rational choice theory is about how people make decisions when faced with alternative courses of action
+    - the word "rational" refers to the _process_ of making decisions
+    - basically, do a cost-benefit analysis of all options and choose the option that benefits you the most
+- "Pure" theories of rational choice make the following assumptions:
+    1. __Alternatives__. All alternatives courses of action are known
+    1. __Expectations__. For each alternative, know the potential outcome and the likelihood of each outcome
+    1. __Preferences__. Decision-maker can order preferences for each outcome
+    1. __Decision rule__. Decision-maker has clear rules for deciding which alternative to choose    
+
+\medskip
+
+Rational systems perspective
+
+- views orgs as instruments designed to achieve clearly defined goals
+- Assumptions/characteristics of rational systems perspective
+    - __Goal specificity__. Goals of org are clearly defined
+        - Who chooses goals? doesn't really say, but implicitly management/owners choose goals
+    - All members of the organization care about achieving these organizational goals; the org goals are their goals
+    - __Formalization__. Formal org structure (e.g., org chart) dictates rules, roles, behavior of actors
+        - e.g., org structure represents what really happens in the org
+    
+# Organizational culture
+
+### Norms, organizational norms
+
+\medskip
+
+Norms
+
+- norms: shared "expectations about what people are supposed to do in given situations" [@RN479, p. 97]
+- Norms can be weak/strong
+    - strong norms: shared by everyone in group and deviance from prescribed behavior results in negative consequences
+- Upholding norms requires maintenance/work; norms are constantly changing, being challenged
+
+\medskip
+
+Organizational norms
+
+- organizational norms: norms that develop within specific org or are adhered to within specific org
+- Organizations with strong norms
+    - Agreed-upon ideas about acceptable behaviors for members in org; acceptance rewarded, deviation punished
+
+### Culture, organizational culture
+
+\medskip
+
+Organizational culture
+
+- In higher ed research, Tierney (1988) is most-cited authority:
+    - "The culture of an organization is grounded in the shared assumptions of individuals participating in the organization," which are "often taken for granted by the actors themselves"
+- Scholarship on org culture often prefers "strong" org cultures (e.g. "Toyota Way"); So what is a strong, cohesive org culture?
+    - People in org share same value system; believe in mission/values of org
+    - org members share same expectations of what behavior is appropriate
+    - View the org as a special place and members of the org are special people
+    - participation/membership in org makes life feel more meaningful
+
+\medskip
+
+Concerns about using "organizational culture" theory to study org behavior
+
+- Using these theories may compel the researcher to lionize "strong cultures"
+- Compels reearcher to conclude that the mainstream/dominant culture __IS__ the culture of the org; ignores power dynamics, conflict, exclusion, domination happening in the org
+- Assumption that an org that disagrees about values, does not prescribe behavior cannot be successful
+- No reason that analysis of "org culture" should focus on shared ideas; aren't conflicts/differences part of organizational culture too?
+
+\medskip
+I am not a huge fan of the Tierney (1988) conception of org culture; but the empirical articles we read on org culture don't use this conception
+
+# Old institutionalism
+
+### Old institutionalism
+
+"Old" institutionalism is an approach to analyzing organizational behavior examines how organizational goals/behaviors change or don't change by focusing on:
+
+- internal organizational dynamics (e.g., values of key personnel, changes in org structure)
+- interplay between organization and local external environment (e.g., local business leaders, local elected officials, alumni, donors, etc.)
+- old institutionalism focuses on individual organizations as opposed to populations of organizations (e.g., all liberal arts colleges)
+
+\medskip
+
+__Internal dynamics that make org goals/values likely to change__
+
+- Change in leadership; new personnel not committed to org mission
+- Change in organizational structure that re-shuffles power dynamics
+- Adoption of new processes for the sake of efficiency, or outsourcing core activities to external orgs
+- Coalitions of internal/external actors that mobilize to shift purpose of org
+
+### Old institutionalism
+
+\medskip
+
+__External dynamics that make org goals/values likely to change__
+
+- No organization can survive without support from external environment; 
+    - orgs must adapt to shifts in societal values that makes a core function of the org less important to society
+    - Orgs must adapt behaviors if org behaviors become viewed as illegitimate by society (e.g., denying LGBT student orgs funding in the 2000s)
+- Actors in external environment that provide needed resources have leverage to demand changes in org goals/behaviors
+- Orgs that control access to valued resources (e.g., flagship universities) become sits of conflict between competing "status groups" who want more access to the org
+    - Strategy, coalition building across status groups outside and within org become important determinants of outcome (e.g., civil rights movement)
+    - strategy/coalition building a focus for reading next week
+
+### Old institutionalism
+
+\medskip
+
+__For scholars seeking to analyze org behavior__
+
+- Old institutionalism remains useful because it doesn't make a priori prescriptive predictions about org behavior (as opposed to resource dependence theory);
+- Rather, points you in the right direction about the broad sorts of actors, processes, relationships to pay attention to in the internal and external environment
+- You identify these actors, processes, relationships that are important for the particular empirical context you are studying
+- Press play and observe what happens
+
+\medskip
+
+__For professionals seeking to change organizations__
+
+- Old institutionalism theory (and empirical case studies) gives you insight about which actors, forces important for org change
+- Gives insight about how subordinate groups can be crafty about strategy and coalition building to enact change that dominant group does not want to see happen
+
+### Institutions (and "old" vs "new")
+
+The concept "institution" has some similarities with the concept "norms"
+
+\medskip
+norms
+
+- shared "expectations about what people are supposed to do in given situations" (Birnbaum, p.97)
+
+Institution: 
+
+- taken for granted idea about appropriate practice (e.g., faculty should wear robes at graduation)
+
+Distinction between "old" vs. "new" institutionalism in organizational theory
+
+- "old" focuses on specific organizations and the local external environment surrounding the org
+- "new" focuses on populations of organizations and the macro external forces 
+
+Definition of institution in "old" institutionalism
+
+- idea/practice at the organization-level or org sub-level that becomes widely accepted to the point of being "taken for granted" as appropriate  (e.g., HEOC's prescribed PhD curriculum and HEOC's "comprehensive exam" process)
+
+Definition of institution in "new" institutionalism
+
+- an idea/practices that gets taken-for-granted for population of orgs within a field 
+- e.g., Universities should have a "provost"; universities should offer a BA in history; what research topics are "important" in a particular field
+
+### Institutionalization
+
+Definition:
+
+- the process by which an idea/practice becomes taken for granted as legitimate/appropriate; 
+- said different, the process/interactions by which an institution emerges
+
+\medskip
+In "old" institutionalism
+
+- Institutionalization happens at the org-level (e.g., process by which Harvard came to consider "character"/extra-curricular activities as legitimate admissions criteria)
+
+\medskip    
+In "new" institutionalism
+
+- Institutionalization happens at the "feld-level" (e.g., macro-level, societal level)
+- e.g., process by which having a "career center" became a taken-for-granted practice that all universities must abide by
+- e.g., process by which adopting terminal vocational credentials became a taken-for-granted practice that all community colleges adhered to
+
+
+### Institutionalization projects and institutional entrepreneurs: link between "old" and "new" institutionalism
+
+"New" institutionalism introduced in late 1970s, became the dominant paridigm in org theory by the mid 1980s
+
+\medskip
+Initial empirical research in new institutionalism focused on the effects of institutions
+
+- Focus on diffusion of practices (e.g., chief diversity offcer)
+- Early adoption often for technical efficiency reasons, later adoption for legitimacy (Tolbert & Zucker, 1983
+
+\medskip
+Dissatisfaction with this early research
+
+- "institutions" discussed as nuetral, disembodied forces that orgs must adhere to
+- ignores process by which institutions emerge, change, die; ignores agency/power dynamics involved in creation of institution
+
+### Institutionalization projects and institutional entrepreneurs: link between "old" and "new" institutionalism
+
+\medskip
+"Old" institutionalism resurrected as providing an agentic pers about how (new) institutions emerge
+
+- "macro" institutions emerge from the actions of local-level actors
+
+\medskip
+"institutional entrepreneurs" 
+
+- purposeful, self-interested status group that mobilize and build coalitions to institutionalize some practice that benefits the group
+- e.g., Protestant leaders/faculty of Ivy League institutionalized "character" admissions criteria at Ivy League institutions; they were only concerned about their own organizations, but other universities followed suit
+    
+\medskip
+"institutionalization projects"
+
+- purposeful efforts by some status group to institutionalize some practice at the macro level; 
+- utilize similar techniques and strategies identified in "old" institutionalism, but goal is to legitimize some idea/practice for an entire population of organizations
+- Brint and Karabel (1989) thought of exemplary analysis of an "institutionalization project"
+
+
+# Organizational anarchy/garbage can decision-making
+
+### Characteristics of organized anarchies
+
+__Problematic goals__
+
+- formal goal of "college of arts and sciences": prepare students who are “liberally educated”
+    - Disagreement about what that means; unable to define goal more clearly
+- Actual curriculum reflects the interests of  departments/faculty members
+- Goals stated AFTER programs have been developed (as means of rationalizing what actions have been done)
+-	Goals are loose collection of changing ideas
+
+
+\medskip
+
+__Unclear technology__
+
+- Technology (definition): process by which orgs convert inputs to outputs
+- Example: turning new students into educated graduates
+    - Technologies: big lecture, small classes, laboratories, capstone courses, advising
+- In org anarchy, lots of technologies used but nobody knows which ones are effective or why effective
+    - e.g., which pedagogy most effective; nobody knows; they just do what they want
+
+\medskip
+
+__Fluid participation__
+
+- Lots of formal, informal groups at program, departmental, and college level that deal w/ any particular issue [e.g., curriculum]
+- Attendance/attention people devote to particular issue is sporadic
+- High turnover (e.g., students, faculty, staff) affects who is in group and what issues group cares about
+
+
+### "Four streams" in organized anarchy
+
+"Four streams" in organized anarchy
+
+- problems; solutions; participants; choice opportunities
+
+\medskip
+
+__Problems__
+
+- Unresolved concerns of people inside the institution
+- Lots of different problems happening at once in a department/org 
+    - students unhappy with course offerings
+    - junior faculty depart or don't get tenure
+    - Don't have someone who can teach required class
+
+\medskip
+
+__Solutions__
+
+- Popular rhetoric is that solutions are developed to solve a problem; in org anarchy, solutions already exist and they are waiting for a problem to attach themselves to [opportunism]
+- Birnbaum (p. 160)
+    - “solutions are someone’s products”
+    - "solutions precede problems and flow in a stream through the organization looking for problems to which they might be the answer.”
+- Conulting firms are great example of "solutions looking for problems"
+    - e.g., they have pre-made solutions (products)
+    - convince university it has a problem (e.g., decline in applications, retention)
+    - say this problem can be solved by their product
+
+
+### "Four streams" in organized anarchy
+
+"Four streams" in organized anarchy
+
+- problems; solutions; participants; choice opportunities
+
+\medskip
+
+__Participants__
+
+- Participants are people involved in a decision
+- In org anarchy, students/faculty are usually free to participate in many decisions if they are willing to expend time/energy
+- time is limited so students/faculty choose to get involved in some and not in others
+
+\medskip
+	
+__Choice opportunities__
+
+- Choice opportunities are occasions on which the org is expected to make a decision
+- Examples:
+    - Approval of annual budget; approval of tuition price for next year; hiring decision; promotion/tenure; approval of new academic programs; implementation of state mandated plan
+    
+### Garbage can decision-making
+
+\medskip
+
+_Garbage-can decision-making_ is a theory that describes process of how decisions are actually made in organized anarchy
+
+\medskip
+
+__What are Garbage cans__
+
+- @RN479, p. 162: "stream of choice opportunities can be thought of metaphorically as offering large receptacles, or garbage cans, through which flow the other streams of problems, solutions, and participants. In the garbage can, specific problems, participants, and solutions coalesce with a particular choice point and they become attached" (p. 162)
+- @RN4150, p. 2 "one can view a choice opportunity as a garbage can into which various kinds of problems and solutions are dumped by par- ticipants as they are generated"
+
+### Garbage can example from Birnbaum
+
+__Decision__: president decides whether to approve to faculty positions for school of business in next year’s budget
+
+__Problems__
+
+- History faculty member was denied tenure; History wants new tenure line
+- Other departments say they deserve new faculty, not business school
+- Faculty senate says president has not gone through approved process for hiring; calls for re-evaluaiton of process for hiring new faculty
+
+__Solutions__
+
+- Deans of high-enrollment colleges say colleges w/ high enrollment should be given preference
+- Some say problem is need better faculty training, support
+- Some say problem is need better data to inform faculty hiring, so we need better management information system
+
+__Participants__
+
+- Advisee of faculty member denied tenure writes op-ed supporting advisor
+- Business dept faculty ask for meeting w/ president
+- Equity/diversity/inclusion tells president to increase diversity in hires
+
+\medskip
+
+“What started out as a simple choice opportunity now appears exceptionally complicated because of the linkages that have developed inside the garbage can. In the garbage can, it is possible for almost any problem, any solution, and any participant to become tightly coupled with any decision" (p. 164)
+
+### Understanding garbage-cans: Birnbaum's "rope" metaphor
+
+Garbage-can decision-making 
+
+- When problems, solutions, participants coalesce around a particular garbage can [“choice/action”] then that is the action taken
+
+Birnbaum's rope metaphor [highlights role of chance/contingency]
+
+- The sets of problems, solutions, participants are each a braid of rope;
+- Braids loosely connected with one another, but each braid moves on its own; change over time which part of the problems braid touches which part of the solutions brad
+- If you examine relationship between three braids at one point in time, one set of problems, solutions, participants will be connected to each other
+    - Certain actions possible, certain actions not possible
+- If you examine relationship between three braids at a different point in time, a different set of problems, solutions, participants will be connected to each other    
+    - Actions possible at previous points in time no longer possible; but other actions possible
+
+### 	Three decision styles related to garbage-can decision-making
+
+Three decision styles related to garbage-can decision-making
+
+- resolution; oversight; flight
+
+\medskip
+
+__Decision made by resolution__
+
+- "problems are actually worked through rationally until they are resolved"
+- This rarely happens in org decision-making
+
+__Decision made by oversight__ (think executive order)
+
+- "A decision by oversight is one made quickly so that people and problems busy in other arenas have no time to get involved in the decision"
+- More common in actual decision-making
+
+### 	Three decision styles related to garbage-can decision-making
+
+Three decision styles related to garbage-can decision-making
+
+- resolution; oversight; flight
+
+\medskip
+
+__Decision made by flight__ (most important thing for you to understand)
+
+- while choices may become attached to particular problems/participants, this attachment is not permanent
+- when a choice becomes complicated because attached to too many participants/problems, find ways to detach participants/problems from that choice and have them focus on another issue, so the choice you want to decide on becomes uncluttered
+- Example: Form an Ad Hoc Senate Committee on Reappointment Procedures, use this committee to handle the case of faculty member denied tenure, thereby removing this issue from the problem of whether to hire business school faculty
+
+### Decisions made by flight continued: creating new garbage cans
+
+__Garbage can__: problems, solutions, participants all engaged around a particular decision/action
+
+When choice cannot be made because too many problems, solutions, participants become attached to that choice, then create separate garbage cans to divert participants
+
+- e.g., create committee to develop ideas for developing, mentoring junior faculty
+- e.g., student groups protesting for diversity in faculty hiring; ask these groups to survey students about their thoughts on faculty hiring and develop a report with recommendations
+
+\medskip
+
+Committees [both ad-hoc and permanent] are effective ways of diverting participants to a focus on a new garbage can, rather than the garbage can attached to the choice/action you care about
+
+- @RN479, p. 164: "Ad hoc long-range institutional planning committees may be the quintessential garbage cans, temporarily providing "homes" for any conceivable institutional problem, solution, or participant. But there may also be permanent structural garbage cans, such as the academic senate, that function at least in part to draw unwanted participants, problems, or solutions away from decision arenas"
+
+### Criticisms of garbage can theory
+
+- Understates the importance of power dynamics
+- Ignores race, gender, identity, and all social categories
+
+### Old institutionalism vs. garbage-can decision-making
+
+Similarities (due to common theoretical origins)
+
+- focus on interactions between people/groups inside organization and interactions with local external environment
+- both focus on coalition-building, strategizing as keys to success
+- ignore personal/group identities of race, gender, disability, etc.
+
+\medskip
+
+Differences
+
+- old institutionalism highlights power dynamics; garbage-can theory ignores power
+- Old institutionalism tends to focus on one conflict/problem; garbage-can theory shows how several different problems/solutions can become attached to decision you care about and affect organizational action
+- Garbage can theory highlights the importance of chance and contingency: 
+    - opportunities affected by events not directly related to issue you care about (e.g., growth in CC transfer to UCLA creates opportunity for undergrad Ed major)
+- Garbage can theory highlights importance of timing
+    - actions not possible one time are possible at others, depending on the set of problems/solutions/participants participating in decision at some point in time
+- Garbage can theory focuses on the perspectives/lenses of different participants -- how they perceive what is happening (but ignores race, gender, age, etc.)
+
+### Using old institutionalism, garbage-can theory in research
+
+Often reasonable to analyze some organizational problem/action using old institutionalism or garbage-can decision-making
+
+- e.g., how/why did the California "Associate's Degree for Transfer" emerge; how/why did UCLA adopt undergraduate major in education
+
+When you use a particular theory, that theory tells you what actors, factors, relationships to focus on
+
+- Some similarities and some differences in what the two theories tell you to focus on (see above)
+
+\medskip
+
+Can take bits and pieces of both theories
+
+- e.g., Maybe analysis of creation of UCLA African American Studies Dept. based mostly on institutional theory, but incorporates garbage-can ideas about importance of timing, importance of contigency (e.g., seemingly unrelated events)
+
+# Power/conflict [overt]
+
+### @RN960
+
+@RN960 key insight about power
+
+- Power is an __attribute of a relationship__ not an attribute of a person
+    - "to say that 'X has power' is vacant, unless we specify 'over whom'" (p. 32)
+
+\medskip
+
+__Dependence__
+
+- Actor $A$ depends upon actor $B$ if $B$ controls goals that $A$ wants
+- Definition: __Dependence of actor $A$ upon actor $B$ ($Dab$)__ is:
+    1. directly proportional to $A$'s motivational investment in goals mediated by $B$ __AND__
+    1. inversely proportional to availability of those goals to $A$ outside of $A-B$ relation
+
+\medskip
+Reflection on definition of dependence
+
+- If actor $B$ does not control goals $A$ cares about, then $A$ not dependent on $B$
+- If actor $A$ can obtain goal from other actors, then $A$ less dependent on $B$
+
+### @RN960, power
+
+Definition: __Power of actor $B$ upon actor $A$ ($Pba$)__ is:
+    
+- Emerson: 
+    - The power of actor $B$ over actor $A$ is the amount of resistance on the part of $A$ which can be potentially overcome by $B$
+- Said differently, $B$ is powerful over $A$ if:
+    - $B$ makes some demand on $A$, and satisfying this demand runs counter to the interests of $A$, and $A$ cannot resist satisfying this demand (because $A$ is dependent on $B$ for some goal that $A$ values)
+
+\medskip
+Some reflections:
+
+- Note that the power of $B$ over $A$ is a function of how __dependent__ $A$ is on $B$ (i.e., $B$ controls goals that $A$ wants and cannot get from other actors)
+
+\medskip
+
+Power-dependence relationship equation
+
+$Pba = Dab$
+
+- the power of $B$ over $A$ is equal to the dependence of $A$ upon $B$ (i.e., extent to which $B$ controls goals that $A$ wants and cannot get from other actors)
+
+\medskip
+
+$Pab = Dba$
+
+- the power of $A$ over $B$ is equal to the dependence of $B$ upon $A$
+
+### @RN960, Balance and imbalance in power-dependence relationships
+
+@RN960, p. 33: 
+
+- “The notion of reciprocity in power-dependency relations raises the question of equality or inequality of power in the relation”
+
+__Balanced relationship__
+
+- The power of actor $A$ over actor $B$ is equal to power of actor $B$ over actor $A$ __because__ the dependence of actor $B$ on actor $A$ is equal to dependence of actor $A$ on actor $B$
+
+\medskip
+
+__Unbalanced relationship__
+
+- The power of actor $A$ over actor $B$ is greater than power of actor $B$ over actor $A$ __because__ the dependence of actor $B$ on actor $A$ is greater than the dependence of actor $B$ on actor $A$.
+- or vice-versa
+
+\medskip
+
+@RN960 reflections on balance/imbalance
+
+- When $A$ has power over $B$ __AND__ $B$ has power over $A$, power is not removed from the relationship
+- reciprocal power does not cancel out power; rather it adds "features" to the $A-B$ relationship
+
+### @RN960, Balancing operations
+
+\medskip
+Consider unbalanced relation in which $A$ has power advantage over $B$
+
+- $Pab > Pba$: Power of $A$ over $B$ is greater than power of $B$ over $A$ __because__:
+- $Dba > Dab$: Dependence of $B$ upon $A$ is greater than dependence of $A$ upon $B$
+
+Balancing operation
+
+- structural changes in power-dependence relations to reduce power advantage in an unbalanced relation
+- Generally speaking, balance can be restored by increasing dependence of $A$ on $B$ __OR__ by decreasing dependence of $B$ on $A$
+
+\medskip
+Four balancing operations to reduce the power advantage that $A$ has over $B$
+
+1. $B$ reduces motivational investment in goals mediated by $A$
+    - (decreases dependence of $B$ on $A$)
+1. $B$ finds alternative resources for goals mediated by $A$
+    - (decreases dependence of $B$ on $A$)
+1. $A$ increases motivational investment in goals mediated by $B$
+    - (increases dependence of $A$ on $B$)
+1. $A$ is denied alternative sources for achieving goals mediated by $B$
+    - (increases dependence of $A$ on $B$)
+    
+# Resource dependence theory
+
+### Core ideas motivating resource dependence theory
+
+\medskip
+
+All orgs depend on resources from external environment to survive
+
+- in turn, key to org survival is ability to acquire and maintain resources
+    - In particular, orgs depend on other orgs for many resources they require for survival
+- orgs don’t like uncertainty of resource flows because increases probability of death and can’t plan
+    - Overriding concern of orgs is how to manage dependencies with external orgs such that the org maintains steady flow of resources necessary for survival
+- If orgs prioritized profit/efficiency (maximize revenue, minimize costs) could create dependencies that lead to future problems
+    - e.g., org could be easily controlled by key resource providers
+    - could lead to uncertainty in resource flows that cause org death
+- Like economists, @RN959 assumes managers are "rational"
+    - but care about long-term survival more than short-run profit/efficiency
+
+\medskip
+@RN959 argue that these ideas do a better job of explaining org behavior than "theory of the firm"
+
+- Doesn't make sense for a car producer to buy an iron mine from profit/efficiency perspective (mining iron not what firm does well)
+- But could make sense for car producer to buy iron mine if goal is to ensure stable flow of resources necesssary for survival
+
+### Organizationals and organizational goals
+
+\medskip
+
+@RN959 rejects the idea that organizations "have goals" 
+
+- because individuals and collective actors (i.e., coalitions) within organizations have different goals.
+
+\medskip
+How @RN959 define organizations:
+
+- An organization is not concrete social entities
+- rather, an organization is a constantly changing set of coalitions, with each coalition pursuing different set of goals
+        
+\medskip
+Recall @RN960 definition of a "coalition" as two or more people acting as one "collective actor"
+
+- e.g., UCLA students form a group to fight tuition increases; HEOC students form coalition to influence faculty hiring
+- individuals in coalitions do not have to share the same goals. All they need some inducement strong enough to get them to participate
+    
+    
+\medskip  
+Organizational actions and organizational decisions
+
+- Although organizations do not "have goals," they do engage in actions and make decisions (e.g., adopt new policy, approve budget, grant tenure)
+- Given org is composed of competing coalitions vying for decision-making power, which actors/coalitions influence org actions?
+
+### The dominant coalition
+
+\medskip
+
+@RN959 perspective on who influences org actions draws on idea of "dominant coalition" from @RN1715
+
+- orgs composed of coalitions, defined as “multiple groups of individuals pursuing similar interests”
+    - Each group attempts to imporse its preferences (goals) on the larger system
+- Groups seek out other groups with compatable interests to be allies; give “side payments” to other groups
+-	__Dominant coalition__ is composed of each group whose interests must be taken into account when determining org decisions
+    - but some groups within the dominant coalition may have more say than others
+
+\medskip
+Additional ideas on dominant coalition
+
+- Recognizes that different people/groups don’t have same level of power
+- In most cases, no single individual or group is able to completely determine the goals of the organization
+- dominant coalition may include and represent the interests of constituencies or “stakeholders” outside of the formal boundaries of the organization”
+- dominant coalition within an org changes over time, depending on internal and external power dynamics
+
+### Dependence of one org on another
+
+Draws heavily from @RN960 conceptions of dependence and power
+
+- __dependence__: $B$ dependent on $A$ to the extent that $A$ controls goals that $B$ values and that $B$ cannot obtain outside $A-B$ relationship
+- __power__ = ability of actor $A$ to get actor $B$ to do what they would not otherwise do
+    - power is purely a function of dependence
+
+\medskip
+Three factors determine the dependence of one [focal] organization on an external organization [@RN959]
+
+1. __importance__ of the resource provided by external org; extent to which the focal organization requires it for continued operation/survival
+1. __Discretion__. Extent to which external org has discretion over allocation and use of the resource
+    - e.g., all orgs require electricity, but electric company cannot simply refuse to sell electricity to an org
+1. __Alternatives__. Extent to which there are few alternatives
+
+
+### Symmetric and asymmetric dependence relationships
+
+\medskip
+
+Interdependence
+
+- Both focal org and external org depend on one another
+
+\medskip
+Symmetric relationship between focal org and external org
+
+- both orgs equally dependent on one another for resources
+- Power dynamics remain, but unlikely one org dominantes other
+
+\medskip
+Asymmetric relationship between focal org and external org
+
+- Org $A$ very dependent on resources provided by org $B$; org $B$ less dependent on resources provided by org $A$
+- the resource exchange is more important for one org than the other; more powerful (less dependent org) can dominate other org
+
+\medskip
+Examples of asymmetric relationships
+
+- General Motors profits in 1970s due to market position, not efficiency
+    - GM had relationships with many small suppliers of auto parts
+    - Most GM suppliers sold __all__ their output to GM; suppliers very dependent on GM, but GM not dependent on any one supplier
+    - GM audited suppliers to ensure the weren't earning big profits on transactions
+        - Forced suppliers to sell at low prices, which increased GM profits
+
+### Dependence and power of internal actors
+
+Let's return to the question of which internal actors in the focal organization exert the most influence in org decision-making
+\medskip
+
+According to @RN959, internal actors that are most influential in org decision-making are:
+
+- the ones most responsible for garnering external resources that are important for org survival/success and are not widely available
+
+\medskip
+Some examples:
+
+- As public universities become more tuition reliant (and more sensitive to rankings), VP for enrollment management becomes more influential in org decision-making
+- At University of Arizona, biggest revenue source and biggest source of prestige was federal research funding in STEM fields
+    - Therefore, STEM faculty had more influence in org decision-making than non-STEM faculty
+- At University Nebraska Omaha, biggest resource provider was Omaha business community headed by Warren Buffet
+    - Business school faculty have strongest relationship w/ Omaha business community, most responsible for garnering resources from business community, so influenced org decision-making more than other faculty members
+### text
+
+### How orgs respond to dependence on external orgs
+
+@RN959 develop set of organizational responses to the problem of dependence on actors in external environment
+
+- These organizational responses are the focus of chapters 5 - 10
+
+\medskip
+Broad strategy in choosing organizational response
+
+- "Choose the least-constraining device to govern relations with your exchange partners that will allow you to minimize uncertainty and dependence and maximize your autonomy" [@RN1669, p. 5]
+- Logic of this statement:
+    - External orgs you are dependent on constrain your actions
+    - so respond in ways that minimize uncertainty in access to important resources while also attempting to reduce constraint/dependence on external orgs
+- Organizational responses can be arranged from less to more constraining
+    - all things equal, choose the least constraining    
+
+### Overview of org response to dependence
+
+\medskip
+__SEE RESOURCE DEPENDENCE THEORY LECTURE FOR DETAILED DESCRIPTION OF ORG RESPONSES__
+\medskip
+
+Responses designed to "manage demands" by external orgs (chapter 5)
+
+- Compliance
+- Avoid fulfilling demands of resource provider you depend on
+- Avoid being dependent on particular resource provider
+    - find alternative supplier of particular resource
+    - diversify the resources you rely upon
+
+\medskip
+
+Responses to control external orgs or reduce reliance on external orgs (chapter 6)
+
+- Merger/acquisition of external resource provider
+    - vertical merger
+    - horizontal merge
+- Organizational growth
+
+
+\medskip
+Inter-organizational action to control external environment (chapter 7)
+
+- Trade/professional associations
+- Cooptation
+- Joint ventures
+
+## Inter-organizational action to control external environment (chapter 7)
+
+### Inter-organizational action to control external environment
+
+What is the problem
+
+- Focal org dependent on resources from particular provider
+- But cannot find alternative resource provider, cannot acquire resource provider
+
+\medskip
+Example: for-profit colleges dependent on accreditors, federal regulators
+
+- Revenue at for-profit college mostly derived from federal financial aid
+- Requirements for college to enroll students that receive federal financial aid
+    - Accredited by accrediting agency recognized by secretary of US dept. of Education
+    - Satisfy additional regulatory requirements of US dept of Ed (e.g., student loan default rates, Title IX regulations)
+- Cannot find alternative resources or acquire these external orgs
+
+\medskip
+Solution: Linkages/coordination with other organizations
+
+- Linkages with external resource providers (e.g., participate in technical review panels about new regulations at US dept. of Ed)
+- Linkages with other orgs controlled by these external resource providers (e.g., coordinated action with other for-profit colleges)
+
+### Examples of inter-organizational linkages and benefits
+
+\medskip
+Examples of inter-organizational linkages
+
+- Professional associations/trade associations (e.g., American Association of Community Colleges; Career Education Colleges and Universities)
+- Asking manager of external resource provider to serve on your board
+- Manager of focal org participating in activities of external resource provider
+- Partnership with other, prestigious organization
+
+\medskip
+Potential benefits of inter-organizational linkages
+
+- exert control over external resource provider by forming coalition with other orgs like you and making unified demands
+    - e.g., what if GM suppliers formed a coalition
+- Communicate with external resource provider, socialize them to be supportive of focal org
+- Influence policies/regulations by external resource provider that affect focal org
+- Increase legitimacy for your org by partnering with an org with strong reputation
+# Feedback on practice final exam question
+
+### Professional/trade associations
+
+\medskip
+What are they:
+
+- “A collective structure that has developed to provide the centralized information and coordination”
+- Orgs in the same field [often competitors] form a permanent coalition 
+
+\medskip
+Why form professional associations
+
+- In order to negotiate with important resource provider as a unified front
+    - external resource provider not dependent on any one org, but may be very dependent on entire population of orgs
+    - so professional association negotiating on behalf of all orgs has much more power over external resource provider than any single org
+- Goal is often to lobby for favorable legislation
+
+\medskip
+Examples in higher ed:
+
+- Higher education professional associations (e.g., American Council on Education, Association of American Universities) have main offices in DC in order to lobby federal legislators
+- American Association of Community Colleges [@RN869]
+- Texas Association of Community Colleges
+    - "Our primary mission is advocacy to help lead policy development, innovation and institutional practices in higher education."
+    - e.g., lobby for more state funding, regulations that serve interests of TX community colleges
+
+### Cooptation
+
+General definition of cooptation
+
+- Member of one group tries to gain decision-making power/influence over another group
+
+\medskip
+	Cooptation in resource dependence theory:
+
+- If you are reliant on a particular resource provider, invite members of that resource provider into your org
+- Goal is to socialize that resource provider to the goals of the focal org; they become committed to the success of the focal org
+- "members of the controlling organization are invited to participate in various activities of the vulnerable organization, to sit on the board of directors, advisory panels, and so forth. The aim of bringing in potentially hostile outsiders is to socialize them and to commit them to provide assistance to the focal organization.”
+
+### Cooptation, examples
+
+Interlocking board directorates are most common example of cooptation
+
+- Focal organization invites influential decision-makers from important external resource providers to sit on "board of directors"/"board of trustees"
+- e.g., examine board of directors of [Lockheed Martin](https://www.lockheedmartin.com/en-us/who-we-are/leadership-governance/board-of-directors.html)
+    - Includes CEO of major steel corporation (war machines built from steel)
+    - Includes retired Air Force General (ties to decision-makers in military who decide on military contracts)
+- Examine board of directors of foundations, especially ones not flush with money
+    - Usually includes large number of people from finance world who can generate revenues for the foundation
+    
+\medskip
+Cooptation can also be members of focal org participating in activities of external resource provider they are dependent on
+
+- e.g., Review panels in US dept of education that make recommendations about new regulations, requiring new data
+    - Lots of representatives from for-profit sector
+    - lots of representatives from other higher ed professional associations (e.g., Land Grant Universities)
+    - All want to avoid regulations and data collections that go against interests of colleges they represent
+- e.g., Board of Directors of [Lumina Foundation](https://www.luminafoundation.org/board-of-directors)
+    - includes lots of "money people" that provide $ to Lumina
+    - includes representatives from universities that want $ from Lumina and also provide legitimacy to Lumina
+    
+### Cooptation example, The College Board
+
+Stated mission
+
+- “Founded in 1900, the College Board was created to expand access to higher education. Today, the membership association is made up of over 6,000 of the world’s leading educational institutions and is dedicated to promoting excellence and equity in education.”
+
+\medskip
+What they actually do
+
+- They are a vendor that sells tests to students
+- An enrollment management vendor that sells personal information about test-takers to universities (i.e., "prospect lists")
+- Their mission of access is debatable; but want to be perceived as committed to access for sake of legitimacy
+
+\medskip
+Cooptation
+
+- Invite higher education scholars focused on access to serve on advisory board that purports to focus on access
+    - good food+drink; generous honorarium/stipend
+- Socializes these scholars to be less critical of College Board
+- Increases legitimacy of "access mission" claims by College Board
+
+## Problem with resource dependence theory
+
+### The problem with resource dependence theory
+
+Assumes that managers and other organizational actors are "rational"
+
+- Racism/sexism/homophobia/ableism are not "rational"; resource dependence theory just assumes they don't exist
+
+\medskip
+
+Research question: Why are there so few women of color that are presidents of major research universities? [from Winter 2017 UCLA MSA students]
+
+\medskip
+
+- Resource dependence theory (RDT): 
+    - Since managers/board of trustees are rational, it must be because women of color applicants have less access to resources (e.g., strong connections at federal research funding agencies, corporations) that the university relies on
+    
+\medskip
+
+- Or maybe board of trustee members responsible for choosing president are racist/sexist
+    - e.g., don't "trust" or don't "feel comfortable" about women of color leading the university
+    - But RDT would begin w/ the assumption that racism/sexism is not part of the decision-making calculus and that the reason must be that these candidates not as good at garnering resources
+    
+    
+
+# New institutionalism
+
+Got sick and ran out of steam! see slides from "new institutionalism" lecture
+
+
+### References
