@@ -2547,8 +2547,9 @@ input, select, textarea {
 		ul.feature-icons li ul {
       list-style: circle;
       margin-left: 1em;
-      font-size: 88%;
-      /*position: absolute;*/
+      font-size: 85%;
+      line-height: 1.8;
+      position: absolute;
     }
 
 /* Icons */
