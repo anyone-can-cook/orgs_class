@@ -1,0 +1,60 @@
+---
+title: "Resource dependence theory: potential responses to dependence"
+output:
+  html_document:
+    toc: no
+    df_print: paged
+  pdf_document:
+    toc: no
+    number_sections: yes
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+# The problem of dependence
+
+The problem of dependence
+
+- Some focal org is dependent on an external org for particular resource flows that are not easily obtained elsewhere; and those resource flow are becoming uncertain and/or the external resource provider is starting to make more onerous demands
+
+# Organizational responses to dependence
+
+Potential organizational responses to the problem of dependence, mostly drawn from @RN1669
+
+General advice from resource dependence theory to focal organizations
+
+> “Choose the least-constraining device to govern relations with your exchange partners that will allow you to minimize uncertainty and dependence and maximize your autonomy” [@RN1669, p. 5]
+
+@RN1669 then list potential responses from less to more constraining, with "constraint" implicitly defined as being forced to engage in interactions that it can't control.
+
+
+- Less constraining responses
+  - Growing large I a potential source of advantage [especially if you grow too big to fail]
+    - Ex: big banks in 2008 mortgage crisis; community college enrollment growth solution
+  - Avoidance
+    - E.g., Say you did what was asked but do a half-assed job 
+  - If dependence comes from relying on a sole supplier, then an obvious solution is to get alternatives
+    - Find an alternative source of the same resource 
+    - Rely on a different set of resources to avoid being dependent on any one resource exchange [example: grow nonresident enrollment]
+- Other tactics require coordinated efforts with organizations, thereby entailing somewhat more constraint
+  - Least constraining: organization join associations or business groups
+    - Create association of organizations in order to develop a coalition that lobbies/makes demands with external resource provider on a unified front [e.g., AACC, association of land grant universities]
+    - Doesn’t create constraints vis-a-vis external resource providers but does constrain behavior of orgs vis-a-vis the association
+  - More constraining: form alliance or joint venture with the source of one’s constraint.
+    - E.g., joint venture with a key supplier
+- Riskier strategy for managing dependence, co-opt dependence
+  - co-opt dependence: invite a representative of the source of constraint onto its governing board, thus trading sovereignty for support. 
+    - e.g., add a venture capitalist to the board to maintain sources of funding
+    - Manager of focal org invites external resource provider to participate in activities of focal org 
+    - drawing on Selznick, Tennessee Valley Authority, manage uncertainty by inviting a representative of the source of constraint onto its governing board, thus trading sovereignty for support.
+    - basic idea: having a representative serving on the board provides the source of constraint with a vested interest in the dependent organization’s survival
+    - Members of focal org participate in activities of external resource provider (e.g., regulatory capture)
+Members of for profit colleges sit on regulatory panels considering changes to regulations about for-profit colleges
+- Most constraining method of managing dependence: 
+  - “the most constraining method of managing dependence is toincorporate it within the organization’s boundary through mergers and acquisitions.”
+  - Mergers, seen by those with an efficiency orientation as a means of reducing transaction costs, to the ultimate benefit of consumers. RDT said that mergers were actually a means of managing interdependence, and may provide little benefit to either consumers or shareholders.
+- compliance/acquiescence
+  - like cost reduction from Emerson
+
+# References
+

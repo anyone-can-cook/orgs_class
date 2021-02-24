@@ -7,6 +7,8 @@ classoption: dvipsnames  # for colors
 fontsize: 8pt
 urlcolor: blue
 output:
+  slidy_presentation:
+    highlight: tango
   beamer_presentation:
     keep_tex: false
     toc: false

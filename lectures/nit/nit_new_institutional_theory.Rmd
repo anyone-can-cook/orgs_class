@@ -1,0 +1,742 @@
+---
+title: "New Institutional Theory"
+subtitle:  "EDUC 250B: Organizational Analysis of Higher Education"
+author: Ozan Jaquette
+date: 
+classoption: dvipsnames  # for colors
+fontsize: 9pt
+urlcolor: blue
+output:
+  beamer_presentation:
+    keep_tex: false
+    toc: false
+    slide_level: 3
+    theme: default # AnnArbor # push to header?
+    #colortheme: "dolphin" # push to header?
+    #fonttheme: "structurebold"
+    highlight: tango # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax highlighting); push to header
+    df_print: tibble #default # tibble # push to header?    
+    latex_engine: xelatex #  Available engines are pdflatex [default], xelatex, and lualatex; The main reasons you may want to use xelatex or lualatex are: (1) They support Unicode better; (2) It is easier to make use of system fonts.
+    includes:
+      #in_header: ../beamer_header.tex
+      #after_body: table-of-contents.txt 
+  slidy_presentation:
+    highlight: tango
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+#knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+
+
+### Overview
+
+\medskip
+
+\tableofcontents
+
+\medskip
+
+PLEASE EXCUSE TYPOS
+```{r, eval=FALSE, echo=FALSE}
+# Introduction
+
+#Use this if you want TOC to show level 2 headings
+\tableofcontents
+#Use this if you don't want TOC to show level 2 headings
+\tableofcontents[subsectionstyle=hide/hide/hide]
+```
+
+
+# Theoretical perspectives new institutionalism draws from
+
+## Contingency theory [@RN531]
+
+### Contingency theory: historical context, overview
+
+Historical context
+
+- Contingency theory emerged in the 1960s with as part of transition from viewing organizations as "closed systems" [rational systems perspective, and natural systems perspectives] to viewing orgs as “open systems” that interact with the external environment
+
+\medskip
+Overview
+
+- assume orgs are "rational," designed to achieve specific goals
+- basic problem:
+    - how can an org be effective despite being dependent on uncertain world
+    - views minimizing/managing uncertainty as important goal
+- Contingency theory focused on organizational structure
+- One-sentence description of contingency theory [@RN4414, p. 114]:
+    - "The best way to organize depends on the nature of the environment to which the organization must relate"
+
+\medskip
+Influence
+
+- Contingency theory provides foundational concepts for new institutionalism, resource dependence theory, amongst others
+
+### Organizational domain and task environments [@RN531]
+
+Organizational domain
+
+- the products/services the organization creates
+
+\medskip
+Task environment: "elements of its environment with which it is most interdependent" [@RN4558, p. 318]
+
+- Customers/clients
+- Suppliers
+- Competitors (for customers/clients and for resources)
+- Regulatory groups, including government agencies, unions, and inter-organizational networks/associations
+
+\medskip
+Task environment mostly composed of other orgs w/ their own priorities
+
+- Problem: might not be able to rely on other orgs to provide expected resources
+- "thus, dependency on the task environment creates contingencies or potential sources of uncertainty"  [@RN4558, p. 319]
+- Uses @RN960 to define external actors the org depends on
+
+\medskip
+Strategies to overcome uncertainties in task environment
+
+- similar to resource dependence theory [@RN959]
+
+### External environment and organizational structure  [@RN531]
+
+Contingency theory argues that the more complicated the external environment the organization has to deal with, the more complicated the organizational structure needs to be to deal with this environment
+
+\medskip
+Examples in higher education
+
+- When federal government requires new reporting requirements, new organizational structures emerge to handle these requirements
+    - e.g., universities that enroll students that receive federal financial aid must complete annual IPEDS survey
+        - contributed to development of "institutional research" offices
+- Title IX of Education Amendments Act of 1972: 
+    - “No person in the United States shall, on the basis of sex, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any education program or activity receiving Federal financial assistance.”
+    - Schools often create a Title IX office or a job position to deal w/ this requirement; not a requirement to create the coordinator position/office but this is how most orgs have responded
+- When universities decide to have closer ties with alumni or donors [external stakeholders], create new administrative offices/roles for this
+    - Academic units within universities create their own external relations office to get donation funding that goes directly to their dept
+    
+### @RN531, overview
+
+@RN531 _Organizations in Action_ is the culminating and most famous statement of contingency theory
+
+- synthesized his own work and work of other scholars that contributed to development of contingency theory
+
+@RN531 borrows from @RN1747, which disaggregates organizational structure into three distinct levels of responsibility and control
+
+- __Technical level__
+    - Technical level is part of the organization that creates core products and is focused on “effective performance of the technical function”
+- __Managerial level__
+    - Mediates between technical level and the stakeholders (e.g., suppliers, customers) who provide inputs to technical level and rely on products from technical level
+- __Institutional level__
+    - Org can only obtain resources from external stakeholders if mission/values of org valued by broader external environment
+    - Institutional level focuses on ensuring that the org appears "legitimate" to external stakeholders
+        - e.g., the org adopts all the policies/practices expected of an organization of its type (e.g., office of outreach)
+
+### Technical level, @RN531
+
+Technical level is part of the organization that creates core products and is focused on “effective performance of the technical function”
+
+\medskip
+
+Examples
+
+- teaching classes by teachers; advising students by advisors; doing taxes and audits by accountants; assembly cars by assembly line; designing products by product engineers
+
+\medskip
+Large, complicated organizations that do many things have many offices and may have many technical levels
+
+- e.g., foks who process IRB applications part of technical level of Office of Research
+- e.g., admissions staff who visit schools in fall, read applications in winter, host "yield" events in spring are part of technical level of admissions/enrollment management
+
+### Managerial level, @RN531
+
+@RN531 conception of "managerial level" combines the "managerial level" and "institutional level" of @RN1747
+
+\medskip
+
+Managerial level mediates between technical level and the stakeholders (e.g., suppliers, customers) who provide inputs to technical level and rely on products from technical level
+
+\medskip
+Broad roles of managerial level:
+
+- acquire resources (inputs) necessary for technical level to do its job
+- tell technical level what to focus on
+- Mediate interaction between technical level and actors outside of the technical level (who may be part of org, or may be external to org)
+    - e.g., manage requests from external environment, including the management of requests that conflict with one another
+- Ensure the organization appears "legitimate" to external stakeholders (e.g., adopts all practices expected of org of its type)
+
+### Buffering
+
+Org requires resources from external environment
+
+- Problem: external stakeholders make demands that are onerous, conflict with one another, or change rapidly
+
+\medskip
+Efficiency of technical level requires a small number of stable goals
+
+- Problem: when technical level tries to achieve many different goals, or when goals change rapidly, performance/productivity suffers
+
+\medskip
+Most basic hypothesis of contingency theory [@RN4558, p. 318]
+
+- "organization seeks to seal off its technical core from environmental uncertainty by setting apart both the resource-acquisition and output-disposal functions from this technical core"
+
+\medskip
+
+Solution: "buffering"
+
+- "mediating interaction" role of managers: managers "buffer" [protect, insulate] technical level from direct requests by external environment
+-	Good managers protect technical level from rapidly changing, competing demands so technical level can focus on doing a good job core tasks
+    - e.g., find ways for the technical level to ignore demand for a new goal, so it can focus on achieving current set of goals
+    - e.g., when technical level must adopt new goal, managerial level tries to give technical level long lead-time before transitions to new goal
+
+### Buffering examples in in higher education, department heads
+
+
+Good department heads buffer faculty from competing/changing demands
+
+\medskip
+
+Example: dept of higher education at university of arizona
+
+- small faculty, but we did a really good job at:
+    - (1) training MA students in student affairs and (2) training doctoral students, most of whom worked full-time and (3) cutting-edge/critical research
+    
+\medskip
+
+- New [bad] dept head: "THE SKY IS FALLING! RUN!"
+    - every meeting was doomsday financial statements due to conditions in external environment
+    - kept on proposing starting all these new programs that would make us worse at our core thing
+    
+\medskip    
+- Gary Rhoades takes over as dept head
+    - views his job as as helping faculty get resources [and protection] so we could focus on core functions of teaching, mentoring, and research
+    - pushed a lot of paper to make sure we got what we need
+    - shielded us from 90% of stuff going on external to the department, and only brought that stuff to us when he thought we really needed to know
+
+### Buffering examples in in higher education, research teams
+
+Long-term survival of academic research teams (including stable funding for graduate students) depends on:
+
+- procuring grants from external environment
+- developing a reputation of always __delivering__ on promised deliverables
+    - funders talk; if you do bad job on deliverable, fewer grants in future
+
+\bigskip
+Technical level:
+
+- research assistants, full-time researchers responsible for collecting data, cleaning data, analyzing data (i.e., most of the research)
+
+\medskip
+Managerial level
+
+- decide on research focus
+- procure funding from external environment to retain research team
+- tell technical level what to focus; meet to discuss progress
+- match research tasks necessary for deliverable to skills research team wants to develop
+- "buffer" the technical core
+    - from changing demands from external resource providers
+    - decide which "opportunities" to say yes to, which to say no
+    - from demands by more powerful self-interested external actors
+    
+
+### Propositions from @RN531 [SKIP]
+
+After introducing basic concepts (above), remainder of @RN531 focused on developing general propositions about how organizations will organize (e.g., change structure)
+
+\medskip
+Example propositions:
+
+- "organizations seek to buffer environmental influences by surrounding their technical cores with input and output components"
+- "organizations seek to anticipate and adapt to environmental changes which cannot be buffered"
+- "organizations seek to minimize the power of task-environment elements over them by maintaining alternatives"
+- "When support capactiy is concentrated in one or a few elements of the task environment, organizations under norms of rationality seek power relative to those on whom they are dependent"
+
+## @RN1365
+
+### @RN1365, _Suggestions for a sociological approach to the theory of orgs_
+
+\medskip
+Definition of organizations
+
+- "An organization is defined as a social system oriented to the attainment of a relatively specific type of goal, which contributes to a major function of a more comprehensive system, usually the society."  
+- "Such an organization is analyzed in terms of an institutionalized value system, above all defining and legitimating its goal"
+
+\medskip
+Influential ideas from article:
+
+- To obtain resources from society, value system (i.e. goals of the org) must be in line with values of society (i.e. the superordinate system)
+- Obtaining resource from society depends on:
+    - achieving the stated goals of the mission, which is valued by society
+    - appearing "legitimate" to broader external environment from which org requires support
+        - e.g., community college must have a transfer center even if nobody transfers
+- Orgs try to rationalize themselves to society by claiming that they contribute to something that society values
+
+### Comparing @RN1365 to resource dependence theory
+
+\medskip
+
+Both theories assume orgs need resources from external environment to survive
+
+\medskip
+@RN1365 (influential for new institutional theory)
+
+- To garner resources from external environment, org must make the case that the org contributes to a broader societal function
+
+\medskip
+Resource dependence theory [@RN959]
+
+- Org doesn’t necessarily need to make the case that it contributes to larger societal function in order to survive; rather, provide value to specific external actors they depend on for resources
+
+\medskip
+Comparison
+
+- So RDT tends to focus on relationships between organizations in the immediate external environment
+- New institutionalism tends to focus on big macro forces (e.g., US News and world report, accepted ideas about human rights, etc.)
+
+\medskip
+Application/implications
+
+- RDT: analyze relations w specific actors in immediate external environment
+ - New institutional theory: how orgs respond to broad/diffuse forces that often can’t be attributed to specific actors the org interacts with
+
+## Loose coupling [@RN489]
+
+### Loose coupling [@RN489]
+
+\medskip
+__Tight coupling__
+
+- Definition: arrangement of parts such that each is highly responsive to changes in the others; 
+- e.g., new car sensors that beep if you get too close to object; or that automatically turn on breaks when you get too close to object
+- e.g., assembly-line manufacturing is a tightly coupled systems
+
+\medskip
+__Loose coupling__
+
+- anything that may be tied together weakly, infrequently, with minimal interdependence
+- Elements of system are weakly connected to others and capable of fairly autonomous action
+- Loose coupling can be applied to the relationship among structural units [e.g., work groups, departments]
+    - e.g., When no VP for enrollment management, the actions of admissions, financial, marketing a loosely coupled w/ one another
+    - e.g., when university creates VP for enrollment management, actions of admissions office and financial aid office more coordinated, tightly coupled with one another
+
+### Loosely coupled systems, de-coupling
+
+\medskip
+A __loosely coupled system__ is one in which different parts/elements of the system tend to be loosely coupled
+
+- Thinking of an organization as a system, universities are textbook examples of loosely coupled systems
+    - e.g., actions of UCLA External Affairs don't affect academic depts
+- Loosely coupled system may contain some parts that are tightly coupled and parts that are loosely coupled
+    - e.g., tight coupling between UCLA offices of "Student Billings & Collections" and "Registrar" (If you don't pay tuition, immediate hold on ability to register for classes!)
+    - e.g., loose coupling between UCLA office of Instructional Development and teaching practices of UCLA faculty/lecturers
+
+\medskip
+__De-coupling__
+
+- “Formal administrative structures within organizations are often de-coupled from production systems ” [@RN489]
+- e.g., university responds to requirements by accreditation agencies about "course/program learning goals" by making some changes in Office of Instructional Development
+    - but those changes don't really touch teaching practices of faculty
+    - Implicit goal of Office of Instructional Development may be to "buffer" faculty teaching practices from external pressures by accrediting agencies
+
+## Social construction of reality [@RN953]
+
+### @RN953, _The social construction of reality: A treatise in the sociology of knowledge_
+
+\medskip
+Influential for new institutionalism, especially @RN513
+
+\medskip
+Definitions
+
+-	__reality__: a quality appertaining to phenomena that we recognize as having a being independent of our own volition (we cannot “wish them away”)
+-	__knowledge__: the certainty that phenomena are real and that they possess specific characteristics
+- __habitualization__: "Any action that is repeated frequently becomes cast into a pattern, which can then be reproduced with little effort." (p. 53)
+
+\medskip
+__institutions and institutionalizaton__
+
+- Institutionalization occurs whenever members of a group share in enacting a habitualized action
+- "The institution posits that actions of type X will be performed by actors of type X." (p. 43)
+- "Institutions also\ldots control human conduct by setting up predefined patterns of conduct, which channel it in one direction against the many other directions that would theoretically be possible.”
+-	Institutions are built over time and from a particular time and place. Institutionalization is a process that occurs over time
+
+### [@RN953], institutionalization thought experiment
+
+Actor A and B, from two different places are stuck together on a desert island (or they are just two people who get married).
+
+- Initially, each has their own way of doing things. 
+- Over time A will adopt B’s way of doing something, or vice versa, or compromise. 
+    - Over repetition, the particular way of doing things will become crystallized. Institutions form. 
+
+\medskip
+But once a new generation appears (A & B have children) these children are born into a world of institutions they did not invent, p. 58:
+
+- “This quality is objectivity. This means that the institutions that have now been crystallized…are experienced as existing over and beyond the individuals who ‘happen to’ embody them at the moment."
+- "In other words, the institutions are now experienced as possessing a reality of their own, a reality that confronts the individual as an external and coercive fact.”
+- “‘there we go again’ now becomes ‘this is how things are done.’" (p. 59)
+- "The child is incapable of distinguishing between the objectivity of natural phenomena and the objectivity of the social formations. An institutional world, then, is experienced as an objective reality.” (p. 60)
+
+# @RN513
+
+### @RN513, survival and legitimacy
+
+\medskip
+
+Org goals
+
+- orgs primarily interested in survival rather than efficiency
+- Orgs survive not by superior performance (efficiency) in creation of products but by _appearing_ "legitimate" to external stakeholders
+
+
+"legitimacy"
+
+- Merriam-Webster definition of "legitimate": 
+    - "conforming to recognized principles or accepted rules and standards"
+- In @RN513, an org has legitimacy if external actors think the "belongs" or is an accepted member of a particular type of organizations (e.g., corporate law firms)
+- Gaining/maintaining legitimacy depends on adopting practices deemed appropriate/necessary for particular type of org
+
+### @RN513, rationalized myths and institutions
+
+\medskip
+__rationalized myths__ (p. 343-344)
+
+- "rationalized and impersonal prescriptions that identify various social purposes as technical ones and specify in a rulelike way the appropriate means to pursue these technical purposes rationally.
+- Second, they are highly institutionalized and thus in some measure beyond the discretion of any individual participant or organization. 
+- They must, therefore, be taken for granted as legitimate, apart from evaluations of their impact on work outcomes."
+- “Myths can also have official legitimacy based on legal mandates.” (p 347
+
+\medskip
+__Institutions__
+
+- taken for granted ideas about what should be done and how it should be done
+
+\medskip
+Comparison of rationalized myths and institutions
+
+- I tend to think of these concepts as interchangeable or at least highly related
+
+### rationalized myths and formal organizational structure
+
+Organizations incorporate "rationalized myths" or "institutions" into their formal organizational structure
+
+- Doing so enables the organization to be evaluated by adherence to the institution/myth rather than actual performance
+- "[the] formal stuctures of many organizations in postindustrial society dramatically reflect the myths of their institutional environments instead of the demands of their work activities" [@RN513, p. 341]
+
+\medskip
+Examples in higher education
+
+- Adoption of "student success" centers
+    - Is this the best way to improve student retention?
+
+
+### Institutionalization
+
+Institutionalization
+
+- "the processes by which social processes, obligations, or actualiteis come to take on a rulelike status in social thought and action" [@RN513, p. 341]
+- process by which some practice/policy becomes taken for granted as the appropriate thing to do
+
+\medskip
+Examples in higher education
+
+-	having a “greek life” office has become institutionalized; 
+-	having a president and provost becomes institutionalized; 
+-	having a “no loan” tuition policy becomes institutionalized; 
+-	Colleges adopt major in “math” for legitimacy even if no math majors
+-	Universities create a tech transfer center even if they don’t do tech transfer
+-	Create a fundraising foundation even if no alumni donate
+
+### Isomorphism
+
+\medskip
+__Isomorphism__
+
+- Process by which organizations within a population (e.g., all community colleges, all prestigious private research universities) adopt the same processes/policies/structures
+
+\medskip
+__Why does isomorphism happen?__
+
+-  because organizations in the same populaton are beholden to same expectations from external environment
+
+\medskip
+__Consequences of isomorphism__
+
+- Organizatons adopt elements becase of their contribution to legitimacy rather than their effect on technical performance
+- Benefits of adopting institutionalized practices:
+    - enables the org to be assessed in terms of compliance with taken-for-granted institutions rather than actual performance
+    - Increases support from external constituents and internal participants
+- [@RN513, p. 352]
+    - "Thus, organizational success depends on factors other than efficient coordination and control of productive activities. Independent of their productive efficiency, organizations which exist in highly elaborated institutional environments and succeed in becoming isomorphic with these environments gain the legitimacy and resources needed to survive"    
+
+
+## technical demands versus conformance to institutionalized norms
+
+### technical efficiency vs. institutionalized norms
+
+\medskip
+
+Two reasons for creation of formal structure:
+ 
+1. __Technical efficiency__. Actually need formal structure to coordinate/control activities to create the product (smartphone makers, TV makers, mining companies)
+    - e.g., need a quality control department to reduce number of product defects
+1. __Legitimacy__. To show adherence to institutionalized norms, without necessarily increasing technical efficiency
+    - Goal is to gain legitimacy/support from external environment
+    - e.g., show we care about retention by creating "student success" center
+
+\medskip
+
+Does survival depend on efficiency or conformance to institutionalized norms?
+
+- Organizations whose survival depends on technical efficiency: 
+    - Organizations which use clearly defined technology to produce outputs which can be easily evaluated in the market (giving consumers significant rights of inspectionand control). Organizational structure designed around technical problems
+    - e.g., company that makes bolts for use in construction
+- Organizations which depend on legitimacy/institutionalized norms: 
+    - whenever output is unclear, technology complex, output difficult to evaluate 
+    - Education is the canonical example; 
+
+\medskip
+Usually, org survival depends on technical efficiency in some domains and adherence to institutionalized myths in other domains
+
+- Importance of technical efficiency vs. adherence to institutions differs across industries
+
+### Conflict between technical demands and institutional demands
+
+\medskip
+
+When org needs to both be technically efficient and survival also depends on adhering to institutionalized norms
+
+- Org forced to publicly adopt many goals
+- But @RN531 states that efficiency of technical level requires small number of stable goals that don't conflict with one another
+
+\medskip
+
+Solution: symbolic vs. substantive adoption
+
+- adopt some goals __symbolically__ in order to gain legitimacy vis-à-vis institutionalized norms 
+    - but don’t let these policies/dept affect technical level 
+- __Substantively__ adopt demands necessary for technical success
+    - technical level focuses on achieving these goals
+
+\medskip
+
+How can you tell whether goal/policy has been substantively adopted?
+
+- Looking at resources devoted to goal and/or whether affects activities in the “technical level”
+- My email quote “don’t tell me your values, show me your budget and I’ll tell you what you value” is about symbolic vs. substantive adoption
+
+
+### Potential examples of symbolic adoption in higher education
+
+- "outreach" programs to increase access
+- adoption of "no loan" financial aid policies to increase affordability/access
+- adoption of "holistic admissions" policies
+
+\medskip
+But these efforts may represent substantive/earnest efforts. How to investigate:
+
+- examine budgets, personnel, resources allocated to achieve the goal
+- is policy/program adoption accompanied by lots of ceremony and rhetoric? this should make you suspect
+
+
+### Decoupling and symbolic adoption
+
+Motivation fo decoupling
+
+- "Ideally, organizations built around efficiency attempt to maintain close alignments between structures and activities. Conformity is
+enforced through inspection, output quality is continually monitored, the efficiency of various units is evaluated, and the various goals are unified and coordinated. But a policy of close alignment in institutionalized organizations merely makes public a record of inefficiency"  [@RN513, p. 359]
+
+\medskip
+Decoupling
+
+- Demonstrate adherence to goals demanded by external environment by creating policies/programs/offices that have no connection with practices in technical level actually responsible for achieving the goal
+- e.g., offices of instructional improvement at some universities
+
+### Ceremonial inspection
+
+\medskip
+Ceremonial inspection/assessment is necessary for symbolic adoption to work
+
+- "inspection and evaluation can uncover events and deviations that undermine legitimacy. So institutionalized organizations minimize and ceremonialize inspection and evaluation." [@RN513, p. 359]
+- Usually ceremonial inspection works by making evaluation focus on adherence to "best practice" policy rules rather than whether the practice produces the intended outcome
+- External regulatory orgs may inspect ceremonially on purpose
+    - e.g., accreditation agencies (syllabi must have "learning goals," but no actual inspection of whether learning occurs)
+    - e.g., police notify organized crime beforehand about "surprise" raids
+
+\medskip
+
+Ceremonial inspection in higher education
+
+- Assessment of student affairs programs
+    - evaluation has become institutionalized as something all student affairs programs must have. 
+    - I was often asked to consult on evaluations of student affairs programs
+    - Usually I found they did not really want to know if the program worked; they just wanted to say that evaluation was done.
+- My research on recruting investigates which prospective students universities identify and target
+    - Goal is to actually inspect whether university stated commitments to access are symbolic or substantive
+
+
+### Question about @RN513
+
+- Do organizations consciously adhere to institutionalized myths in a cunning/deceitful way or do they believe that adhering to myths is really best way to improve performance?
+
+# @RN527
+
+### @RN527, isomorphism
+
+Motivating question for @RN527
+
+- Why do organizations of a particular type (e.g., community colleges, public research universities, law firms) look so similar with respect to organizational structure, policies, practices despite big differences in local external environment surrounding each org?
+
+\medskip
+
+Isomorphism
+
+- Process by which organizations adopt the same structures, practices, policies, programs, etc.
+
+\medskip
+
+Two types of isomorphism: competitive and institutional
+
+- Competive isomorphism 
+    - results from market competition that creates pressure toward similarity, 
+    - e.g., go from steam engine to diesel engine because it is more efficient
+    - e.g., put course schedule online because that makes it easier for students to search for classes
+- Institutional isomorphism
+    - Orgs follow same rules as one another, not because it makes them more efficient but because if they adopt “taken for granted” rules, they are perceived as legitimate by other orgs in the field and stakeholders that provide resources to orgs in the field
+    - e.g., adopt "no loan" need-based financial aid policy
+
+
+## Three types of institutional isomorphism
+
+### Types of institutional isomorphism: 1. Coercive isomorphism
+
+Isomorphism: process by which organizations adopt the same structures, practices, policies, programs, etc.
+
+\medskip
+
+Coercive isomorphism
+
+- consistent with resource dependency, stemming from political influence
+- what it says:
+    - orgs adopt same practices because some resource provider will remove resources if orgs don’t comply
+
+\medskip
+Examples of coercive isomorphism
+
+- adopt rubric/standards about student learning outcomes because this is a requirement by accreditors
+- Any government mandate
+- must follow certain practices when conducting a faculty search (e.g., no asking about employment demands of spouse)
+- banks have must minimum balances in order for govt. to allow them to operate
+- schools need to have a principal or they can’t get resources (e.g., grant proposals for access to funding programs require signature of "principal")
+
+
+### Types of institutional isomorphism: 2. mimetic isomorphism
+
+What is mimetic isomorphism
+
+- copy what most other orgs are doing or what “leading” orgs are doing
+- Mimetic isomorphism is response to uncertainty; orgs not sure which practice to adopt
+
+\medskip
+Examples of mimetic isomorphism
+
+- depts/colleges within universities adopting equity, diversity, inclusion offices
+- Princeton University adopts "no loan" tuition policy and other selective universities follow suit
+- "Disability Resource Center" becomes the "Center for Accessable Education"
+
+\medskip
+
+Mimetic isomorphism can be sub-conscious/unthinking following of rules
+
+-  e.g, when creating UC Merced of course the university should have an "English" major
+
+\medskip
+
+Mimetic isomorphism can do mimicry in a cunning way
+
+- e.g., Japanese firms want to end the practice of lifetime employment, but each firm fears fear public retribution from doing so; so all firms get together and end the practice on the same day
+
+
+### Types of institutional isomorphism: 3. normative isomorphism
+
+\medskip
+
+Normative isomorphism: professions influence the practices orgs adopt
+
+- Org offices adopt practices deemed legitimate by the professional associzations they are a part of
+- people within a professionalized field who participate in a program designed to train professionals are socialized to certain ways of doing things. They bring those practices to the orgs they work in
+
+\medskip
+
+Examples of normative isomorphism
+
+- A popular textbook on student development theory releases a new edition; 
+    - changes focus of text to reflet changing ideas in the student affairs profession about what focus should be
+    - in turn, graduates socialized to a different set of notions about acceptable practices will enact change in the organizations they work
+- Medical professional associations determine appropriate practices for doctors working in specific medical fields
+
+\medskip
+How practices spread by normative isomorphism spread
+
+- Professional association makes formal policy rules about appropriate behavior by working professionals
+- Professionals in a field are trained in a their education program to be socialized a set of norms about what sort of practices are legitimate in the field
+- after person obtains education credential, they work in organizations and diffuse the practices they learned in their education credential program
+
+## Organizational fields and isomorphism
+
+### Organizational fields
+
+Organizational field
+
+- "those organizations that, in the aggregate, constitute a recognized area of institutional life" [@RN527, p. 148]
+- e.g., higher education industry
+    - and community colleges would be a "population" of organizations within the broader field of the "higher education industry"
+
+\medskip
+
+From heterogeneity to homogeneity over time
+
+- At first organizations exhibit a high degree of diversity (e.g., "community colleges" in the early 20th century were very different from one another)
+- But become more similar over time because they have to adhere to same rules about proper way of organization
+- leads to convergence in ways of organizing that doesn’t necessarily make the org more efficient
+\medskip
+    - "early adopters of organizational innovations are commonly driven by desires to improve performance [e.g., technical isomorphism], but later adopters adopt not because it helps their particular business, but because it helps their legitimacy. A threshold is reached where adoptions help legitimacy more than improving technical performance.”  [@RN527, p. 148]
+
+### Structuration
+
+Structuration
+
+- Process of org orgs exhibiting less diverity between one another as a field/population of orgs goes from being nascent to mature
+
+\medskip
+
+Structuration process occur through following 4 mechanisms (and observing these mechanisms is an indicator of structuration)
+
+1. increase in the extent of interaction among organizations in the field
+1. emergence of hierarchical relationships of domination between organizations and coalition building between organizations
+1. increase in the information load an organization must contend with
+1. development of awareness of a set of organizations involved in a common enterprise
+
+### Disagreements between @RN513 and @RN527
+
+@RN513
+
+- highlights symbolic adoption to signal legitimacy to; this symbolic adoption mostly results in changes to periphery of organization but technical levels don't change
+- therefore, technical core differs across orgs; may be more attuned to dynamics within the local external environment
+
+\medskip
+
+@RN527
+
+- (For mimetic and normative isomorphism) implicit assumption that adoption is substantive and internalized;
+- that is, assumption that adoption affects internal operations
+- therefore, technical core similar across orgs
+
+
+### References
