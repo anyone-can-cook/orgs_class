@@ -23,7 +23,13 @@ bibliography: ../lectures/educ250_bib.bib
 csl: ../lectures/apa.csl
 ---
 
-# Honor Code
+# Logistics
+
+
+- Due wednesday 3/17/2021 at ll:59pm
+- Submit completed final exam [HERE](https://www.dropbox.com/request/FmRdh1yNLHfBIjBhckaU)
+
+## Honor Code
 
 -	Please type your full name here: `<YOUR NAME>`
 -	By typing your name, you affirm that you did not receive help from anyone when completing this final exam, that you did not discuss the contents of the final exam with classmates, and that you are using your own words (excluding quoted text)
@@ -103,7 +109,6 @@ Answer one of the following two essay prompts. Essay is worth 63 points [sorry n
 - Guidelines
   - Essay should be three to four pages (excluding references) double space, size 11 or 12 font, one inch margins all around
     - A bit less than three pages is fine, but cannot be longer than four pages
-  - Submit essay (and this Word doc) [HERE](https://www.dropbox.com/request/FmRdh1yNLHfBIjBhckaU)
   - Follow APA style
     - Use citations when appropriate
     -	Any verbatim text from another source MUST be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the essay
