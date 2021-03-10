@@ -8,7 +8,7 @@ output:
   # pdf_document
   word_document:
     toc: false
-    number_sections: true
+  #   number_sections: true
   #   toc_depth: '3'
   #html_document:
   #  toc: false
@@ -30,14 +30,14 @@ csl: ../lectures/apa.csl
 
 # Concepts
 
-1 point each; 25 points total [CRYSTAL - CAN YOU MAKE THIS RED]
+1 point each; 25 points total
 
-Instructions
+**Instructions**
 
 - Define the concept (one sentence is fine) and provide an example of the concept (one sentence is fine). 
-- _Note_: you must define the concept in your own words rather than quoting lecture slides/readings; provide an example that does not come from lecture slides
+- _Note_: You must define the concept in your own words rather than quoting lecture slides/readings; Provide an example that does not come from lecture slides
 
-Concepts
+**Concepts**
 
 1. __*Norms*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
 1. __*Organizational norms*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
@@ -59,23 +59,23 @@ Concepts
 1. __*Dependence*__ (either Emerson or Pfeffer and Salancik)
 1. __*Asymmetric power relationship*__ (either Emerson or Pfeffer and Salancik)
 1. __*Cooptation*__ (from resource dependence theory)
-1. __*"technical" vs. "institutional" reason for formal structure*__ (e.g., offices, policies)
+1. __*"Technical" vs. "institutional" reason for formal structure*__ (e.g., offices, policies)
 1. __*Symbolic adoption vs. substantive adoption*__
 1. __*Isomorphism*__
-1. __*mimetic isomorphism*__
-1. __*structuration*__
+1. __*Mimetic isomorphism*__
+1. __*Structuration*__
 
 
 # Short answers
 
-3 points each; 12 points toal [CRYSTAL - CAN YOU MAKE THIS RED]
+3 points each; 12 points total
 
-Answer each of the following questions in 2-3 sentences
+Answer each of the following questions in 2-3 sentences:
 
 
 1.	UC-Berkeley and UC-San Diego both have highly ranked political science departments. Imagine these two political science departments have the same rank (i.e., they are tied) in US News and World Report Grad School Rankings, but UC-Berkeley is a more highly ranked university as a whole than UC-San Diego. According to resource dependence theory, which department is more influential in organizational decision-making and why?
 1.	According to resource dependence theory, why does organizational mission change when an organization switches from relying on one resource to relying on a different resource [consider both internal and external power dynamics]. Give an example.
-1. Below is [paraphrased] text from a recent Tweet. Drawing from resource dependence theory, critique this Tweet
+1. Below is [paraphrased] text from a recent Tweet. Drawing from resource dependence theory, critique this Tweet:
 
 > Good morning to everyone except people who donate not in furtherance of an institution's mission but in order to gain influence on that mission
 
@@ -92,38 +92,38 @@ something about creation of nrms
 
 Answer one of the following two essay prompts. Essay is worth 63 points [sorry not a very round number!]
 
-1. Across the united states, student and other internal/external stakeholders are demanding that universities cut contracts with local policy departments and/or to abolish campus police. Drawing from you choice of two theoretical perspectives introduced in this course, develop an analysis of when a university is likely substantively adopt these demands and when a university is likely to symbolically adopt demands or reject these demands altogether. Let the theories you choose influence the internal and external factors/actors you analyze (e.g., macro external forces, local external environment, internal power dynamics). You may integrate the two theories to develop one cohesive analysis or you may develop one explanation for each theoretical perspective. Fine to focus on a particular type of university (e.g., a public regional university in the Southeast), but don't write around a particular university (e.g., Cal State Fullerton). You can choose whether you want to focus on cutting ties with local police and/or eliminating campus police.
+1. Across the United States, students and other internal/external stakeholders are demanding that universities cut contracts with local policy departments and/or to abolish campus police. Drawing from you choice of two theoretical perspectives introduced in this course, develop an analysis of when a university is likely to substantively adopt these demands and when a university is likely to symbolically adopt demands or reject these demands altogether. Let the theories you choose influence the internal and external factors/actors you analyze (e.g., macro external forces, local external environment, internal power dynamics). You may integrate the two theories to develop one cohesive analysis or you may develop one explanation for each theoretical perspective. Fine to focus on a particular type of university (e.g., a public regional university in the Southeast), but don't write around a particular university (e.g., Cal State Fullerton). You can choose whether you want to focus on cutting ties with local police and/or eliminating campus police.
     - Links to a few stories (don't need to read all of these): [Nationwide](https://www.insidehighered.com/news/2020/06/05/students-demand-universities-break-ties-local-police-few-have); [Georgetown University](https://www.thecollegefix.com/georgetown-student-government-launches-initiative-to-abolish-campus-police/); [Debate at UC](https://www.latimes.com/california/story/2021-02-03/defund-campus-police-or-reform-them-sharp-disagreement-surfaces-at-uc); [Debate at USC](https://dailytrojan.com/2021/02/11/dps-community-advisory-board-will-launch-a-series-of-10-forums-to-re-evaluate-campus-public-safety/)
 
 
-1. The 2017 Association for the Study of Higher Education (ASHE) Presidential Address by Professor Shawn Harper [LINK](https://www.youtube.com/watch?v=17BVV1R7eUg) punctuated a process of radical institutional change in the field of higher education research. In institutional theory, "neo-institutional" analysis refers to an analysis that selectively incorporates elements of "old" and "new" institutional theory. And "institutionalization projects" are described as efforts by a well-organized group of actors to change macro-level institutions that affect entire fields. Your task is to develop a neo-institutional analysis of the institutionalization project that is the focus of the 2017 ASHE presidential speech. The theoretical concepts/ideas you introduce will guide which aspects of the institutionalizaiton are the focus of your essay (e.g., external forces, organizing/coalition-building efforts, rhetorical strategies utilized in the speech). Therefore, be selective about which elements of theory you introduce substantively. However, your essay should incorporate the concept "theorization" as described by @RN524.
+1. The 2017 Association for the Study of Higher Education (ASHE) Presidential Address by Professor Shawn Harper ([LINK](https://www.youtube.com/watch?v=17BVV1R7eUg)) punctuated a process of radical institutional change in the field of higher education research. In institutional theory, "neo-institutional" analysis refers to an analysis that selectively incorporates elements of "old" and "new" institutional theory. And "institutionalization projects" are described as efforts by a well-organized group of actors to change macro-level institutions that affect entire fields. Your task is to develop a neo-institutional analysis of the institutionalization project that is the focus of the 2017 ASHE presidential speech. The theoretical concepts/ideas you introduce will guide which aspects of the institutionalization are the focus of your essay (e.g., external forces, organizing/coalition-building efforts, rhetorical strategies utilized in the speech). Therefore, be selective about which elements of theory you introduce substantively. However, your essay should incorporate the concept "theorization" as described by @RN524.
 
 ## Essay guidelines and recommendations
 
 - Guidelines
   - Essay should be three to four pages (excluding references) double space, size 11 or 12 font, one inch margins all around
     - A bit less than three pages is fine, but cannot be longer than four pages
-  - Submit essay [HERE]() CRYSTAL - PLEASE CREATE A DROPBOX FOLDER FOR THIS
+  - Submit essay (and this Word doc) [HERE](https://www.dropbox.com/request/FmRdh1yNLHfBIjBhckaU)
   - Follow APA style
     - Use citations when appropriate
     -	Any verbatim text from another source MUST be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the essay
 - Recommendations on theory
-  -	Whenever you use a particular theoretical concept (e.g., “cooptation”), define the concept in general terms before you apply the concept to the particular question at hand
-    - and when applying this concept to a case, state how the concept is being operationalized in the case/issue being studied
+  -	Whenever you use a particular theoretical concept (e.g., "cooptation"), define the concept in general terms before you apply the concept to the particular question at hand
+    - And when applying this concept to a case, state how the concept is being operationalized in the case/issue being studied
   -	Be selective about which elements of theory your essay focuses on
     - Breadth is often the enemy of depth
       - Just as in good empirical scholarship, a good essay should develop deep insight rather than be “an ocean wide but an inch deep” [my most common critique on journal manuscripts I reject]
     - A useful approach can be to provide a short, broad overview of the theory (e.g., 2-3 sentences) and then devote more substantial amount of space to discussing theoretical ideas/concepts that are most relevant to the case or focus of the essay
-  - When applying theory to analyze a case, be selective about which actors/relationships from the case that your essay focuses on (e.g., can say something like "many important factors in this case/issue like X, Y, and Z, but my essay is going to focus on W and V).
+  - When applying theory to analyze a case, be selective about which actors/relationships from the case that your essay focuses on (e.g., can say something like "many important factors in this case/issue like X, Y, and Z, but my essay is going to focus on W and V").
 - Recommendations on writing
   - Create an outline to develop logical flow of ideas/argument
   - Strive for clear language that presents your ideas as simply as possible
   - Each paragraph should be about one idea/topic (could be big or small)
-  - First sentence [“topic sentence”] of paragraph tells reader what paragraph is
+  - First sentence ["topic sentence"] of paragraph should tell reader what paragraph is
   about
   - Subsequent sentences flesh out the idea of topic sentence, develop logical
   argument and/or empirical evidence
-  - Avoid introducing entirely new topics halfway through the paragraph. This confuses the reader and undermines the logical argument/evidence the paragraph is building. If you want to introduce a new idea, start a new paragraph
+  - Avoid introducing entirely new topics halfway through the paragraph. This confuses the reader and undermines the logical argument/evidence the paragraph is building. If you want to introduce a new idea, start a new paragraph.
 
   
 
