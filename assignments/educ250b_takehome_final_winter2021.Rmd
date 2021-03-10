@@ -1,0 +1,210 @@
+---
+title: "Take home final"
+subtitle: "EDUC 250B, Winter 2021"
+author: 
+date: 
+urlcolor: blue
+output: 
+  # pdf_document
+  word_document:
+    toc: false
+    number_sections: true
+  #   toc_depth: '3'
+  #html_document:
+  #  toc: false
+  #  number_sections: true    
+  #  toc_depth: 3
+  #  toc_float: true
+  #  fig_caption: true
+  #  highlight: tango
+  #  theme: default
+  #  df_print: tibble
+bibliography: ../lectures/educ250_bib.bib
+csl: ../lectures/apa.csl
+---
+
+# Honor Code
+
+-	Please type your full name here: `<YOUR NAME>`
+-	By typing your name, you affirm that you did not receive help from anyone when completing this final exam, that you did not discuss the contents of the final exam with classmates, and that you are using your own words (excluding quoted text)
+
+# Concepts
+
+1 point each; 25 points total [CRYSTAL - CAN YOU MAKE THIS RED]
+
+Instructions
+
+- Define the concept (one sentence is fine) and provide an example of the concept (one sentence is fine). 
+- _Note_: you must define the concept in your own words rather than quoting lecture slides/readings; provide an example that does not come from lecture slides
+
+Concepts
+
+1. __*Norms*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
+1. __*Organizational norms*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
+1. __*Strong organizational culture*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
+1. __*Heteronormativity*__
+1. __*Queering*__ (as a strategy for change)
+1. __*Norms*__ (drawing from queer theory; see @RN4422)
+1. __*Strong organizational culture*__ (drawing from queer theory)
+1. __*Institution*__ (old institutionalism)
+1. __*Institution*__ (new institutionalism)
+1. __*Institutionalization*__ (old institutionalism)
+1. __*Institutionalization*__ (new institutionalism)
+1. __*Intersectionality*__
+1. __*Identity politics*__
+1. __*Buffering*__ (from contingency theory; see lecture slides because no reading assigned on contingency theory)
+1. __*Tight coupling vs. loose coupling*__
+1. __*Decoupling*__
+1. __*“Solutions looking for problems”*__
+1. __*Dependence*__ (either Emerson or Pfeffer and Salancik)
+1. __*Asymmetric power relationship*__ (either Emerson or Pfeffer and Salancik)
+1. __*Cooptation*__ (from resource dependence theory)
+1. __*"technical" vs. "institutional" reason for formal structure*__ (e.g., offices, policies)
+1. __*Symbolic adoption vs. substantive adoption*__
+1. __*Isomorphism*__
+1. __*mimetic isomorphism*__
+1. __*structuration*__
+
+
+# Short answers
+
+3 points each; 12 points toal [CRYSTAL - CAN YOU MAKE THIS RED]
+
+Answer each of the following questions in 2-3 sentences
+
+
+1.	UC-Berkeley and UC-San Diego both have highly ranked political science departments. Imagine these two political science departments have the same rank (i.e., they are tied) in US News and World Report Grad School Rankings, but UC-Berkeley is a more highly ranked university as a whole than UC-San Diego. According to resource dependence theory, which department is more influential in organizational decision-making and why?
+1.	According to resource dependence theory, why does organizational mission change when an organization switches from relying on one resource to relying on a different resource [consider both internal and external power dynamics]. Give an example.
+1. Below is [paraphrased] text from a recent Tweet. Drawing from resource dependence theory, critique this Tweet
+
+> Good morning to everyone except people who donate not in furtherance of an institution's mission but in order to gain influence on that mission
+
+4. Consider a hypothetical PhD program of education or information studies at a public research university in the Northeast. The year-long theory sequence required for all first-year students -- which has remained largely unchanged for 30 years -- does not engage with critical theories of race or gender, despite programs at peer universities engaging with such theories and despite large demographic shifts in the students and researchers who comprise the broader field. Drawing from the second wave of scholarship on new institutional theory (see second lecture on new institutional theory), is it likely that the program will continue to resist change? Why or why not?
+
+
+<!--  ideas for short answer questions
+
+something about creation of nrms
+
+-->
+# Essay
+
+
+Answer one of the following two essay prompts. Essay is worth 63 points [sorry not a very round number!]
+
+1. Across the united states, student and other internal/external stakeholders are demanding that universities cut contracts with local policy departments and/or to abolish campus police. Drawing from you choice of two theoretical perspectives introduced in this course, develop an analysis of when a university is likely substantively adopt these demands and when a university is likely to symbolically adopt demands or reject these demands altogether. Let the theories you choose influence the internal and external factors/actors you analyze (e.g., macro external forces, local external environment, internal power dynamics). You may integrate the two theories to develop one cohesive analysis or you may develop one explanation for each theoretical perspective. Fine to focus on a particular type of university (e.g., a public regional university in the Southeast), but don't write around a particular university (e.g., Cal State Fullerton). You can choose whether you want to focus on cutting ties with local police and/or eliminating campus police.
+    - Links to a few stories (don't need to read all of these): [Nationwide](https://www.insidehighered.com/news/2020/06/05/students-demand-universities-break-ties-local-police-few-have); [Georgetown University](https://www.thecollegefix.com/georgetown-student-government-launches-initiative-to-abolish-campus-police/); [Debate at UC](https://www.latimes.com/california/story/2021-02-03/defund-campus-police-or-reform-them-sharp-disagreement-surfaces-at-uc); [Debate at USC](https://dailytrojan.com/2021/02/11/dps-community-advisory-board-will-launch-a-series-of-10-forums-to-re-evaluate-campus-public-safety/)
+
+
+1. The 2017 Association for the Study of Higher Education (ASHE) Presidential Address by Professor Shawn Harper [LINK](https://www.youtube.com/watch?v=17BVV1R7eUg) punctuated a process of radical institutional change in the field of higher education research. In institutional theory, "neo-institutional" analysis refers to an analysis that selectively incorporates elements of "old" and "new" institutional theory. And "institutionalization projects" are described as efforts by a well-organized group of actors to change macro-level institutions that affect entire fields. Your task is to develop a neo-institutional analysis of the institutionalization project that is the focus of the 2017 ASHE presidential speech. The theoretical concepts/ideas you introduce will guide which aspects of the institutionalizaiton are the focus of your essay (e.g., external forces, organizing/coalition-building efforts, rhetorical strategies utilized in the speech). Therefore, be selective about which elements of theory you introduce substantively. However, your essay should incorporate the concept "theorization" as described by @RN524.
+
+## Essay guidelines and recommendations
+
+- Guidelines
+  - Essay should be three to four pages (excluding references) double space, size 11 or 12 font, one inch margins all around
+    - A bit less than three pages is fine, but cannot be longer than four pages
+  - Submit essay [HERE]() CRYSTAL - PLEASE CREATE A DROPBOX FOLDER FOR THIS
+  - Follow APA style
+    - Use citations when appropriate
+    -	Any verbatim text from another source MUST be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the essay
+- Recommendations on theory
+  -	Whenever you use a particular theoretical concept (e.g., “cooptation”), define the concept in general terms before you apply the concept to the particular question at hand
+    - and when applying this concept to a case, state how the concept is being operationalized in the case/issue being studied
+  -	Be selective about which elements of theory your essay focuses on
+    - Breadth is often the enemy of depth
+      - Just as in good empirical scholarship, a good essay should develop deep insight rather than be “an ocean wide but an inch deep” [my most common critique on journal manuscripts I reject]
+    - A useful approach can be to provide a short, broad overview of the theory (e.g., 2-3 sentences) and then devote more substantial amount of space to discussing theoretical ideas/concepts that are most relevant to the case or focus of the essay
+  - When applying theory to analyze a case, be selective about which actors/relationships from the case that your essay focuses on (e.g., can say something like "many important factors in this case/issue like X, Y, and Z, but my essay is going to focus on W and V).
+- Recommendations on writing
+  - Create an outline to develop logical flow of ideas/argument
+  - Strive for clear language that presents your ideas as simply as possible
+  - Each paragraph should be about one idea/topic (could be big or small)
+  - First sentence [“topic sentence”] of paragraph tells reader what paragraph is
+  about
+  - Subsequent sentences flesh out the idea of topic sentence, develop logical
+  argument and/or empirical evidence
+  - Avoid introducing entirely new topics halfway through the paragraph. This confuses the reader and undermines the logical argument/evidence the paragraph is building. If you want to introduce a new idea, start a new paragraph
+
+  
+
+
+# References
+
+
+
+
+<!-- your comment 
+
+One of the two essay prompts should be of the type: apply two theories to analyze the following case [and provide recommendations] because that will be what you do for DAP when ask students to apply two theoretical perspectives to analyze demands by Black Bruins
+
+grad school programs going test optional
+
+####### UNIVERSITY TIES TO POLICE
+
+Group 3: Police Racial Profiling and Brutality on Campus 
+Students are calling for universities to cut their contracts with city and state police forces in the wake of campus police brutality during Black Lives Matter demonstrations and mental health crises. Students call for university administration to reinvest their budget to repair the harm police violence has caused to their community, especially students of color. In addition, they ask the university to partner with them to educate and organize students and faculty on the harm of carceral systems and focus on community care.
+
+https://www.insidehighered.com/news/2020/06/05/students-demand-universities-break-ties-local-police-few-have
+
+
+############# will graduate programs change the "canon" of theory courses to be more critical
+
+
+
+
+texas donors threaten to pull gifts over fight song;
+  - https://www.insidehighered.com/quick-takes?page=4
+  - analyze university fight song as an institution; 
+  
+- university decisions about opening classes; mask mandate;
+  - e.g., bob jones university https://www.insidehighered.com/quick-takes?page=4
+
+-->
+
+
+<!-- DAP essay prompt; analyze demands by black bruins
+
+
+
+-->
+<!-- Previous essay prompts
+
+The "Combahee River Collective" was a Black feminist organization best known for publishing the 1977 _Combahee River Collective Statement_, which became an important document in the development of Black feminism [@RN4570]. @RN869 develop an old institutionalism analysis of the origins and institutionalization of the "terminal vocational education" mission of the community college. Your task is, first, to develop an old institutionalism analysis of the origins and institutionalization of the _Combahee River Collective Statement_. Next, apply selected ideas/concepts from Black feminism – from Combahee River Collective Statement or other Black feminist scholarship you have read – to your analysis. Discuss how this application of Black feminism overcomes limitations of the old institutionalism analysis or yields insights that would difficult to observe in an analysis that only utilized old institutionalism.
+
+
+•	Describe core ideas/concepts of old institutionalism. Analyze the events described in Hevel (2017) from an old institutionalism perspective. How could concepts from queer theory be incorporated to strengthen this analysis?
+Hevel, M. S. (2017). Toward a history of LGBT student organizations' struggle-for-recognition lawsuits: The exemplar of GLSA v. Gohn.
+
+
+4.	“Institutionalization projects” are conscious efforts by a well-organized group of actors to change macro-level institutions that affect entire fields or professions (as opposed to organization-level institutions).  Analysis of institutionalization projects often incorporate elements of “old” and “new” institutional theory. Old institutionalism is relevant because it highlights agency of “institutional agents”, status-group mobilization/coalition-building, strategizing, etc. necessary to change institutions. New institutionalism is relevant because the goal is change what the field defines as legitimate/appropriate and because institutional agents may attempt to achieve their goals by harnessing the mechanisms of coercive, mimetic, or normative isomorphism (especially if the “field” is organized around a small number of professional associations).  The term “neo-institutional theory” refers to the integration of elements of old and new institutionalism. Consider the ASHE Presidential speech by Shaun Harper as part of a broader institutionalization project to change the field of higher education research (e.g., what topics are legitimate, how should curriculum in higher education programs be changed, how should research quality be defined, which actors are most influential in determining allocation of resources, etc.).  Your task: use selected elements of old and new institutionalism to (1) analyze the strategies you observed in the ASHE presidential speech and (2) make recommendations about strategies/actions that would increase the success of this institutionalization project.  OPTIONALLY, describe any limitations of neo-institutional theory with respect to making helpful recommendations about this institutionalization project.
+
+##########################
+
+3.	Imagine that you are a consultant that has been hired to provide advice to the dean of a college of education at a major public research university.  State appropriations to the university have declined in recent years and the university recently adopted a “responsibility center budget model” which means that every college must generate sufficient revenues to cover its costs.  The dean could not afford to hire new faculty when several senior professors retired and several others were poached by other universities.  A major donor who is pro-charter school approached the dean offering a $30 million gift to start a research/policy center focused on helping charter schools improve their performance. This funding would enable the dean to hire several new faculty (who study charter schools). The majority of faculty are opposed to charter schools. Leaders of local traditional public schools are also opposed to charter schools. The percent of local K-12 students attending charter schools increased from 15% to 30% in the last decade.  Your task is to analyze this issue and provide recommendations using two of the following three theoretical perspectives: garbage can decision-making theory, old institutionalism, resource dependence theory. Feel free to invent additional details but avoid inventing details that make the problem too simplistic (e.g., faculty will vote to terminate the dean if she creates the center).
+
+
+##########################
+On Friday, 2/29/2020 UC-Santa Cruz fired 54 graduate assistants who had gone on strike to demand a cost of living adjustment (COLA) (i.e., higher wages). Imagine that you are a consultant who has been hired by [you choose] either the University of California Office of the President (UCOP) *or* the United Auto Workers Local 2685, the union that represents all UC graduate students. Your task is to: (A) summarize the main ideas of Emerson (1962) and Pfeffer and Salancik (1978); (B) apply these ideas to analyze the conflict; and (C) drawing from your analysis, develop a few (e.g., 2-4) recommendations for actions your client should take as well as the rationale for these recommendations.
+
+ADDITIONAL NOTES/HINTS
+
+•	I have included a handful of short news stories/documents about this issue in CCLE
+o	No need to do additional reading beyond these sources
+o	Also, feel free to read selectively from this website created UC-Santa Cruz students https://payusmoreucsc.com/ [Thank you Katie!!!]
+o	I am more interested in how apply theory to a case rather than you demonstrating that you know everything about the case
+
+
+Integrate selected ideas/concepts from “Whiteness as Property” (Harris, 1993) with one other theoretical perspective we learned in class to analyze how/why the University of California Board of Regents will vote on the use of standardized tests (i.e., SAT, ACT) in the UC admissions process
+
+ADDITIONAL NOTES/HINTS
+
+•	Generally speaking, your essay should theoretical ideas/concepts, introduce relevant background information on the case, and then apply these ideas/concepts to analyze the case
+•	Harris (1993) explicitly discusses conceptions of “merit” and the role of standardized tests in defining “merit”
+•	I have included a handful of short news stories/documents about this issue in CCLE
+o	No need to do additional reading beyond these sources
+o	Note that several of them talk about the “UC Academic Council’s Standardized Testing Task Force” but no need to make that taskforce and their report a primary focus of your essay
+
+-->
+
+
+
