@@ -27,7 +27,8 @@ csl: ../lectures/apa.csl
 
 
 - Due Wednesday 3/17/2021 at ll:59pm
-- Submit completed final exam: https://www.dropbox.com/request/FmRdh1yNLHfBIjBhckaU
+- Submit completed final exam here: https://www.dropbox.com/request/FmRdh1yNLHfBIjBhckaU
+  - **Note**: If clicking on the link above does not work for you, you may need to paste the URL above directly into your browser
 - __Not__ a requirement for the take-home final but please take a few minutes to complete this anonymous evaluation for our teaching facilitator Demeturie Gogue
   - [LINK HERE](https://forms.gle/aMaMNhCvSmLWySWK9)
 
