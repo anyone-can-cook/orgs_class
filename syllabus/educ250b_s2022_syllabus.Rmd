@@ -95,15 +95,20 @@ The course will generally focus on a particular theoretical perspective each wee
 
 2. **Class discussion/activities**. What we will vary from week to week. Generally there will be a student-led activity/discussion around the topic of the week. In many weeks, there will be activity/discussion by the instructor that focuses on applying theory to research, and also time for discussion about the reading.
 
-# Communication and course website
+# Course website and communication
 
 ## Course website
 
 All course-related material can be found on the [course website](https://anyone-can-cook.github.io/orgs_class/). Pre-recorded lecture videos, lecture slides, and readings will be posted on the class website under the associated section. Weekly course topics can also be found on the class website.
 
-## Questions/discussion about course related content
+## Communication
 
-https://anyone-can-cook.github.io/orgs_class/#communication 
+We will use [GitHub](https://github.com/) for course announcements and for questions/discussion about course material. [GitHub](https://github.com/) is the industry standard platform used by programmers to collaborate on projects. Each week students will be required to post one question or comment about the reading using GitHub issues as well as respond to one question/comment posted by one of your classmates. Information about course communication can be found in the [Communication](https://anyone-can-cook.github.io/orgs_class/#communication) section of the course website.
+
+If you have a personal question or issue, email the instructor directly [ozanj@ucla.edu](ozanj@ucla.edu).
+
+
+
 
 ## Communication with instructor and facilitator
 
