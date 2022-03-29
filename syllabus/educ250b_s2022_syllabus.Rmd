@@ -89,9 +89,9 @@ What is "theory"? A lot of ink has been spilled over this question. Here's a sim
 
 The course will generally focus on a particular theoretical perspective each week. Class will time will usually begin with lecture followed by class-wide and small-group discussion/activities, often led by students.
 
-1. **Lecture**. Lecture (hopefully 60 minutes or less) will focus on core ideas from reading as well as contextual information to help you understand the required readings better. The [course website](https://anyone-can-cook.github.io/orgs_class/) will have lecture slides and -- when available -- video lectures from prior years. During class, the instructor will tailor lecture to the questions/comments posed by students prior to class. 
+1. **Lecture**. Lecture (hopefully 60 minutes or less) will focus on core ideas from reading as well as contextual information to help you understand the required readings better. The [course website](https://anyone-can-cook.github.io/orgs_class/) will have lecture slides and -- when available -- video lectures from prior years. During class, the instructor will try to tailor lecture to the questions/comments posed by students prior to class. 
 
-2. **Class discussion/activities**. What we will vary from week to week. Generally there will be a student-led activity/discussion around the topic of the week. In many weeks, there will be activity/discussion by the instructor that focuses on applying theory to research, and also time for discussion about the reading.
+2. **Class discussion/activities**. Each week there will be a student-led activity/discussion of 30-45 minutes that applies theory to real-world scenarios. What we do in the remaining time will vary somewhat from week to week, but we will often often focus on discussion of readings or learning how to apply theory to research.
 
 # Course website and communication
 
@@ -167,9 +167,9 @@ This course is reading intensive. There will generally four -- often dense  -- r
 - Class activities should complement the course lectures and readings as well as engage other organizational theories that we will be learning throughout the quarter.
 - [Guidelines for leading class discussion](https://docs.google.com/document/d/1VCCR2ouyhxK4bFvmKcHpbOQGSS-ou9jruilpMoVYZMk/edit?usp=sharing)" document (subject to change at discretion of instructors)
 
-**Mid-quarter three-page essay** (15%)
+**Mid-quarter essay** (15%)
 
-- The mid-quarter essay prompt will be distributed after class on week 3 or week 4 and it will be due two weeks later.
+- An essay of 3-4 pages double-space (excluding references) that answers a question posed by the instructor that requires you to explain theory and apply it to an issue.
 - The purpose of this assignment is to help you prepare for the take-home final in two ways:
     - Gain familiarity with the sort of essay questions I will ask you to answer for the take-home final
     - Become familiar with my expectations for writing quality (e.g., organization of ideas, prose, etc.)
@@ -177,6 +177,8 @@ This course is reading intensive. There will generally four -- often dense  -- r
 **Take-home final exam** (50%)
 
 - The take-home final will be distributed after class on week 10 and it will be due one week later
+- The biggest part of the take-home final will be answering one of two essay questions
+  - (one of which will ask you to think about how to apply organizational theory to a research question you are interested in)
 - The take-home final will assess the following sorts of things:
     - Demonstrate understanding of core concepts about the theories we learn
     - Describe important limitations/blind spots of theories we learn

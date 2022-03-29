@@ -2,10 +2,10 @@
 title: Overview of rational/natural/open systems (and intro to rational choice theory
   that you can skip/skim)
 author: "Ozan Jaquette"
-date: "null"
+date: ""
 output:
-  slidy_presentation:
-    highlight: tango
+  #slidy_presentation:
+  #  highlight: tango
   beamer_presentation:
     keep_tex: no
     toc: no
@@ -277,7 +277,7 @@ __Melville Dalton's _Men Who Manage___ (ethnographic research in Midwest chemica
 - Internal audits were a farce; auditors notified departments beforehand about "surprise" visits
 - Real power center of the org was workers who were members of the Freemasons fraternal organization
 
-__Phillip Selznick's "old institutionalism"__ (focus of reading next week)
+__Phillip Selznick's "old institutionalism"__
 
 - Interested in how original goals of org can be displaced or undermined
     - Analyzed the "Tennessee Valley Authority," a federally funded, but locally controlled effort in 1930s to improve agriculture industry in Tennessee Valley
@@ -300,9 +300,7 @@ Characteristics of open systems perspective
     - And "macro" external environmental factors that affect all orgs of particular type (e.g., US News College Rankings)
 - Moved analysis from individual organizations to systems of organizations
 
-### Open systems perspective: schools of thought
-
-[We'll read a lot of this stuff]
+### Open systems schools of thought (we'll read a lot of this)
 
 __Contingency theory__
 
@@ -316,7 +314,7 @@ __Resource dependence theory__
     
 __New institutional theory__
 
-- In order survive, orgs must publicly adopt practices deemed "legitimate" in broader macro environment (e.g., Office of Student Success; Office of Equity, Diversity, Inclusion)
+- In order survive, orgs must publicly adopt practices deemed "legitimate" in broader macro environment (e.g., Office of Student Success)
 - "institutions" are these taken-for-granted/legitimate practices
 - But adopt some practices symbolically (lots of ceremony, few resources) and others substantively
 - Analyze maintenance, decline, change in which practices orgs must publicly adopt
