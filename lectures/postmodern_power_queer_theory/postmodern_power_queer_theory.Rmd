@@ -1,0 +1,126 @@
+---
+title: "Postmodern conceptions of power, Queer Theory"
+subtitle: 'EDUC 250B: Organizational Analysis of Higher Education'
+author:
+date: 
+urlcolor: blue
+output: 
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: # toc_float option to float the table of contents to the left of the main document content. floating table of contents will always be visible even when the document is scrolled
+      collapsed: true # collapsed (defaults to TRUE) controls whether the TOC appears with only the top-level (e.g., H2) headers. If collapsed initially, the TOC is automatically expanded inline when necessary
+      smooth_scroll: true # smooth_scroll (defaults to TRUE) controls whether page scrolls are animated when TOC items are navigated to via mouse clicks
+    number_sections: true
+    fig_caption: true # ? this option doesn't seem to be working for figure inserted below outside of r code chunk    
+    highlight: default # Supported styles include "default", "tango", "pygments", "kate", "monochrome", "espresso", "zenburn", and "haddock" (specify null to prevent syntax    
+    theme: default # theme specifies the Bootstrap theme to use for the page. Valid themes include default, cerulean, journal, flatly, readable, spacelab, united, cosmo, lumen, paper, sandstone, simplex, and yeti.
+    df_print: tibble #options: default, tibble, paged
+    # keep_md: true # may be helpful for storing on github
+bibliography: ../educ250_bib.bib
+csl: ../apa.csl    
+---
+
+```{r, echo=FALSE, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE, warning = FALSE, message = FALSE)
+  #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
+```
+
+# Introduction
+
+# Postmodern conceptions of power
+
+## Foucault
+
+Michel Foucault (1926-1984)
+
+- French philosophy, historian of ideas, literary critic
+
+<br>
+Control in "traditional" vs. modern/contemporary society
+
+- "Traditional" times
+  - torture was very public, with goal of leaving violent imprint on the mind of onlookers
+- Modern/contemporary society
+  - control happens through creating the idea of "normality"
+  - "human sciences"
+    - develop foundations of knowledge that enable things to be categorized as normal or not
+    - disciplinary/professional knowledge defines what is good/bad, what is sane/crazy, what counts as evidence
+      - In _The order of things_ @RN1212 studies the development of psychiatry, and how psychiatry defined mental disorders
+        - e.g., The book [Diagnostic and Statistical Manual of Mental Disorders](https://www.psychiatry.org/psychiatrists/practice/dsm)
+- Foucault rejects the idea that reducing torture means we have become more "humane"
+  - modern control forms are less violent on the body, but theyr are more invasive and more regular
+  - one structure of punishment replaced by the next without any broad teleological purpose
+  
+<br>
+Historical analysis
+
+- Marx (building on Hegel) teleological view of history
+  - "progress" of society is a process that proceeds in three stages of thesis, antithesis, synthesis
+  - Marx focuses on: fudalism (thesis), capitalism (antithesis), communism (synthesis)
+  - Need to progress through stages of thesis and antithesis to realize the need for the synthesis
+- Foucault
+  - rejects the idea of history as a series of developmental stages
+  - rejects the enlightenment view that there is progress in history
+  - the present is a contingent outcome, not a pre-ordained deterministic thing 
+
+<br>
+Power-knowledge
+
+- disciplinary power: the human sciences
+  - Psychiatry, medicine, demography, economics
+- For Foucault knowledge does not liberate but makes domination more effective
+
+
+<br>
+Discourse (an essential term developed by Foucault)
+
+- definition
+  - "discourse" refers to the rules which allow certain statements to be judged as true or false
+- For Foucault, there are no objective rules to say which statement is better than another; statements are only true within a discourse
+  - e.g., submit a journal manuscript to an economics journal, reviewers will evaluate it based on the extent to which it competently defines and utilizes economic theory and method
+  - submit the same manuscript to a journal of developmental psychology, it will be evaluated based on extent to which it competently defines and utilizes theory and method from developmental psychology
+  
+<br>
+Power
+
+- Conventional view of power within political sociology: 
+  - power as a repressive force
+    - For example, we will read @RN960, which defines power as the ability of actor _A_ to control the actions of actor _B_
+  - Power located in key institutions (e.g., "the state")
+- in contrast to view of power as repressive, Foucault focuses on "disciplinary power" as a productive force that functions by its ability to constitute an established foundation of knowledge that then has power in society
+- in contrast to view of power being located in the state, Foucault posits a network of power that is a diffuse process occurring throughout the social body (e.g., different disciplines gain power to regulate different parts of the body)
+  - Shifts analytical attention away from the central state
+    - capillary power: micro networks through which which disciplinary power flows through
+  - disicplinary power is agentless
+  - Disciplinary power operates through defining certain practices as normal, and anyone who deviates from these practices as deviant.
+- the "normalizing" power of knowledge
+  - Sociologist Talcott Parsons believes that there is social order because people internalize norms
+  - Foucault believes that disciplinary knowledge creates what is normal and what is not, and conceptions from these "expert authorities" becomes internalized
+- On resistance, "a way out"
+  - because disciplinary power operates through defining certain practices as normal, resistance is purposely deviating from the norm
+  - Much of Foucault's work criticizes/unpacks "disciplinary knowlege" which defines what is normal, what is not, what is true, what is not
+    - The critique of "disciplinary knowledge", seeing that those sources of disciplinary knowledge rely
+on assumptions and that there are other foundational assumptions that would lead to different
+conceptions of normal, this critique gives liberation.
+
+
+When one discourse overtakes another discourse
+
+- Disciplines, professional societies "turn" from one set of assumptions/beliefs to another, often because an organized coalition of actors engage in a successful coup of the dominant canon
+  - the new discourse was motivated by a critique of the domination/violence from the previously ascendant discourse, 
+- For Foucault, the replacing of one discourse is neither good nor bad
+  - new discourse re-defines what is true, what is valued, what is normal/deviant
+  - newly ascendant discourse values some devalues others in different ways such that "others" (whoever defined as deviant, not important) continue to be excluded
+  
+Discipline and Punish [@RN1230]
+
+- Probably his most famous book, in which he developed some of the ideas described above
+  - but I think it is useful to lay out the core ideas
+- TO WRITE THIS SUB-SECTION DRAW FROM 
+  - Foucault’s Conception of Power and Resistance, Ashkan Rezvani Naraghi, December 7, 2012
+  - https://cla.purdue.edu/academic/english/theory/newhistoricism/modules/foucaultcarceral.html 
+
+# References
+
+
