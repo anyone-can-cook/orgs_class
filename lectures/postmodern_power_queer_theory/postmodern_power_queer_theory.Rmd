@@ -26,7 +26,7 @@ knitr::opts_chunk$set(collapse = TRUE, comment = "#>", highlight = TRUE, warning
   #comment = "#>" makes it so results from a code chunk start with "#>"; default is "##"
 ```
 
-# Introduction
+Please forgive the likely dozens of errors and the frequent use of quotes from sources that summarize!
 
 # Postmodern conceptions of power
 
@@ -36,6 +36,20 @@ Michel Foucault (1926-1984)
 
 - French philosophy, historian of ideas, literary critic
 
+### Overview of Foucault ideas
+
+<br>
+Historical analysis
+
+- Marx (building on Hegel) teleological view of history
+  - "progress" of society is a process that proceeds in three stages of thesis, antithesis, synthesis
+  - Marx focuses on: fudalism (thesis), capitalism (antithesis), communism (synthesis)
+  - Need to progress through stages of thesis and antithesis to realize the need for the synthesis
+- Foucault
+  - rejects the idea of history as a series of developmental stages
+  - rejects the enlightenment view that there is progress in history
+  - the present is a contingent outcome, not a pre-ordained deterministic thing 
+  
 <br>
 Control in "traditional" vs. modern/contemporary society
 
@@ -48,21 +62,7 @@ Control in "traditional" vs. modern/contemporary society
     - disciplinary/professional knowledge defines what is good/bad, what is sane/crazy, what counts as evidence
       - In _The order of things_ @RN1212 studies the development of psychiatry, and how psychiatry defined mental disorders
         - e.g., The book [Diagnostic and Statistical Manual of Mental Disorders](https://www.psychiatry.org/psychiatrists/practice/dsm)
-- Foucault rejects the idea that reducing torture means we have become more "humane"
-  - modern control forms are less violent on the body, but theyr are more invasive and more regular
-  - one structure of punishment replaced by the next without any broad teleological purpose
-  
-<br>
-Historical analysis
 
-- Marx (building on Hegel) teleological view of history
-  - "progress" of society is a process that proceeds in three stages of thesis, antithesis, synthesis
-  - Marx focuses on: fudalism (thesis), capitalism (antithesis), communism (synthesis)
-  - Need to progress through stages of thesis and antithesis to realize the need for the synthesis
-- Foucault
-  - rejects the idea of history as a series of developmental stages
-  - rejects the enlightenment view that there is progress in history
-  - the present is a contingent outcome, not a pre-ordained deterministic thing 
 
 <br>
 Power-knowledge
@@ -86,40 +86,238 @@ Power
 
 - Conventional view of power within political sociology: 
   - power as a repressive force
-    - For example, we will read @RN960, which defines power as the ability of actor _A_ to control the actions of actor _B_
+    - e.g., @RN960 defines power as the ability of actor _A_ to control the actions of actor _B_
   - Power located in key institutions (e.g., "the state")
-- in contrast to view of power as repressive, Foucault focuses on "disciplinary power" as a productive force that functions by its ability to constitute an established foundation of knowledge that then has power in society
-- in contrast to view of power being located in the state, Foucault posits a network of power that is a diffuse process occurring throughout the social body (e.g., different disciplines gain power to regulate different parts of the body)
-  - Shifts analytical attention away from the central state
-    - capillary power: micro networks through which which disciplinary power flows through
+- Foucault posits a network of power that is a diffuse process occurring throughout the social body (e.g., different disciplines gain power to regulate different parts of the body)
   - disicplinary power is agentless
   - Disciplinary power operates through defining certain practices as normal, and anyone who deviates from these practices as deviant.
 - the "normalizing" power of knowledge
   - Sociologist Talcott Parsons believes that there is social order because people internalize norms
   - Foucault believes that disciplinary knowledge creates what is normal and what is not, and conceptions from these "expert authorities" becomes internalized
-- On resistance, "a way out"
-  - because disciplinary power operates through defining certain practices as normal, resistance is purposely deviating from the norm
-  - Much of Foucault's work criticizes/unpacks "disciplinary knowlege" which defines what is normal, what is not, what is true, what is not
-    - The critique of "disciplinary knowledge", seeing that those sources of disciplinary knowledge rely
+
+<br>
+
+On resistance, "a way out"
+
+- because disciplinary power operates through defining certain practices as normal, resistance is purposely deviating from the norm
+- Much of Foucault's work criticizes/unpacks "disciplinary knowlege" which defines what is normal, what is not, what is true, what is not
+- The critique of "disciplinary knowledge", seeing that those sources of disciplinary knowledge rely
 on assumptions and that there are other foundational assumptions that would lead to different
 conceptions of normal, this critique gives liberation.
 
+<br>
 
 When one discourse overtakes another discourse
 
 - Disciplines, professional societies "turn" from one set of assumptions/beliefs to another, often because an organized coalition of actors engage in a successful coup of the dominant canon
-  - the new discourse was motivated by a critique of the domination/violence from the previously ascendant discourse, 
-- For Foucault, the replacing of one discourse is neither good nor bad
+  - the new discourse was motivated by a critique of the domination/violence from the previously ascendant discourse, - For Foucault, the replacing of one discourse is neither good nor bad
   - new discourse re-defines what is true, what is valued, what is normal/deviant
   - newly ascendant discourse values some devalues others in different ways such that "others" (whoever defined as deviant, not important) continue to be excluded
   
-Discipline and Punish [@RN1230]
+### Discipline and Punish [@RN1230]
 
-- Probably his most famous book, in which he developed some of the ideas described above
-  - but I think it is useful to lay out the core ideas
-- TO WRITE THIS SUB-SECTION DRAW FROM 
-  - Foucault’s Conception of Power and Resistance, Ashkan Rezvani Naraghi, December 7, 2012
+<br>
+Probably his most famous book, in which he developed some of the ideas described above
+
+- but I think it is useful to lay out the core ideas
+- I draw from a few sources, including
+  - @naraghi_2012
   - https://cla.purdue.edu/academic/english/theory/newhistoricism/modules/foucaultcarceral.html 
+
+<br>  
+Book opening contrasts two approaches to state punishment
+
+- 1700s, spectacle of a criminal slowly and painfully tortured to death
+- 1800s, daily timeline of activities of prisoners, how their lives were regulated
+  - no physical punishment
+- Although it seems like the 1800s punishment is more human, Foucault states the goal was "not to punish less, but to punish better"  [@RN1230, p. 82]
+
+<br>  
+
+Four major transitions in shift from pre-modern to modern approaches of punishment [@naraghi_2012, p. 2]
+
+> 1. The disappearance of public display of punishment
+1. Punishment of the criminal rather than the crime; 
+1. The role of ‘experts’ (psychiatrists, social workers, parole boards) in determining the judicial sentences rather than judges
+1. ‘reform and rehabilitation’ of the criminal instead of ‘retribution’
+
+If punishment no longer punishes the body, what does it punish?
+
+- "The expiation that once rained down upon the body must be replaced by a punishment that acts in depth on the heart, the thoughts, the will, the inclinations" [@RN1230, p. 16]
+- Instead of punishing the crime, goal of punishment is to "supervise the individual, to neutralize his dangerous state of mind, to alter his criminal tendencies, and to continue even when his change has been achieved” [@RN1230, p. 168].
+- This supervision approach to punishment creates the "Docile Body"
+
+<br>
+On the the Docile Body [@naraghi_2012]
+
+- concept of 'docility' connected to concepts of 'analyzeable body' and 'manipulable body'
+- Foucault states that a body that is docile may be “subjected, used, transformed and improved” [@RN1230, p. 136]
+- 'Discipline'
+  - Foucault defines 'Discipline' as the processes that make control of body possible
+  - Docility is achieved through 'micro-management' of the behavior of the criminal
+  - "Discipline creates bodies that not only do what it wants but do it exactly in the way that it desires" [@naraghi_2012, p. 3]
+
+<br>
+"The means of correct training" [@RN1230, p. 170] describes three means of creating docile bodies
+
+1. Hierarchical observation
+    - "discipline can control the actions of people by just observing them" [@naraghi_2012, p. 3]
+    - The ideal disciplinary mechanism makes it possible to surveil/observe the invididual constantly and from all angles
+1. Normalizing judgment
+    - "People are judged in relation to others. It produces norms and, consequently, highlights ‘abnormal’ behaviors"  [@naraghi_2012, p. 3]
+    - Disciplinary knowlege (here disciplines like psychology, economics) is key to creating norms. Legitimate bodies of discourse that defines normal and abnormal
+1. Examination
+    - Examination is "the result of the combination of the two previous means. Individuals can be ‘differentiated’ and ‘judged’ through examination" [@naraghi_2012, p. 3]
+
+<br>
+Panopticon and carceral society
+
+- Jeremy Bentham
+  - Bentham (1748-1832) was an "English philosopher, jurist, and social reformer regarded as the founder of modern utilitarianism" [wikipedia](https://en.wikipedia.org/wiki/Jeremy_Bentham)
+- Bentham's 19th Century prison reforms, _The Panopticon_, as quoted from @felluga_2011:
+
+  >  Bentham argued in The "Panopticon" that the perfect prison would be structured in a such a way that cells would be open to a central tower. In the model, individuals in the cells do not interact with each other and are constantly confronted by the panoptic tower (pan=all; optic=seeing). They cannot, however, see when there is a person in the tower; they must believe that they could be watched at any moment
+
+  > "The inmate must never know whether he is being looked at at any one moment; but he must be sure that he may always be so" [@RN1230, p. 201].
+
+ ![](https://cla.purdue.edu/academic/english/theory/assets/images/foucaulttower.jpeg)
+
+- Self-regulation
+  - "Bentham saw this prison reform as a model for how society should function. To maintain order in a democratic and capitalist society, the populace needs to believe that any person could be surveilled at any time. In time, such a structure would ensure that the people would soon internalize the panoptic tower and police themselves" [@felluga_2011]
+- In Foucault's words
+
+  > He who is subjected to a field of visibility, and who knows it, assumes responsibility for the constraints of power; he makes them play spontaneously upon himself; he inscribes in himself the power relation in which he simultaneously plays both roles; he becomes the principle of his own subjection" [@RN1230, pp. 202-203].
+  
+- Normativity and self-regulation
+  - The knowledge-power discourses of professions and academic disciplines defines what is normal and abnormal
+  - In combination with constant surveillance/panopticon, people learn to self-regulate according to how these discourses define normal/abnormal
+  - Not only do people stop defying these definitions of normality, it defiance does not occur to them because they have internalized the socially constructed logic of the discourse as self-evident, universal truth
+
+<br>
+Comparison to three types of power by Steven Lukes [@RN4767]
+
+- Decision-making power
+  - Person _A_ decides to do something (e.g., enroll in an elective course)
+  - Person _A_ and person _B_ disagree about what should be done and one of them wins
+    - e.g., Student _A_ wants to take an elective course and advisor _B_ doesn't want student to take that course; student doesn't take that course, so the advisor wins
+  - this is the "modern" conception of power
+- Non-decision-making power
+  - involves controlling the parameters of a discussion
+  - "Non-decision-making power is that which sets the agenda in debates and makes certain issues unacceptable for discussion in legitimate public forums" [wikipedia](https://en.wikipedia.org/wiki/Steven_Lukes#:~:text=The%20three%20dimensions%20of%20power,-One%20of%20Lukes&text=This%20theory%20claims%20that%20power,preferences%20revealed%20through%20political%20action.)
+    - e.g., Imagine I want to do away with the _DAP_ exam, but this is not even up for debate
+- Ideological power
+  - Prevent people from even thinking of an alternative course of action
+  - this is a post-modern conception of power, including the ideas about surveillance, normativity, and self-regulation from [@RN1230]
+
+# Queer Theory
+
+## Introduction to Queer Theory
+
+- Walk through [PowerPoint Lecture](https://github.com/anyone-can-cook/orgs_class/raw/master/lectures/queer_theory_norms_culture/G_Ortiz_GuestLecture250B_queer_theory.pptx) by Gabi Ortiz
+
+## Thoughts and questions about Queer Theory
+
+Queer theory in relation to strands of feminism
+
+- cultural feminism
+  - idea that women have different values and assumptions than men, and a goal of cultural feminism is to is to make the values and assumptions of women more valued in organizations/workplace [@RN4422]
+- Queer theory
+  - views the concepts "men" and "women" as socially constructed and problematic
+  - if we accept these concepts as given, then we have already lost
+  - instead, attack the concepts
+  
+<br>
+Intersectionality (from CRT)
+
+- From _Combahee River Statement_ (1974)
+ 
+> The major source of difficulty in our political work is that we are not just trying to fight oppression on one front or even two, but instead to address a whole range of oppressions. We do not have racial, sexual, heterosexual, or class privilege to rely upon, nor do we have even the minimal access to resources and power that groups who possess any one of these types of privilege have [@RN4570, pp 19-20]
+
+
+- In every social category (e.g., race, gender, sex, class, sexual orientation), there are dominant/privileged groups and oppressed groups
+- Individual people are associated with belonging to multiple social categories
+  - e.g., Black men belong to an oppressed racial category but dominant gender category
+- Black women belong to an oppressed racial category and oppressed gender category
+  - Many founding members of "Combahee River Collective also identified as Lesbians and, thus, belonged to oppressed category of sexual orientation
+- People who are oppressed in at least one social category have partial understanding of the experience of being a Black women
+- People who are in oppressed group in multiple social categories experience more severe, qualitatively different oppression than people who are associated with an oppressed identity and a dominant identity
+
+<br>
+
+Queer Theory in relationship to intersectionality
+
+- Queer Theory builds on a postmodern/anticategorical approach -- particularly drawing from Judith Butler and Michel Foucault -- that rejects identities
+- Summary of Judith Butler from [@RN4422, p. 317]
+
+  > Butler (2007) \ldots notes that “the theories of feminist identity that elaborate predicates of color, sexuality,
+ethnicity, class, and able-bodiedness invariably close with an embarrassed ‘etc.’ at the end of the list” (Butler, 2007, p. 196) because it is impossible to discretely identify all forms of difference that may be socially significant in any given context.
+
+  > clinging to stable categories of identity, such as women, “denies the internal complexity and indeterminancy of the term” (Butler, 2007, p. 194) by treating them as naturally existing and objectively identifiable, despite evidence that the boundaries of these categories are blurred and continually renegotiated in everyday discourse (Butler, 2004; Halberstam, 1998, 2012)
+  
+- Response from intersectionality approach
+  - Even though these identities are socially constructed, we focus on the material (i.e., tangible) oppression we experience as the result of being associated with these socially constructed identities
+  
+### Can Queer Theory and intersectionality coexist
+
+<br>
+
+A question I find very puzzling!!!: Are Queer Theory and intersectionality fundamentally at odds?
+
+- Intersectionality is focuses on oppression that results from  belonging to the oppressed group in multiple categories of social identity
+- Queer Theory focuses on problematizing/rejecting categories of social identity precisely because these categories are defined in a way that does violence to people that do not belong to the privileged group
+
+
+
+<br>
+What does @RN4688 say about this?
+
+<!-- your comment 
+> The radical potential of those of us on the outside of heteronormativity rests in our understanding that we need not base our politics in the dissolution of all categories and communities, but we need instead to work toward the destabilization and remaking of our identities. Difference, in and of itself--even that difference designated through named categories-is not the problem. Instead it is the power invested in certain identity categories and the idea that bounded categories are not to be transgressed that serve as the basis of domination and control (p. 481)
+
+-->
+
+
+### Queer Theory and organizational norms/culture
+
+Scholarship on organizational culture written in the late 20th Century often preferred "strong" org cultures ("modern" as opposed to "post-modern")
+
+- Tierney, 1988, on organizational culture in higher education (p. 7): "Recent findings indicate that strong, congruent cultures supportive of organizational structures and strategies are more effective than weak, incongruent, or disconnected cultures"
+
+<br>
+How does Queer Theory (rooted in post-modern theory) differ from this perspective of organizational culture?
+
+<br>
+<br>
+
+#### Queer Theory as a guide for organizational change
+
+Organizational "values" are socially constructed ideas, constructed by dominant members of the org to benefit dominant members of the org
+
+- Which contributions are "valued" are pre-determined to place highest value on contributions by dominant members of the group
+- If you are viewed as "not sharing our values" and/or the objects you produce are not viewed as valued
+  - The organization will not value/celebrate your accomplishments no matter how much you produce
+  
+<br>  
+The "modern" approach to power [e.g., @RN960]
+
+- Members viewed as 'Others' should develop a coalition to increase the force of their demands for recognition
+- But tends to assume that a small number of 'Others' will be unsuccessful in demands for change
+
+<br>  
+
+Strategies for change, based on Queer Theory
+
+- A small number of seemingly weak 'Others' can enact change
+- Explicitly state what the organizational norms are and why they are problematic
+- Engage in performative actions (Queering) that demonstrate the hypocrisy/exclusion that results from current set of organizational norms
+- Losing many battles is the best way to win the war, because visibility normalizes alternative possibilities
+  - Fight the fights even when you think you are going going to lose (decision-making power)
+    - You will get knocked down
+    - Essential that you get up and fight again
+  - Do not accept certain topics/debates as "off the table" (agenda setting power)
+  - Problematize the legitimacy/logic of taken-for-granted organizational norms (ideological power)
+- But all of these strategies work better if you empower others to resist and develop a coalition 
+
 
 # References
 
