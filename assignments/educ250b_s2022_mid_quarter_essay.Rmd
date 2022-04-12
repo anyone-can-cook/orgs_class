@@ -1,0 +1,72 @@
+---
+title: "Mid-quarter essay prompt"
+subtitle: "EDUC 250B, Spring 2022"
+author: 
+date: 
+urlcolor: blue
+output: 
+  # pdf_document
+  # word_document:
+  #   toc: no
+  #   toc_depth: '3'
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+    fig_caption: true
+    highlight: tango
+    theme: default
+    df_print: tibble
+bibliography: ../lectures/educ250_bib.bib
+csl: ../lectures/apa.csl
+---
+
+# Essay prompt
+
+Your task is to use resource dependence theory to analyze the equity, diversity, and inclusion (EDI) profession/industry in higher education. Your essay should do the following things: define core concepts and explain core ideas of resource dependence theory; choose some part of the EDI profession/industry you find interesting (e.g., how EDI consultants approach universities; relationship between EDI offices and student groups; whether to create an EDI office or hire external consultants); apply concepts/ideas from resource dependence theory to analyze your chosen slice of EDI; discuss the limitations of RDT for analyzing your chosen slice of EDI and how these limitations might be overcome by incorporating an alternative perspective.
+
+
+__Context/Background__
+
+- Ten years ago, few universities had EDI offices. Now, most universities have an EDI office and many academic units within universities (e.g., a school of education) have their own EDI office. The article [Inside the Diversity-Equity-and-Inclusion Industrial Complex](https://www.thecut.com/article/diversity-equity-inclusion-industrial-companies.html) describes the growth of EDI consulting in corporate America, while this [press release](https://www.einnews.com/pr_news/566273586/dei-strategist-hr-consultant-arquella-hargrove-to-speak-on-leveraging-diversity-equity-inclusion-rice-university) promotes an EDI session that targets boards of non-profit organizations. EDI consulting is also an emerging business in higher education (for example, see [Ranga Consulting](https://rengaconsulting.com/our-services/dei-for-higher-education/)). In 2021, the enrollment management consulting firm EAB [acquired Seramount](https://eab.com/insights/press-release/workplace/searmount-aquisition/), a workplace diversity, equity, and inclusion firm (however, I can't tell if EAB plans to offer EDI consulting!)
+
+# Guidelines/recommendations
+
+- Essay assigned on 4/13/2022 [week 3 class] and is due before class on 4/27/2022 [week 5 class]
+- Essay is worth 15% of your grade for the quarter
+- Submit essay [here](https://www.dropbox.com/request/Ea4MWcYgHdbXUtrwDBYd)
+- Essay should be not less than three pages and not more than four pages double space (excluding references) , size 11 or 12 font, one inch margins all around
+- Finding focus within EDI
+  - In terms of choosing what part of EDI to focus on, there are lots of different directions you could go! 
+  - Good to have a broad introduction to what EDI is, but don't write an essay that goes in all of these directions. 
+  - Rather, choose one direction/slice of EDI to focus on
+  - Recall that resource dependence theory is about power dynamics between actors (e.g., power dynamics between actors within an organization, and power dynamics between organizations) and thinks about power dynamics in terms of what does an actor want (goals) that is controlled by another actor. So I recommend that your chosen slice of EDI highlights relationships between different sets of actors
+- when I assign questions like this I want your essay to do three basic things in some order: define theory; introduce empirical context of the case; apply theory to the case
+  - define theory and key concepts of theory (like 2-4 paragraphs)
+    - includes brief, broad overview of theory you are using
+    - go more in depth introducing key concepts of the theory that you will apply to the case
+  - introduce relevant "empirical context" of the "case" (usually one or two paragraphs)
+    - background information for reader who is unfamiliar to the case
+    - provide more detail about parts of the case that you will apply theory/concepts to
+  - apply theory/concepts to the case
+    - show the reader how general concepts from the theory apply to your case; 
+    - Since a theory tends to care about particular things, applying a theory to a case compels you to focus on particular aspects of the case
+    hopefully, explaining the case in terms of concepts from theory  yields insights about the case that would not emerge in the absence of theory
+- Follow APA style
+  - Use citations when appropriate
+  -	Any verbatim text from another source __MUST__ be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the assignment
+- You are not required to do additional reading but fine if you do  
+- Happy to make an appointment with you to discuss your essay
+  - Prior to the meeting, please prepare an outline of your essay. This will make our conversation more productive
+
+# Writing expectations/recommendations
+
+- Create an outline to develop logical flow of ideas/argument
+- Aim for clear, simple prose that is easy for reader to follow
+- Each paragraph should be about one idea/topic (could be big or small)
+- First sentence [“topic sentence”] of paragraph tells reader what paragraph is
+about
+- Subsequent sentences flesh out the idea of topic sentence, develop logical
+argument and/or empirical evidence
+
