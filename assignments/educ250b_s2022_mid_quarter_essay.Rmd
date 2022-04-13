@@ -24,12 +24,19 @@ csl: ../lectures/apa.csl
 
 # Essay prompt
 
-Your task is to use resource dependence theory to analyze the equity, diversity, and inclusion (EDI) profession/industry in higher education. Your essay should do the following things: define core concepts and explain core ideas of resource dependence theory; choose some part of the EDI profession/industry you find interesting (e.g., how EDI consultants approach universities; relationship between EDI offices and student groups; whether to create an EDI office or hire external consultants); apply concepts/ideas from resource dependence theory to analyze your chosen slice of EDI; discuss the limitations of RDT for analyzing your chosen slice of EDI and how these limitations might be overcome by incorporating an alternative perspective.
+Your task is to use resource dependence theory to analyze some issue in higher education that you are interested in. Your essay should do the following things in some order: define core concepts and explain core ideas of resource dependence theory (RDT); introduce the issue you will analyze and provide background about those aspects of the issue you will analyze using RDT; apply concepts/ideas from resource dependence theory to analyze your chosen slice of the issue; discuss the limitations of RDT for analyzing the issue and how these limitations might be overcome by incorporating an alternative perspective.
 
+<!-- your comment 
+
+Your task is to use resource dependence theory to analyze the equity, diversity, and inclusion (EDI) profession/industry in higher education. Your essay should do the following things: define core concepts and explain core ideas of resource dependence theory; choose some part of the EDI profession/industry you find interesting (e.g., how EDI consultants approach universities; relationship between EDI offices and student groups; whether to create an EDI office or hire external consultants); apply concepts/ideas from resource dependence theory to analyze your chosen slice of EDI; discuss the limitations of RDT for analyzing your chosen slice of EDI and how these limitations might be overcome by incorporating an alternative perspective.
 
 __Context/Background__
 
 - Ten years ago, few universities had EDI offices. Now, most universities have an EDI office and many academic units within universities (e.g., a school of education) have their own EDI office. The article [Inside the Diversity-Equity-and-Inclusion Industrial Complex](https://www.thecut.com/article/diversity-equity-inclusion-industrial-companies.html) describes the growth of EDI consulting in corporate America, while this [press release](https://www.einnews.com/pr_news/566273586/dei-strategist-hr-consultant-arquella-hargrove-to-speak-on-leveraging-diversity-equity-inclusion-rice-university) promotes an EDI session that targets boards of non-profit organizations. EDI consulting is also an emerging business in higher education (for example, see [Ranga Consulting](https://rengaconsulting.com/our-services/dei-for-higher-education/)). In 2021, the enrollment management consulting firm EAB [acquired Seramount](https://eab.com/insights/press-release/workplace/searmount-aquisition/), a workplace diversity, equity, and inclusion firm (however, I can't tell if EAB plans to offer EDI consulting!)
+
+
+-->
+
 
 # Guidelines/recommendations
 
@@ -37,11 +44,6 @@ __Context/Background__
 - Essay is worth 15% of your grade for the quarter
 - Submit essay [here](https://ucla.app.box.com/f/df7c90827f894459bc19500d477a49a3)
 - Essay should be not less than three pages and not more than four pages double space (excluding references) , size 11 or 12 font, one inch margins all around
-- Finding focus within EDI
-  - In terms of choosing what part of EDI to focus on, there are lots of different directions you could go! 
-  - Good to have a broad introduction to what EDI is, but don't write an essay that goes in all of these directions. 
-  - Rather, choose one direction/slice of EDI to focus on
-  - Recall that resource dependence theory is about power dynamics between actors (e.g., power dynamics between actors within an organization, and power dynamics between organizations) and thinks about power dynamics in terms of what does an actor want (goals) that is controlled by another actor. So I recommend that your chosen slice of EDI highlights relationships between different sets of actors
 - When I assign questions like this I want your essay to do three basic things in some order: define theory; introduce empirical context of the case; apply theory to the case
   - Define theory and key concepts of theory (like 2-4 paragraphs)
     - Includes brief, broad overview of theory you are using
@@ -53,6 +55,11 @@ __Context/Background__
     - Show the reader how general concepts from the theory apply to your case
     - Since a theory tends to care about particular things, applying a theory to a case compels you to focus on particular aspects of the case
     - Hopefully, explaining the case in terms of concepts from theory  yields insights about the case that would not emerge in the absence of theory
+- Finding focus within an issue
+  - The issue you choose may be a big issue, with a lot of different aspects, and there are lots of different directions you could go in terms of analyzing the issue using RDT
+  - Don't try to go in all these different directions!
+  - Rather, choose some aspect of the issue that you think can be usefully analyzed using RDT and have that be the focus of your essay
+  - Recall that resource dependence theory is about power dynamics between actors (e.g., power dynamics between actors within an organization, and power dynamics between organizations) and thinks about power dynamics in terms of what does an actor want (goals) that is controlled by another actor. So choose some aspect(s) of the issue that highlight relationships between different sets of actors
 - Follow APA style
   - Use citations when appropriate
   -	Any verbatim text from another source __MUST__ be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the assignment
