@@ -35,24 +35,24 @@ __Context/Background__
 
 - Essay assigned on 4/13/2022 [week 3 class] and is due before class on 4/27/2022 [week 5 class]
 - Essay is worth 15% of your grade for the quarter
-- Submit essay [here](https://www.dropbox.com/request/Ea4MWcYgHdbXUtrwDBYd)
+- Submit essay [here](https://ucla.app.box.com/f/df7c90827f894459bc19500d477a49a3)
 - Essay should be not less than three pages and not more than four pages double space (excluding references) , size 11 or 12 font, one inch margins all around
 - Finding focus within EDI
   - In terms of choosing what part of EDI to focus on, there are lots of different directions you could go! 
   - Good to have a broad introduction to what EDI is, but don't write an essay that goes in all of these directions. 
   - Rather, choose one direction/slice of EDI to focus on
   - Recall that resource dependence theory is about power dynamics between actors (e.g., power dynamics between actors within an organization, and power dynamics between organizations) and thinks about power dynamics in terms of what does an actor want (goals) that is controlled by another actor. So I recommend that your chosen slice of EDI highlights relationships between different sets of actors
-- when I assign questions like this I want your essay to do three basic things in some order: define theory; introduce empirical context of the case; apply theory to the case
-  - define theory and key concepts of theory (like 2-4 paragraphs)
-    - includes brief, broad overview of theory you are using
-    - go more in depth introducing key concepts of the theory that you will apply to the case
-  - introduce relevant "empirical context" of the "case" (usually one or two paragraphs)
-    - background information for reader who is unfamiliar to the case
-    - provide more detail about parts of the case that you will apply theory/concepts to
-  - apply theory/concepts to the case
-    - show the reader how general concepts from the theory apply to your case; 
+- When I assign questions like this I want your essay to do three basic things in some order: define theory; introduce empirical context of the case; apply theory to the case
+  - Define theory and key concepts of theory (like 2-4 paragraphs)
+    - Includes brief, broad overview of theory you are using
+    - Go more in depth introducing key concepts of the theory that you will apply to the case
+  - Introduce relevant "empirical context" of the "case" (usually one or two paragraphs)
+    - Background information for reader who is unfamiliar to the case
+    - Provide more detail about parts of the case that you will apply theory/concepts to
+  - Apply theory/concepts to the case
+    - Show the reader how general concepts from the theory apply to your case
     - Since a theory tends to care about particular things, applying a theory to a case compels you to focus on particular aspects of the case
-    hopefully, explaining the case in terms of concepts from theory  yields insights about the case that would not emerge in the absence of theory
+    - Hopefully, explaining the case in terms of concepts from theory  yields insights about the case that would not emerge in the absence of theory
 - Follow APA style
   - Use citations when appropriate
   -	Any verbatim text from another source __MUST__ be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the assignment
@@ -65,7 +65,7 @@ __Context/Background__
 - Create an outline to develop logical flow of ideas/argument
 - Aim for clear, simple prose that is easy for reader to follow
 - Each paragraph should be about one idea/topic (could be big or small)
-- First sentence [“topic sentence”] of paragraph tells reader what paragraph is
+- First sentence ["topic sentence"] of paragraph tells reader what paragraph is
 about
 - Subsequent sentences flesh out the idea of topic sentence, develop logical
 argument and/or empirical evidence
