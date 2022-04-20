@@ -44,7 +44,9 @@ kable(info,col.names = c("", ""), escape = T) %>%
 - Office: Moore Hall, Room 3038
 - Email: [ozanj@ucla.edu](ozanj@ucla.edu)
 - Office hours:
-  - Mondays 3-4pm, and by appointment (afternoons)
+  - Drop-in office hours are Mondays 2-3pm
+    - I will be there in person and will have my personal zoom chat room open
+  - and by appointment (afternoons)
 - [Personal Zoom link](https://ucla.zoom.us/j/2545750562)  
   
 # Course description
