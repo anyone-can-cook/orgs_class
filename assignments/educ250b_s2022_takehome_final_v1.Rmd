@@ -38,7 +38,7 @@ csl: ../lectures/apa.csl
 
 # Concepts
 
-1 point each
+1 point each; 25 points total
 
 **Instructions**
 
@@ -47,8 +47,6 @@ csl: ../lectures/apa.csl
 
 **Concepts**
 
-<!--  
-1 point each; 25 points total
 1. __*Norms*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
 1. __*Organizational norms*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
 1. __*Strong organizational culture*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
@@ -61,9 +59,6 @@ csl: ../lectures/apa.csl
 1. __*Institutionalization*__ (new institutionalism)
 1. __*Buffering*__ (from contingency theory; see lecture slides because no reading assigned on contingency theory)
 1. __*Tight coupling vs. loose coupling*__
-
--->
-
 1. __*Decoupling*__
 1. __*“Solutions looking for problems”*__
 1. __*Dependence*__ (either Emerson or Pfeffer and Salancik)
@@ -81,18 +76,12 @@ csl: ../lectures/apa.csl
 
 # Short answers
 
-3 points each
+3 points each; 12 points total
 
 Answer each of the following questions in 2-4 sentences:
 
-<!--  
-
 1.	According to resource dependence theory, why does organizational mission change when an organization switches from relying on one resource to relying on a different resource [consider both internal and external power dynamics]. Give an example.
 1. Prestige is a resource valued by universities. UC-Berkeley (UCB) and UC-San Diego (UCSD) both have highly ranked political science departments. Imagine these two political science departments have the same rank (i.e., they are tied) in US News and World Report Grad School Rankings, but UCB is a more highly ranked university as a whole than UC-San Diego. According to resource dependence theory, which is likely to be greater: (a) the influence of UCB political science department over organizational decision-making within UCB or (b) the influence of UCSD political science department over organizational decision-making within UCSD? Why?
-
--->
-
-
 1. Define the concept of "template" from @RN2432. We might say that the Association for the Study of Higher Education (ASHE) 2017 presidential address by Shaun Harper lays out a new organizational template for the field. In a couple sentences, comment on what sort of research is deemed valuable within this new template and what sort of research is deemed not valuable.
 1. Define the concepts of "radical change" versus "convergent change" from  @RN2432. Would you consider recent changes within the ASHE professional association radical or convergent? Why? (by "recent changes," I'm thinking of changes leading up to and immediately following the 2017 ASHE presidential address)
 
