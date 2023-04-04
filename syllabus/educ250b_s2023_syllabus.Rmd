@@ -1,0 +1,346 @@
+---
+title: "Education 250B: Organizational Analysis of Higher Education"
+subtitle: "Spring 2023"
+author: 
+date: 
+urlcolor: blue
+output: 
+  # pdf_document
+  # word_document:
+  #   toc: no
+  #   toc_depth: '3'
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+    fig_caption: true
+    highlight: tango
+    theme: default
+    df_print: tibble
+
+---
+
+# Course information
+
+```{r echo=FALSE, message=FALSE, warning = FALSE}
+library(kableExtra)
+library(tidyverse)
+
+t <- c("Course website", "Day and Time", "Location", "Class Zoom link")
+l <- c("https://anyone-can-cook.github.io/orgs_class/", "Wednesdays, 9AM-11:50AM", "Moore 3140", "https://ucla.zoom.us/j/2545750562")
+
+info <- tibble(t, l)
+
+kable(info,col.names = c("", ""), escape = T) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "responsive"), full_width = T, position = "left")
+```
+
+# Instructor
+
+**Ozan Jaquette**  
+
+- Pronouns: he/him/his
+- Office: Moore Hall, Room 3038
+- Email: [ozanj@ucla.edu](ozanj@ucla.edu)
+- Office hours:
+  - Drop-in office hours are Tuesdays 3-4pm on zoom
+    - [Personal Zoom link](https://ucla.zoom.us/j/2545750562)  
+  - and by appointment (afternoons)
+
+  
+# Course description
+
+Organizations include the schools and colleges we attend, businesses that create the products we use (and change our lifestyle), the bureaucracies that regulate daily life, the non-profit organizations that exert influence on societal policy, etc.  For good or for ill, organizations dramatically affect our lives. As individuals we can become skillful about navigating organizations. As collective actors, we can exert influence over what organizations do and even over what entire fields do.
+
+The goals of this class are to understand theories of organizational behavior and learn how to apply these theories to practice and to research.
+
+Organizational theory draws from multiple disciplines (e.g., sociology, psychology, economics, political science) and each discipline approaches organizational behavior from a different perspective and with a different focus. Most courses on organizational theory draw primarily from psychology and/or sociology.  Organizational theories from psychology tend to focus on more "micro" interactions between people, covering topics such as individual decision-making, implicit bias, motivation, trust, etc.  
+
+Organizational theories from sociology tend to have a more "macro" focus, developing theories to address topics such as: how does the prescribed curriculum of a degree program change (or not change); how do donors control the behavior of departments/universities; how do foundations control the higher education policy agenda and how do other actors influence what problems/solutions are deemed "legitimate" by foundations.
+
+This course focuses primarily on organizational theories from sociology rather than psychology. Why? Because 10 weeks is not enough time to cover both disciplinary perspectives well. And also because I was trained as a sociologist!
+
+The course is organized around theories rather than topics. For example, we don't spend a week studying "organizational change." Rather, several theories we learn throughout the quarter offer different perspectives on organizational change. 
+
+## What is theory?
+
+What is "theory"? A lot of ink has been spilled over this question. Here's a simple, working definition: A theory is an explanation that can be applied to more than one situation.  You will develop a deep understanding of several of the core sociological theories of organizational behavior (e.g., "old" institutionalism, new institutionalism, resource dependence theory).
+
+## Course goals
+
+1. Understand the theory
+    - Gain a deep understanding of the core ideas and concepts from sociological theories of organizational behavior
+2. Understand the strengths, limitations, and blind spots of each theory
+    - These goals requires that you fully engage with the theory.
+    - I want your criticisms of the theory to be deep/substantive criticisms. Deep criticisms only come from deep understanding.
+    - I also want you to think about what is useful and insightful about the theory.
+3. Identify connections and areas of disagreement across theories
+    - Identify common concepts utilized by different theories
+    - Where do two theories disagree with one another?
+    - Theories help you simplify clutter by telling you what to focus on. How does the "focus" of one theory (i.e., which relationships/factors are deemed important) differ from the focus of another theory?
+4. Apply theory to practice
+    - Practice applying theory to current/previous personal experiences as a student or at your job
+    - Practice applying theory to contemporary issues happening at UCLA and in the broader field of education
+5. Begin to apply theory to research, including
+    - Which sort of theories are relevant for a particular research interest
+    - Using theory to inform research questions questions you ask
+    - Using theory deductively (e.g., developing a priori hypotheses) or inductively (e.g., to inform how you interpret the data)
+
+# Course structure
+
+The course will generally focus on a particular theoretical perspective each week. Class will time will usually begin with lecture followed by class-wide and small-group discussion/activities, often led by students.
+
+1. **Lecture**. Lecture (hopefully 60 minutes or less) will focus on core ideas from reading as well as contextual information to help you understand the required readings better. The [course website](https://anyone-can-cook.github.io/orgs_class/) will have lecture slides and -- when available -- video lectures from prior years. During class, the instructor will try to tailor lecture to the questions/comments posed by students prior to class. 
+
+2. **Class discussion/activities**. Each week there will be a student-led activity/discussion of 30-45 minutes that applies theory to real-world scenarios. What we do in the remaining time will vary somewhat from week to week, but we will often often focus on discussion of readings or learning how to apply theory to research.
+
+# Course website and communication
+
+## Course website
+
+All course-related material can be found on the [course website](https://anyone-can-cook.github.io/orgs_class/). Pre-recorded lecture videos, lecture slides, and readings will be posted on the class website under the associated section. Weekly course topics can also be found on the class website.
+
+## Communication
+
+We will use [GitHub](https://github.com/) for course announcements and for questions/discussion about course material. [GitHub](https://github.com/) is the industry standard platform used by programmers to collaborate on projects. Each week students will be required to post one question or comment about the reading using GitHub issues as well as respond to one question/comment posted by one of your classmates. Information about course communication can be found in the [Communication](https://anyone-can-cook.github.io/orgs_class/#communication) section of the course website.
+
+If you have a personal question or issue, email the instructor directly [ozanj@ucla.edu](ozanj@ucla.edu). Additionally, the instructor is available office hours or by appointment if there is anything you would like to discuss in private.
+
+# Classroom environment
+
+We all have a responsibility to ensure that every member of the class feels valued and safe. Be mindful that our words and body language affects others in ways we might not fully understand. We have a responsibility to express our ideas in a way that doesn't make disparaging generalizations and doesn't make people feel excluded. As an instructor, I am responsible for setting an example through my own conduct.
+
+Learning organizational theory can be hard, especially when reading dense articles from sociology or org theory journals. I struggled with much of the material when I was first introduced to it. Usually, I still struggle! It is important for all of us to help create an environment where students feel safe asking questions about what ideas/concepts they struggled with. This is how we learn.
+
+## Towards an anti-racist, anti-heteronormative learning experience
+
+The "canon" of organizational theory is dominated by old/dead heterosexual white men. Given that org theory is concerned with how people navigate and change organizations, the canon is unaware that assumptions about agency/power that they take as given, are actually only given to white men. Furthermore, the practical advice that extends from these theories is often good advice for heterosexual white men but bad advice for everyone else! Organizational theory is beginning to move in a more critical direction, especially since publication of Victor Ray's [A Theory of Racialized Organizations](https://journals.sagepub.com/doi/full/10.1177/0003122418822335), but this transformation is still in early stages.
+
+I struggle greatly with the dilemma of a largely white male canon. Here is how I approach it
+
+- Be honest that I am teaching theories from a largely white male canon.
+- Be selective about which theories from this canon that we learn, choosing only those that I think are most valuable
+- Encourage students to be critical of the theories we learn, to consider which elements of the theory only apply to certain groups
+- Look for opportunities to replace white male canon, with theories/scholarship that problematize "normal" and centralizes race
+- As instructor, encourage new ideas/readings from students as a learning opportunity for me; most of the changes in course topics I have made over the years are based on suggestions from students
+
+# Course readings
+
+Course topics and all required/optional readings for each week will be listed on the [course website](https://anyone-can-cook.github.io/orgs_class/).
+
+This course is reading intensive. There will generally four -- often dense  -- required readings per week. Typically, this will amount to about 90 - 100 pages of required reading each week.
+
+
+
+**Required books** (any edition fine)
+
+- Pfeffer, J., & Salancik, G. R. (1978). _The external control of organizations: A resource dependence perspective_. New York: Harper & Row.
+- Benjamin, R. (2019). _Race after technology: Abolitionist tools for the new Jim code_. Medford, MA: Polity.
+
+**Optional books**
+
+- Birnbaum, R. (1991). _How colleges work: The cybernetics of academic organization and leadership_. San Francisco: Jossey-Bass.
+- Scott, W. R., & Davis, G. F. (2006). _Organizations and organizing: Rational, natural, and open systems perspectives_. Upper Saddle River, New Jersey: Pearson, Prentice Hall.
+- Brint, S. G., & Karabel, J. (1989). _The diverted dream: community colleges and the promise of educational opportunity in America, 1900-1985_. New York: Oxford University Press. 
+
+# Assignments and grading
+
+**Weekly question/comment on Github** (10%)
+
+- Each week students are required to: post one question or comment about the reading; and, reply to one question/comment posted by a classmate
+  - If something is seems confusing in the readings, many of your classmates feel the same way! so asking a question helps your classmates.
+  - if you have a question make sure to @ozanj so I know to answer it
+- I will try to incorporate these questions/comments into lecture and class activities
+  - (Note: I may not be able to incorporate posts posted night before/morning of class)
+
+**In-Class participation and attendance** (10%)
+
+- Because this course is a seminar, class discussion, participation, and attendance are vitally important.
+- Show up to class on time (me too!)
+- Read all required readings prior to class and be prepared to ask questions about areas of confusion.
+- Be engaged in class discussion. This includes participating, as well as listening to and helping your classmates.
+
+**Student-led activity for theory application** (15%)
+
+
+- Each week, a group of (usually) two students will be responsible for leading a 30-45 minute in-class activity that allows the class to apply the theory from the week’s readings to real-world scenarios and/or research. 
+- The goal of these activities is to move beyond simply learning theory to envisioning how these frameworks emerge in higher education as well as other organizational structures. 
+- Class activities should complement the course lectures and readings as well as engage other organizational theories that we will be learning throughout the quarter.
+- [Guidelines for leading class discussion](https://docs.google.com/document/d/1VCCR2ouyhxK4bFvmKcHpbOQGSS-ou9jruilpMoVYZMk/edit?usp=sharing) document (subject to change at discretion of instructors)
+
+**Mid-quarter essay** (15%)
+
+- An essay of 3-4 pages double-space (excluding references) that answers a question posed by the instructor that requires you to explain theory and apply it to an issue.
+- The purpose of this assignment is to help you prepare for the take-home final in two ways:
+    - Gain familiarity with the sort of essay questions I will ask you to answer for the take-home final
+    - Become familiar with my expectations for writing quality (e.g., organization of ideas, prose, etc.)
+
+**Take-home final exam** (50%)
+
+- The take-home final will be distributed after class on week 10 and it will be due one week later
+- The biggest part of the take-home final will be answering one of two essay questions
+  - (one of which will ask you to think about how to apply organizational theory to a research question you are interested in)
+- The take-home final will assess the following sorts of things:
+    - Demonstrate understanding of core concepts about the theories we learn
+    - Describe important limitations/blind spots of theories we learn
+    - Comparing similarities and differences across theories
+    - Ability to apply different theories to develop insights about a particular issue in higher education
+    - Apply theory to research
+- We will devote class time in the second half of the quarter (including substantial class time in week 10) to preparing for the take-home final.
+
+## Grading policy
+
+**Attendance**
+
+- If you cannot attend class in person because of extenuating circumstances, please contact me before class and try to attend class via zoom
+  - Camera angles may be not worthy of an Oscar!
+- Each unexcused absence results in a loss of 2% from your overall grade for the course. Two or more unexcused absence will result in a failing grade for the course. An excused absence is a professional opportunity or religious holy day that you discuss with me beforehand or a medical or family emergency. Excused absences will not result in a loss of attendance points. However, you will be responsible for all material covered in that class.
+- Please show up to class on time (instructor too!).
+
+**Guidelines for written work**
+
+- Use APA style. Written assignments should have 1 inch margins, double spacing, size 11 or 12 font.
+- Late assignments will lose 10% for the first day late and an additional 10% for each week late. Assignments that are late due to medical or family emergencies will not receive a deduction in points. Contact me as soon as possible. If the reason is legitimate, I will be understanding and accommodating.
+
+## Grading scale
+
+```{r echo=FALSE, message=FALSE}
+lg <- c("A", "A-", "B+", "B", "B-", "C+", "C", "C-")
+nv <- c("93+%", "90<93%", "87<90%", "83<87%", "80<83%", "77<80%", "73<77%", "70<73%")
+
+grade <- tibble(lg, nv)
+
+kable(grade,col.names = c("Letter Grade", "Percentage"), escape = T) %>%
+  kable_styling(bootstrap_options = c("striped", "hover", "condensed", "responsive"), full_width = F, position = "left")
+```
+
+# Course policies
+
+<!-- your comment
+
+## Zoom guidelines
+
+All synchronous class sessions will be held online, via Zoom. Below, we have outlined some general guidelines about Zoom learning. As we continue learning together, we can add to and change the below list. I'm open to your feedback and your experiences as we continue to learn how to learn via Zoom.  
+
+- **Video**: We will not require students to turn on their video during synchronous lectures. We encourage students to turn on their video only if they feel comfortable doing so -- particularly during small group breakout rooms.  
+- **Audio**: We ask students to mute their microphones when they are not speaking. We encourage the use of earphones or headphones if you are in a space with background noise.  
+- **Zoom outage**: In the unlikely event that Zoom is down, the instructors will email the class with instruction for completing the class section in an asynchronous manner. Therefore, if Zoom is not functioning properly during the class period, be sure to check your email often.  
+- **Internet connectivity**: We understand that having access to a stable internet connection and/or electronic equipment is a privilege. With that in mind, we want to provide a space where everyone has the resources they need to do well in the class. If you have any issues with your internet connection and/or don't have access to electronic equipment, please reach out to the instructors.   
+
+ -->
+
+## Academic accomodations
+
+**Center for Accessible Education**  
+
+Students needing academic accommodations based on a disability should contact the Center for Accessible Education (CAE). When possible, students should contact the CAE within the first two weeks of the term as reasonable notice is needed to coordinate accommodations. For more information visit https://www.cae.ucla.edu/.
+
+Located in A255 Murphy Hall: (310) 825-1501, TDD (310) 206-6083; http://www.cae.ucla.edu/
+
+-	CAE counselor, resources, and services are still available via email / virtual appointment
+-	Stay up-to-date with CAE newsletters & announcements at https://www.cae.ucla.edu/announcements-events/student
+
+## Academic integrity
+
+__UCLA policy__  
+
+  - UCLA is a community of scholars. In this community, all members including faculty, staff and students alike are responsible for maintaining standards of academic honesty. As a student and member of the University community, you are here to get an education and are, therefore, expected to demonstrate integrity in your academic endeavors. You are evaluated on your own merits. Cheating, plagiarism, collaborative work, multiple submissions without the permission of the professor, or other kinds of academic dishonesty are considered unacceptable behavior and will result in formal disciplinary proceedings.  
+  
+__This class__  
+
+  - Given that much of the grade for this course depends on the take-home final, take steps to avoid accidental plagiarism. Make sure you cite your sources and use quotation marks when you are explicitly copying text from another author. It can be easy to accidentally plagiarize when you are summarizing the work of another scholar. So when you are taking notes on a paper, make sure to put everything in your own words or put copied text in quotation marks.
+
+# Campus resources
+
+
+## Counseling and Psychological Services (CAPS)
+
+As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, depression, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce a student's ability to participate in daily activities. UC offers services to assist you with addressing these and other concerns you may be experiencing. If you or someone you know are suffering from any of the aforementioned conditions, consider utilizing the confidential mental health services available on campus.
+
+Students in distress may speak directly with a counselor 24/7 at (310) 825-0768, or may call 911; located in Wooden Center West; https://www.caps.ucla.edu
+
+-	CAPS is open and has transitioned to Telehealth services ONLY
+-	Open Mon – Thurs: 8am-6pm and Fri: 8am-5pm
+-	As always, 24/7 crisis support is always available by phone at (310) 825-0768
+
+
+## Discrimination
+
+UCLA is committed to maintaining a campus community that provides the stronget possible support for the intellectual and personal growth of all its members- students, faculty, and staff. Acts intended to create a hostile climate are unacceptable.  
+
+  - To file an online incident report, visit: https://equity.ucla.edu/report-an-incident/  
+
+
+## LGBTQ resource center
+
+The LGBTQ resource center provides a range of education and advocacy services supporting intersectional identity development. It fosters unity; wellness; and an open, safe, inclusive environment for lesbian, gay, bisexual, intersex, transgender, queer, asexual, questioning, and same-gender-loving students, their families, and the entire campus community. Find it in the Student Activities Center, or via email lgbt\@lgbt.ucla.edu.  
+
+  - Visit their website for more information: https://www.lgbt.ucla.edu/ and virtual upcoming events
+
+## International students
+
+The Dashew Center provides a range of programs to promote cross-cultural learning, language improvement, and cultural adjustment. Their programs include trips in the LA area, performances, and on-campus events and workshops.  
+
+  -	Due to COVID-19, the Dashew Center has transitioned its operations to a remote setting
+  - Visit their website for more information: https://www.internationalcenter.ucla.edu/  
+  - For COVID updates, visit https://www.internationalcenter.ucla.edu/covid-19-updates
+
+## UCLA Undocumented Student Program
+
+This program provides a safe space for undergraduate and graduate undocument students. USP supports the UndocuBruin community through personalized services and resources, programs, and workshops.  
+
+  - Visit their website for more information: https://www.usp.ucla.edu/  
+  - You can reach USP at usp@saonet.ucla.edu
+
+## Student legal services
+
+UCLA Student Legal Services provides a range of legal support to all registered and enrolled UCLA students. Some of their services include:  
+
+  - Landlord/Tenant Relations (Including challenges during COVID)
+  - Accident and Injury Problems
+  - Domestic Violence and Harassment
+  - Divorces and Other Family Law Matter  
+
+Due to COVID, Student legal Services is closed to walk-ins.  
+
+  - All services are by appointment only
+  - For more information visit their website: http://www.studentlegal.ucla.edu/index.php  
+  
+
+## Students with Dependents
+
+UCLA Students with Dependents provides support to UCLA studens who are parents, guardians, and caregivers. Some of their services include:  
+
+- Information, referrals, and support to navigate UCLA (childcare, family housing, financial aid)
+- Access to information about resources within the larger community
+- On-site application and verification for CalFresh (food stamps) & MediCal and assistance with Cal Works/GAIN
+- A quiet study space
+- Family friendly graduation celebration in June  
+
+For more information visit their website: https://www.swd.ucla.edu/
+
+## Campus maps 
+
+**Lactation Rooms** 
+
+- [Map to lactation rooms on campus](https://ucla.app.box.com/v/2019-lactation-map)  
+
+**Gender Inclusive restrooms**  
+
+- [Map to gender inclusive restrooms](https://www.lgbt.ucla.edu/Portals/38/Documents/GIRR%20Map%2007-2019%20Compressed.pdf)  
+
+**Campus accessibility**  
+
+- [Campus accessibility map](http://map.ucla.edu/downloads/pdf/Access_08_21_15.pdf)
+
+
+## Title IX Resources
+
+Title IX prohibits gender discrimination, including sexual harassment, domestic and dating violence, sexual assault, and stalking.  If you have experienced sexual harassment or sexual violence, there are a variety of resources to assist you.  
+
+- __CONFIDENTIAL RESOURCES__:You can receive confidential support and advocacy at the CARE Advocacy Office for Sexual and Gender-Based Violence, A233 Murphy Hall, CAREadvocate\@careprogram.ucla.edu, (310) 206-2465. Counseling and Psychological Services (CAPS) also provides confidential counseling to all students and can be reached 24/7 at (310) 825-0768.  
+
+- __NON-CONFIDENTIAL RESOURCES__: You can also report sexual violence or sexual harassment directly to the University's Title IX Coordinator, 2255 Murphy Hall, titleix\@conet.ucla.edu, (310) 206-3417. Reports to law enforcement can be made to UCPD at (310) 825-1491. These offices may be required to pursue an official investigation.
+
+*Faculty and TAs are required under the UC Policy on Sexual Violence and Sexual Harassment to inform the Title IX Coordinator should they become aware that you or any other student has experienced sexual violence or sexual harassment.*  

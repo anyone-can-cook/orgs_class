@@ -47,8 +47,8 @@ csl: ../lectures/apa.csl
 
 **Concepts**
 
-<!--  
 1 point each; 25 points total
+
 1. __*Norms*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
 1. __*Organizational norms*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
 1. __*Strong organizational culture*__ (from 20th Century sociology [e.g., @RN4310; @RN536])
@@ -61,9 +61,6 @@ csl: ../lectures/apa.csl
 1. __*Institutionalization*__ (new institutionalism)
 1. __*Buffering*__ (from contingency theory; see lecture slides because no reading assigned on contingency theory)
 1. __*Tight coupling vs. loose coupling*__
-
--->
-
 1. __*Decoupling*__
 1. __*“Solutions looking for problems”*__
 1. __*Dependence*__ (either Emerson or Pfeffer and Salancik)
