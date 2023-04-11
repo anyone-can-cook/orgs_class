@@ -54,9 +54,9 @@ Historical analysis
 Control in "traditional" vs. modern/contemporary society
 
 - "Traditional" times
-  - torture was very public, with goal of leaving violent imprint on the mind of onlookers
+  - torture was very public, with goal of leaving violent imprint on the mind of onlookers (this is overt display of power)
 - Modern/contemporary society
-  - control happens through creating the idea of "normality"
+  - control happens through creating the idea of "normality" (postmodern conception of power)
   - "human sciences"
     - develop foundations of knowledge that enable things to be categorized as normal or not
     - disciplinary/professional knowledge defines what is good/bad, what is sane/crazy, what counts as evidence
@@ -110,7 +110,8 @@ conceptions of normal, this critique gives liberation.
 When one discourse overtakes another discourse
 
 - Disciplines, professional societies "turn" from one set of assumptions/beliefs to another, often because an organized coalition of actors engage in a successful coup of the dominant canon
-  - the new discourse was motivated by a critique of the domination/violence from the previously ascendant discourse, - For Foucault, the replacing of one discourse is neither good nor bad
+  - the new discourse was motivated by a critique of the domination/violence from the previously ascendant discourse, 
+  - For Foucault, the replacing of one discourse is neither good nor bad
   - new discourse re-defines what is true, what is valued, what is normal/deviant
   - newly ascendant discourse values some devalues others in different ways such that "others" (whoever defined as deviant, not important) continue to be excluded
   
@@ -176,7 +177,7 @@ Panopticon and carceral society
   - Bentham (1748-1832) was an "English philosopher, jurist, and social reformer regarded as the founder of modern utilitarianism" [wikipedia](https://en.wikipedia.org/wiki/Jeremy_Bentham)
 - Bentham's 19th Century prison reforms, _The Panopticon_, as quoted from @felluga_2011:
 
-  >  Bentham argued in The "Panopticon" that the perfect prison would be structured in a such a way that cells would be open to a central tower. In the model, individuals in the cells do not interact with each other and are constantly confronted by the panoptic tower (pan=all; optic=seeing). They cannot, however, see when there is a person in the tower; they must believe that they could be watched at any moment
+  >  Bentham argued in The "Panopticon" that the perfect prison would be structured in such a way that cells would be open to a central tower. In the model, individuals in the cells do not interact with each other and are constantly confronted by the panoptic tower (pan=all; optic=seeing). They cannot, however, see when there is a person in the tower; they must believe that they could be watched at any moment
 
   > "The inmate must never know whether he is being looked at at any one moment; but he must be sure that he may always be so" [@RN1230, p. 201].
 
@@ -191,7 +192,7 @@ Panopticon and carceral society
 - Normativity and self-regulation
   - The knowledge-power discourses of professions and academic disciplines defines what is normal and abnormal
   - In combination with constant surveillance/panopticon, people learn to self-regulate according to how these discourses define normal/abnormal
-  - Not only do people stop defying these definitions of normality, it defiance does not occur to them because they have internalized the socially constructed logic of the discourse as self-evident, universal truth
+  - Not only do people stop defying these definitions of normality, defiance does not occur to them because they have internalized the socially constructed logic of the discourse as self-evident, universal truth
 
 <br>
 Comparison to three types of power by Steven Lukes [@RN4767]
@@ -263,7 +264,7 @@ ethnicity, class, and able-bodiedness invariably close with an embarrassed ‘et
 
 A question I find very puzzling!!!: Are Queer Theory and intersectionality fundamentally at odds?
 
-- Intersectionality is focuses on oppression that results from  belonging to the oppressed group in multiple categories of social identity
+- Intersectionality focuses on oppression that results from  belonging to the oppressed group in multiple categories of social identity
 - Queer Theory focuses on problematizing/rejecting categories of social identity precisely because these categories are defined in a way that does violence to people that do not belong to the privileged group
 
 
