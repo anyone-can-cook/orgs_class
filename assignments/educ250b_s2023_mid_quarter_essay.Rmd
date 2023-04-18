@@ -1,0 +1,82 @@
+---
+title: "Mid-quarter essay prompt"
+subtitle: "EDUC 250B, Spring 2023"
+author: 
+date: 
+urlcolor: blue
+output: 
+  # pdf_document
+  # word_document:
+  #   toc: no
+  #   toc_depth: '3'
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+    fig_caption: true
+    highlight: tango
+    theme: default
+    df_print: tibble
+bibliography: ../lectures/educ250_bib.bib
+csl: ../lectures/apa.csl
+---
+
+# Essay prompt
+
+<br>
+
+[EAB](https://eab.com/) is an education technology and consulting firm that focuses on "enrollment management" in higher education. @list_biz describe recent moves by EAB to become a player the "student list" business. However, EAB operates in many areas, including recruitment, tuition pricing, financial aid, student success, institutional strategy, and DEI, amongst others.
+
+Your task is to use resource dependence theory to analyze one area of EAB's business. You may define this area narrowly, like "direct admissions," or more broadly like "undergraduate recruitment." Your essay should do the following things in some order: 
+
+- Define core concepts and explain core ideas of resource dependence theory (RDT)
+- Provide succinct background on what EAB is doing in this area
+- Apply concepts from RDT to analyze what EAB is doing in this area, for instance:
+  - Why are colleges dependent on services provided by EAB in this area
+  - Analyze the rationale for recent moves that EAB has made in this area
+  - Analyze the internal or external resources that EAB depends on in this area
+- Imagine that you work at an education policy think-tank (e.g., [The Century Foundation](https://tcf.org/)) that is concerned about EAB's operations in this area. Drawing from RDT, what actions can you take to attack EAB's operations in this area.
+
+<br>
+
+# General guidelines/recommendations
+
+- Essay assigned on 4/19/2023 [week 3 class] and is due before class on 5/3/2023 [week 5 class]
+- Essay is worth 15% of your grade for the quarter
+- Submit essay [here](https://ucla.box.com/s/bpvm0px29093dr9twh7r6mlcd4trf5wh)
+- Essay should be not less than three pages and not more than four pages double space (excluding references) , size 11 or 12 font, one inch margins all around
+- When I assign questions like this I want your essay to do three basic things in some order: define theory; introduce empirical context of the case; apply theory to the case
+  - Define theory and key concepts of theory (like 2-4 paragraphs)
+    - Includes brief, broad overview of theory you are using
+    - Go more in depth introducing key concepts of the theory that you will apply to the case
+  - Introduce relevant "empirical context" of the "case" (usually one or two paragraphs)
+    - Background information for reader who is unfamiliar to the case
+    - Provide more detail about parts of the case that you will apply theory/concepts to
+  - Apply theory/concepts to the case
+    - Show the reader how general concepts from the theory apply to your case
+    - Since a theory tends to care about particular things, applying a theory to a case compels you to focus on particular aspects of the case
+    - Hopefully, explaining the case in terms of concepts from theory  yields insights about the case that would not emerge in the absence of theory
+- Finding focus within an issue/area
+  - The issue you choose may be a big issue, with a lot of different aspects, and there are lots of different directions you could go in terms of analyzing the issue using RDT
+  - Don't try to go in all these different directions!
+  - Rather, focus on a small number of aspects that can be usefully analyzed using RDT and try to go deep on those aspects
+  - RDT is about power dynamics between actors (actors between and within organizations) and thinks about power dynamics in terms of what does an actor want (goals) that is controlled by another actor. 
+    - So choose some aspect(s) of the issue that highlight relationships between different sets of actors
+- Happy to make an appointment with you to discuss your essay
+  - Prior to the meeting, try to prepare a rough outline for your essay. This will make our conversation more productive
+
+# Writing expectations
+
+- Create an outline to develop logical flow of ideas/argument
+- Aim for clear, simple prose that is easy for reader to follow
+- Each paragraph should be about one idea/topic (could be big or small)
+- First sentence ["topic sentence"] of paragraph tells reader what paragraph is
+about
+- Subsequent sentences flesh out the idea of topic sentence, develop logical
+argument and/or empirical evidence
+- Follow APA style
+  - Use citations when appropriate
+  -	Any verbatim text from another source __MUST__ be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the assignment
+
+<br>

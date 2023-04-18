@@ -3,8 +3,8 @@ title: "Resource Dependence Theory Part I, Emerson's Theory of Power"
 author: "Ozan Jaquette"
 date: "null"
 output:
-  slidy_presentation:
-    highlight: tango
+  #slidy_presentation:
+  #  highlight: tango
   beamer_presentation:
     keep_tex: no
     toc: no
@@ -133,33 +133,6 @@ Example: $A$ is professor who wants research funding; $B$ is foundation that fun
 Analyze this: student $A$ needs recommendation to obtain job; $B$ is professor who can write recommmendation
 
 
-### Core concepts: power
-
-Definition: __Power of actor $B$ upon actor $A$ ($Pba$)__ is:
-    
-- Emerson: 
-    - The power of actor $B$ over actor $A$ is the amount of resistance on the part of $A$ which can be potentially overcome by $B$
-- Said differently, $B$ is powerful over $A$ if:
-    - $B$ makes some demand on $A$, and satisfying this demand runs counter to the interests of $A$, and $A$ cannot resist satisfying this demand (because $A$ is dependent on $B$ for some goal that $A$ values)
-
-\medskip
-Some reflections:
-
-- Note that the power of $B$ over $A$ is a function of how __dependent__ $A$ is on $B$ (i.e., $B$ controls goals that $A$ wants and cannot get from other actors)
-
-\medskip
-Hypothetical example: it's saturday night
-
-- Actors:
-    - You (actor $A$) are a student; have a great saturday night lined up
-    - Actor $B$ is your boss and actor $C$ is your academic advisor (two different people)
-- Scenario:
-    - You get a text from your boss ($B$) asking you to do a task that takes all Saturday night to complete
-    - You also get text from your academic avisor ($C$) asking you to do task that takes all Saturday night to complete
-- Questions:
-    - (According to @RN960), what factors influence how you ($A$) respond?
-    - Does actor $B$ or actor $C$ have more power over you ($A$)?
-
 ### Core concepts: power-dependence relationship equation
 
 $Pba = Dab$
@@ -183,6 +156,26 @@ Hypothetical example: Imagine you (actor $A$) are research analyst working at a 
 - Anecdote: my first job as research analyst at Abt Associates
 Actor $A$ is worker; actor $B$ is manager
 
+### Core concepts: power
+
+Some reflections:
+
+- Note that the power of $B$ over $A$ is a function of how __dependent__ $A$ is on $B$ (i.e., $B$ controls goals that $A$ wants and cannot get from other actors)
+
+\medskip
+Hypothetical example: it's saturday night
+
+- Actors:
+    - You (actor $A$) are a student; have a great saturday night lined up
+    - Actor $B$ is your boss and actor $C$ is your academic advisor (two different people)
+- Scenario:
+    - You get a text from your boss ($B$) asking you to do a task that takes all Saturday night to complete
+    - You also get text from your academic avisor ($C$) asking you to do task that takes all Saturday night to complete
+- Questions:
+    - (According to @RN960), what factors influence how you ($A$) respond?
+    - Does actor $B$ or actor $C$ have more power over you ($A$)?
+    
+    
 ### Balance and imbalance in power-dependence relationships
 
 @RN960, p. 33: 
@@ -231,7 +224,7 @@ __Unbalanced relationship__
 1. __Balancing operations__
     - structural changes in power-dependence relations to reduce power advantage
     - i.e., things you can do if you are in power disadvantage in some relationship
-    - I believe in punching the bully in the mouth by using the right balancing operation
+
 
 ## @RN960, Balancing operations
 
@@ -328,13 +321,13 @@ Example of extending the power network from Jim Crow laws
 
 \medskip
 
-Scenario: $B$ and $C$ are African Americans; $A$ is orange plantation they work on
+Scenario: $B$ and $C$ are Black workers; $A$ is orange plantation they work on
 
 - Jim Crow laws make it difficult for $B$ and $C$ to make a living by owning a farm or by working in different occupations
 - Therefore, big farm $A$ pays $B$ and $C$ low wages, because they have no other options
 
 \medskip
-Lengthening network: $B$ pays $C$ find alternative ways to make a living besides working for orange plantation $A$
+Lengthening network: $B$ and $C$ find alternative ways to make a living besides working for orange plantation $A$ (e.g., options $D$ and $E$)
 
 - Potential examples of lengthening network
     - $B$ and $C$ allowed to work for different employers in different jobs __OR__
@@ -438,7 +431,6 @@ After each of you choose a relationship, discuss the following:
     - (1) the generic "balancing operation" as described by @RN960
     - (2) the particular action you could take that is a concrete example of the generic balancing operation
 - Which of these potential actions would be the best approach and why
-- [OPTIONAL] Discuss any concerns/limitations about Emerson's analysis of power or recommendations that might cause your plan of action to backfire
     
 # @RN959, chapters 2 and 3
 
@@ -480,7 +472,7 @@ Organizational actions and organizational decisions
 
 - orgs composed of coalitions, defined as “multiple groups of individuals pursuing similar interests”
     - Each group attempts to imporse its preferences (goals) on the larger system
-- Groups seek out other groups with compatable interests to be allies; give “side payment” io other groups for payment
+- Groups seek out other groups with compatable interests to be allies; can give “side payment” to other groups for going along
 -	Dominant coalition is composed of each group whose interests must be taken into account when determining org decisions
     - but some groups within the dominant coalition may have more say than others
 
