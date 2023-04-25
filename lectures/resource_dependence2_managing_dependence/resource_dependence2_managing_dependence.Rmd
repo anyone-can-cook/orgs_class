@@ -237,6 +237,7 @@ Two broad types of alternative resources:
 
 - Find __alternative sources of supply__ of same resource
     - e.g., University relies on technology company to create online courses; if tech company now demands that it "owns" intellectual property of these courses, solution is to find different tech company
+    - With respect to @RN959, when actor $B$ depends on actor $A$, this is "extending the power network" to find alternative providers of the same resource provided by $A$    
 - __Resource diversification__ such that org less reliant on particular resource
     - "Given that the organization’s vulnerabilities derives from dependence on single exchanges, the most direct solution is to develop an organization which is dependent on a variety of exchanges and less dependent on any single exchange" [@RN959, p. 109]
     - e.g., University depends on state appropriations, but state funding declines or state makes additional performance demands, university can diversify revenue sources by growing nonresident enrollment or finding big donors
@@ -266,7 +267,8 @@ Imagine that federal research funding dries up and won't come back
 Change in resource providers leads to change in organizational mission
 
 - Orgs more sensitive to demands of new external resource providers (e.g., donors; affluent, high-achieving students)
-- Internal actors most responsible for obtaining resources from these new providers now have more say in org mission     - These actors may have different values than previously powerful internal actors
+- Internal actors most responsible for obtaining resources from these new providers now have more say in org mission
+  - These actors may have different values than previously powerful internal actors
 
 ## Mergers/acquisitions to reduce dependence on external org (chapter 6)
 
@@ -292,14 +294,16 @@ The merger solution
 __Vertical integration__ [buying suppliers and distributors]
 
 - buying upstream and downstream represents a method of "extending organizational control over exchanges vital to its operation.”
-- e.g., Purdue University buys tech firm to produce own online courses
+  - e.g., Purdue University buys tech firm to produce own online courses so it doesn't have to pay third-party vendor to make online courses
+- Note: an alternative to acquisition is to develop these capacities internally
 
 \medskip
 
 __horizontal expansion__ [buying competitors] 
 
-- method for attaining dominance in particular market to increase the organization’s power in exchange relationships and to reduce uncertainty generated from competition”
-- e.g., for-profit colleges buy competitors that operate in same geographic area
+- why? potential customers become more dependent on your firm for that thing you do because there are now fewer alternative providers
+- why? to reduce uncertainty generated from competition
+- e.g., enrollment management (EM) consulting firm buys another EM consulting firm
 
 \medskip
 __diversification/conglomeration__ merger
