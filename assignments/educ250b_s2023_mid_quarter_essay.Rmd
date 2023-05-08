@@ -44,7 +44,8 @@ Your task is to use resource dependence theory to analyze one area of EAB's busi
 
 - Essay assigned on 4/19/2023 [week 3 class] and is due before class on 5/3/2023 [week 5 class]
 - Essay is worth 15% of your grade for the quarter
-- Submit essay [here](https://ucla.box.com/s/bpvm0px29093dr9twh7r6mlcd4trf5wh)
+<!-- - Submit essay [here](https://ucla.box.com/s/bpvm0px29093dr9twh7r6mlcd4trf5wh) -->
+- Submit essay [here](https://ucla.app.box.com/f/7b1bbd83d25348b28139d6a473ae786d)
 - Essay should be not less than three pages and not more than four pages double space (excluding references) , size 11 or 12 font, one inch margins all around
 - When I assign questions like this I want your essay to do three basic things in some order: define theory; introduce empirical context of the case; apply theory to the case
   - Define theory and key concepts of theory (like 2-4 paragraphs)
@@ -80,3 +81,4 @@ argument and/or empirical evidence
   -	Any verbatim text from another source __MUST__ be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the assignment
 
 <br>
+
