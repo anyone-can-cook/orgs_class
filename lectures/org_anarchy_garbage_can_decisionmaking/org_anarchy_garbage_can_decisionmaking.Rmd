@@ -7,8 +7,8 @@ classoption: dvipsnames  # for colors
 fontsize: 8pt
 urlcolor: blue
 output:
-  slidy_presentation:
-    highlight: tango
+  #slidy_presentation:
+  #  highlight: tango
   beamer_presentation:
     keep_tex: false
     toc: false
@@ -328,24 +328,28 @@ issue/choice opportunity
 
 \medskip
 
-Example choice opportunity: who teaches required undergrad methods courses
+Example choice opportunity: revising phd 299 sequence
 
-- Problem
-    - Undergrad major plan approved by Academic Senate proposed 2-3 basic methods courses undergrads must complete
-    - But not a lot of faculty interested in teaching "inquiry" (i.e., methods) courses
-- Solution
-    - Require all faculty to teach 1 undergrad course; convince some to teach methods
-- Participants (Ozan)
-    - Ozan could teach intro stats or other quant methods courses
-    - But Ozan is a crazy zealot who only cares about reforming graduate methods training and developing a "data science using R" sequence
-        - He views this as "solution" to "problem" of improving research training for grad students
-    - Wants to teach his "intro to programming using R" course as undergrad elective
-- Garbage can
-    - Simple choice opportunity of who teaches intro stats course becomes complicated because other participants attach their problems/solutions to this choice
+- each "division" in dept of education teaches separate 3-course 299 sequence
+- Problems
+  - students unhappy with quality of training
+  - faculty capacity problems: faculty departures; faculty must teach in undergrad major
+  - with more expensive GSR/TA contracts, future decline in Phd students
+  - faculty concerned that 299 dominated by qual methods sequence
+- Participants
+  - faculty, students, department head, division heads
+- Solutions
+    - develop department-wide 299 sequence
+    - allow RAC to satisfy 299 sequence (Mitch!)
+- Choice opportunity: department head must make a decision about future of 299
+  - the garbage can is all the problems, participants, and solutions that attach themselves to the decision about 299
+  
 
 ### Garbage can example from Birnbaum
 
-__Decision__: president decides whether to approve to faculty positions for school of business in next year’s budget
+__Decision/choice opportunity__: president decides whether to approve to faculty positions for school of business in next year’s budget
+
+- garbage can = problems, solutions, participants that become attached to decision
 
 __Problems__
 
@@ -355,7 +359,7 @@ __Problems__
 
 __Solutions__
 
-- Deans of high-enrollment colleges say colleges w/ high enrollment should be given preference
+- Deans of high-enrollment colleges demand high enrollment colleges get hires
 - Some say problem is need better faculty training, support
 - Some say problem is need better data to inform faculty hiring, so we need better management information system
 
@@ -405,7 +409,7 @@ __Decision made by resolution__
 __Decision made by oversight__ (think executive order)
 
 - "A decision by oversight is one made quickly so that people and problems busy in other arenas have no time to get involved in the decision"
-- Common when an administrator can push things through via "executive order"; usually not possible for decisions that require vote or formal approval by multiple parties
+- Common when an administrator can push things through via "executive order"; usually not possible for [big] decisions that require vote or formal approval by multiple parties
 
 
 ### Three decision styles related to garbage-can decision-making
@@ -471,6 +475,7 @@ Basic rules for actors seeking to influence course of decisions
     - Instead of making big sweeping visible changes, focus on small unobtrusive changes that have large effects without generating opposition
 - __Interpret history__
     - Interpret history/events of org in a way that reinforces support for initiatives you are currently interested in
+    - this is similar to the idea of "theorizing change" in @RN524 
 
 ### Strategies for agents of change who are not formal leaders of org
 
