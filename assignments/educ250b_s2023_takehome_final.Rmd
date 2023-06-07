@@ -6,13 +6,13 @@ date:
 urlcolor: blue
 output: 
   #pdf_document:
-  #word_document:
-  #  toc: false
-  #   number_sections: true
-  #   toc_depth: '3'
-  html_document:
+  word_document:
     toc: false
-    number_sections: true    
+    number_sections: true
+  #   toc_depth: '3'
+  #html_document:
+  #  toc: false
+  #  number_sections: true    
   #  toc_depth: 3
   #  toc_float: true
   #  fig_caption: true
@@ -27,7 +27,7 @@ csl: ../lectures/apa.csl
 
 
 - Due Wednesday 6/14/2023 at ll:59pm
-- Submit completed final exam here: [LINK](https://ucla.app.box.com/folder/211352020589)
+- Submit completed final exam here: [LINK](https://ucla.app.box.com/f/a3544448b63846eb8d5914c97d7892c8)
   - **Note**: If clicking on the link above does not work for you, you may need to paste the URL above directly into your browser
 
 
