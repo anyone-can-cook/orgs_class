@@ -53,7 +53,9 @@ kable(info,col.names = c("", ""), escape = T) %>%
 - Pronouns: he/him/his
 - Email: [nlbynum@ucla.edu](nlbynum@ucla.edu)
 - Office hours:
-  - TBD
+  - Drop-in office hours in person: 11-1 Thursdays in Moore Hall A036
+  - and Zoom appointments by email (will send calendar invite w/ Zoom link to confirm)
+
   
 # Course description
 
