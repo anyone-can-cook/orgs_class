@@ -1,0 +1,82 @@
+---
+title: "Mid-quarter essay prompt"
+subtitle: "EDUC 250B, Spring 2024"
+author: 
+date: 
+urlcolor: blue
+output: 
+  # pdf_document
+  # word_document:
+  #   toc: no
+  #   toc_depth: '3'
+  html_document:
+    toc: true
+    toc_depth: 3
+    toc_float: true
+    number_sections: true
+    fig_caption: true
+    highlight: tango
+    theme: default
+    df_print: tibble
+bibliography: ../lectures/educ250_bib.bib
+csl: ../lectures/apa.csl
+---
+
+# Essay prompt
+
+<br>
+
+Your task is to use resource dependence theory to analyze an issue you read about in the news or on an organization's website (e.g., a public relations announcement). Potential sources include, [The Chronicle of HIgher Education](https://www.chronicle.com/), [Inside Higher Ed](https://www.insidehighered.com/), [Daily Bruin](https://dailybruin.com/). Your essay should do the following things in some order: define core concepts and explain core ideas of resource dependence theory (RDT); introduce the issue you will analyze and provide background about those aspects of the issue you will analyze using RDT; apply concepts/ideas from resource dependence theory to analyze your chosen slice of the issue; discuss the limitations of RDT for analyzing the issue and how these limitations might be overcome by incorporating an alternative perspective. Ideally, your essay should use RDT to describe the problem/tensions involved and to provide insights about how to solve the problem.
+
+- Example topics from news stories: 
+  - State is pressuring campus to eliminate DEI efforts
+  - A university is deciding whether to return to requiring SAT/ACT for admissions
+  - Pamona College administrators trying to deicde how to respond to pro-Palestine protests; or pro-Palestine protestors trying to decide how to engage administrators
+  - A university faces pressure by an external group to fire a professor (or a president) over alleged plagiarism
+  
+
+<br>
+
+# General guidelines/recommendations
+
+- Essay assigned on 4/17/2024 [week 3 class] and is due before class on 5/1/2024 [week 5 class]
+- Essay is worth 15% of your grade for the quarter
+<!-- - Submit essay [here](https://ucla.box.com/s/bpvm0px29093dr9twh7r6mlcd4trf5wh) -->
+- Submit essay [here](https://ucla.app.box.com/f/7b1bbd83d25348b28139d6a473ae786d)
+- Essay should be not less than three pages and not more than four pages double space (excluding references) , size 11 or 12 font, one inch margins all around
+- When I assign questions like this I want your essay to do three basic things in some order: define theory; introduce empirical context of the case; apply theory to the case
+  - Define theory and key concepts of theory (like 2-4 paragraphs)
+    - Includes brief, broad overview of theory you are using
+    - Go more in depth introducing key concepts of the theory that you will apply to the case
+  - Introduce relevant "empirical context" of the "case" (usually one or two paragraphs)
+    - Background information for reader who is unfamiliar to the case
+    - Provide more detail about parts of the case that you will apply theory/concepts to
+    - Often useful to identify the important actors involved and perhaps write the essay from the perspective of one set of actors
+  - Apply theory/concepts to the case
+    - Show the reader how general concepts from the theory apply to your case
+    - Since a theory tends to care about particular things, applying a theory to a case compels you to focus on particular aspects of the case
+    - Hopefully, explaining the case in terms of concepts from theory  yields insights about the case that would not emerge in the absence of theory
+- Finding focus within an issue/area
+  - The issue you choose may be a big issue, with a lot of different aspects, and there are lots of different directions you could go in terms of analyzing the issue using RDT
+  - Focus on a small number of aspects that can be usefully analyzed using RDT and try to go deep on those aspects
+  - RDT is about power dynamics between actors (actors between and within organizations) and thinks about power dynamics in terms of what does an actor want (goals) that is controlled by another actor. 
+    - So choose some aspect(s) of the issue that highlight relationships between different sets of actors
+- Happy to make an appointment with you to discuss your essay
+  - Prior to the meeting, try to prepare a rough outline for your essay. This will make our conversation more productive
+
+# Writing expectations
+
+- Create an outline to develop logical flow of ideas/argument
+- Aim for clear, simple prose that is easy for reader to follow
+- Each paragraph should be about one idea/topic (could be big or small)
+- First sentence ["topic sentence"] of paragraph tells reader what paragraph is
+about
+- Subsequent sentences flesh out the idea of topic sentence, develop logical
+argument and/or empirical evidence
+- Follow APA style
+  - Use citations when appropriate
+  -	Any verbatim text from another source __MUST__ be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the assignment
+- You can use Chat GPT and similar tools to conduct research, but not to write any text in your essay.
+
+<br>
+
