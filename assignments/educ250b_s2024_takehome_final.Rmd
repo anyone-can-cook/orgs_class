@@ -122,7 +122,7 @@ Answer the following essay prompt. Essay is worth 67 points [sorry not a very ro
 
 - Guidelines
   - Essay should be three to four pages (excluding references) double space, size 11 or 12 font, one inch margins all around
-    - A bit less than three pages is fine, but cannot be longer than four pages
+    - A bit less than three pages is fine, but cannot be longer than five pages
   - Follow APA style
     - Use citations when appropriate
     -	Any verbatim text from another source MUST be cited and quoted; failure to do this will be considered plagiarism and will result in no credit for the essay
