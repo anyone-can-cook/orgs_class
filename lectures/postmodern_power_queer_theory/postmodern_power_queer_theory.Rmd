@@ -77,6 +77,7 @@ Discourse (an essential term developed by Foucault)
 
 - definition
   - "discourse" refers to the rules which allow certain statements to be judged as true or false
+  - for example, can think of "inferential statistics" is one discourse and "CriticalQuant" as a different discourse
 - For Foucault, there are no objective rules to say which statement is better than another; statements are only true within a discourse
   - e.g., submit a journal manuscript to an economics journal, reviewers will evaluate it based on the extent to which it competently defines and utilizes economic theory and method
   - submit the same manuscript to a journal of developmental psychology, it will be evaluated based on extent to which it competently defines and utilizes theory and method from developmental psychology
@@ -164,7 +165,7 @@ On the the Docile Body [@naraghi_2012]
 1. Hierarchical observation
     - "discipline can control the actions of people by just observing them" [@naraghi_2012, p. 3]
     - The ideal disciplinary mechanism makes it possible to surveil/observe the invididual constantly and from all angles
-1. Normalizing judgment
+1. **Norm**alizing judgment
     - "People are judged in relation to others. It produces norms and, consequently, highlights ‘abnormal’ behaviors"  [@naraghi_2012, p. 3]
     - Disciplinary knowlege (here disciplines like psychology, economics) is key to creating norms. Legitimate bodies of discourse that defines normal and abnormal
 1. Examination
